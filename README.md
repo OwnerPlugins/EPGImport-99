@@ -1,16 +1,26 @@
 <h1 align="center">🎬 EPGImport-99 for Enigma2</h1>
 
-[![Version](https://img.shields.io/badge/Version.-1.0-blue.svg)](https://github.com/Belfagor2005/EPGImport-99)
-[![Enigma2](https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg)](https://www.enigma2.net)
-[![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Python package](https://github.com/Belfagor2005/EPGImport-99/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/EPGImport-99/actions/workflows/pylint.yml) 
-
 <p align="center">
+  <a href="https://github.com/Belfagor2005/EPGImport-99">
+    <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
+  </a>
+  <a href="https://www.enigma2.net">
+    <img src="https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg" alt="Enigma2">
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3-blue.svg" alt="Python">
+  </a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License">
+  </a>
+  <a href="https://github.com/Belfagor2005/EPGImport-99/actions/workflows/pylint.yml">
+    <img src="https://github.com/Belfagor2005/EPGImport-99/actions/workflows/pylint.yml/badge.svg" alt="Python package">
+  </a>
   <a href="https://github.com/Belfagor2005">
     <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
   </a>
 </p>
+
 <p align="center">
   <a href="https://ko-fi.com/lululla">
     <img src="https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Donate via Ko-fi">
