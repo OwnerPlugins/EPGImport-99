@@ -24,8 +24,9 @@ msgstr "ప్రదాతని జోడించండి"
 msgid "All services provider"
 msgstr "అన్ని సేవల ప్రదాత"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "అలాగే వర్తించు \\\\\\\\"
+msgstr "అలాగే వర్తించు \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ఆటోమేటెడ్ EPG దిగుమతిదారు"
@@ -54,8 +55,9 @@ msgstr "బాక్స్ డీప్ స్టాండ్‌బైలో ఉ
 msgid "Clear"
 msgstr "క్లియర్"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "సెట్టింగును పరిగణించండి \\\\\\\\"
+msgstr "సెట్టింగును పరిగణించండి \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "డేస్ ప్రొఫైల్"
@@ -72,8 +74,9 @@ msgstr "దిగుమతికి ముందు ప్రస్తుత EPG
 msgid "Delete selected"
 msgstr "ఎంచుకున్న వాటిని తొలగించండి"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "సత్వరమార్గాన్ని ప్రదర్శించు \\\\\\\\"
+msgstr "సత్వరమార్గాన్ని ప్రదర్శించు \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG దిగుమతి"
@@ -192,8 +195,9 @@ msgstr "సెట్టింగ్‌లు విజయవంతంగా స�
 msgid "Shell command name"
 msgstr "షెల్ కమాండ్ పేరు"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "చూపించు \\\\\\\\"
+msgstr "లాగ్ చూపించు"
 
 msgid "Show log"
 msgstr "లాగ్ చూపించు"
@@ -276,8 +280,9 @@ msgstr "ప్రారంభించబడినప్పుడు, మీర�
 msgid "When in deep standby"
 msgstr "లోతైన స్టాండ్‌బైలో ఉన్నప్పుడు"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "బాక్స్ బూట్ అయిన తర్వాత మీరు EPGని దిగుమతి చేయాలని నిర్ణయించుకున్నప్పుడు, \\\\\\\\"
+msgstr "బాక్స్ బూట్ అయిన తర్వాత మీరు EPGని దిగుమతి చేయాలని నిర్ణయించుకున్నప్పుడు, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "మీరు GUIని పునఃప్రారంభించినప్పుడు మీరు EPG డేటా దిగుమతిని దాటవేయాలా వద్దా అని నిర్ణయించుకోవచ్చు."
@@ -294,8 +299,9 @@ msgstr "EPG డేటా రిఫ్రెష్ తర్వాత దాన�
 msgid "always"
 msgstr "ఎల్లప్పుడూ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ఈవెంట్స్\\\\\\\\n"
+msgstr "ఈవెంట్స్\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ఎప్పుడూ"
@@ -315,3 +321,5 @@ msgstr "దిగుమతిని దాటవేయండి"
 msgid "wake up and import"
 msgstr "మేల్కొలపండి మరియు దిగుమతి చేసుకోండి"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "చూపించు \\\\\\\\\\\\\\\\"

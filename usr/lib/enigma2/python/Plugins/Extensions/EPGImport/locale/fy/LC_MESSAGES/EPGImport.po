@@ -24,8 +24,9 @@ msgstr "Oanbieder tafoegje"
 msgid "All services provider"
 msgstr "Alle tsjinsten provider"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "tapasse ek \\\\\\\\"
+msgstr "tapasse ek \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatisearre EPG ymportearje"
@@ -54,8 +55,9 @@ msgstr "Kies de aksje om út te fieren as it fak yn djippe standby is en de auto
 msgid "Clear"
 msgstr "Klear"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Tink oan ynstelling \\\\\\\\"
+msgstr "Tink oan ynstelling \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dagen Profile"
@@ -72,8 +74,9 @@ msgstr "Wiskje aktuele EPG foardat ymportearje"
 msgid "Delete selected"
 msgstr "Selektearre wiskje"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "In fluchtoets sjen litte \\\\\\\\"
+msgstr "In fluchtoets sjen litte \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG Ymportearje"
@@ -192,8 +195,9 @@ msgstr "Ynstellings mei sukses bewarre!"
 msgid "Shell command name"
 msgstr "Shell kommando namme"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "sjen litte \\\\\\\\"
+msgstr "Logboek sjen litte"
 
 msgid "Show log"
 msgstr "Logboek sjen litte"
@@ -276,8 +280,9 @@ msgstr "As it ynskeakele is, kinne jo it winske skript útfiere foardat de ympor
 msgid "When in deep standby"
 msgstr "As yn djippe standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "As jo ​​​​beslute om de EPG te ymportearjen neidat it fak opstart is, neam dan as de \\\\\\\\"
+msgstr "As jo ​​​​beslute om de EPG te ymportearjen neidat it fak opstart is, neam dan as de \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "As jo ​​​​de GUI opnij starte, kinne jo beslute om de ymport fan EPG-gegevens oer te slaan of net."
@@ -294,8 +299,9 @@ msgstr "Jo kinne de plugin AutoTimer automatysk begjinne nei de EPG-gegevensfern
 msgid "always"
 msgstr "altyd"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "eveneminten\\\\\\\\n"
+msgstr "eveneminten\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nea"
@@ -315,3 +321,5 @@ msgstr "oerslaan de ymport"
 msgid "wake up and import"
 msgstr "wekker wurde en ymportearje"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "sjen litte \\\\\\\\\\\\\\\\"

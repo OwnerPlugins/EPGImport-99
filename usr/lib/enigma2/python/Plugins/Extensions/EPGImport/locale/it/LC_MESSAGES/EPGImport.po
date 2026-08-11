@@ -24,8 +24,9 @@ msgstr "Aggiungi fornitore"
 msgid "All services provider"
 msgstr "Fornitore di tutti i servizi"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Applica anche \\\\\\\\"
+msgstr "Applica anche \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importatore EPG automatizzato"
@@ -54,8 +55,9 @@ msgstr "Scegli l'azione da eseguire quando il box è in deep standby e l'aggiorn
 msgid "Clear"
 msgstr "Chiaro"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Considera l'impostazione \\\\\\\\"
+msgstr "Considera l'impostazione \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profilo dei giorni"
@@ -72,8 +74,9 @@ msgstr "Elimina l'EPG corrente prima dell'importazione"
 msgid "Delete selected"
 msgstr "Elimina selezionato"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Visualizza una scorciatoia \\\\\\\\"
+msgstr "Visualizza una scorciatoia \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importazione EPG"
@@ -192,8 +195,9 @@ msgstr "Impostazioni salvate con successo!"
 msgid "Shell command name"
 msgstr "Nome del comando della shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Spettacolo \\\\\\\\"
+msgstr "Mostra registro"
 
 msgid "Show log"
 msgstr "Mostra registro"
@@ -276,8 +280,9 @@ msgstr "Se abilitato, è possibile eseguire lo script desiderato prima di avviar
 msgid "When in deep standby"
 msgstr "Quando è in standby profondo"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Quando decidi di importare l'EPG dopo l'avvio della casella, menziona se \\\\\\\\"
+msgstr "Quando decidi di importare l'EPG dopo l'avvio della casella, menziona se \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Quando riavvii la GUI puoi decidere di saltare o meno l'importazione dei dati EPG."
@@ -294,8 +299,9 @@ msgstr "È possibile avviare automaticamente il plug-in AutoTimer dopo l'aggiorn
 msgid "always"
 msgstr "Sempre"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "eventi\\\\\\\\n"
+msgstr "eventi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "Mai"
@@ -315,3 +321,5 @@ msgstr "salta l'importazione"
 msgid "wake up and import"
 msgstr "svegliarsi e importare"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Spettacolo \\\\\\\\\\\\\\\\"

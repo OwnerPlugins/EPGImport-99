@@ -24,8 +24,9 @@ msgstr "Үйлчилгээ үзүүлэгч нэмэх"
 msgid "All services provider"
 msgstr "Бүх үйлчилгээ үзүүлэгч"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Мөн хэрэглэнэ \\\\\\\\"
+msgstr "Мөн хэрэглэнэ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Автоматжуулсан EPG импортлогч"
@@ -54,8 +55,9 @@ msgstr "Хайрцаг гүн зогсолтод байх үед хийх үйл
 msgid "Clear"
 msgstr "Тодорхой"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Тохиргоог авч үзье \\\\\\\\"
+msgstr "Тохиргоог авч үзье \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Өдрийн профайл"
@@ -72,8 +74,9 @@ msgstr "Импортлохын өмнө одоогийн EPG-г устгана �
 msgid "Delete selected"
 msgstr "Сонгосон устгах"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Товчлол харуулах \\\\\\\\"
+msgstr "Товчлол харуулах \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG импорт"
@@ -192,8 +195,9 @@ msgstr "Тохиргоог амжилттай хадгаллаа!"
 msgid "Shell command name"
 msgstr "Shell командын нэр"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Үзүүлэх \\\\\\\\"
+msgstr "Бүртгэлийг харуулах"
 
 msgid "Show log"
 msgstr "Бүртгэлийг харуулах"
@@ -276,8 +280,9 @@ msgstr "Идэвхжүүлсэн үед та импортыг эхлүүлэхи
 msgid "When in deep standby"
 msgstr "Гүн зогсолтод байх үед"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Ачаалагдсан хайрцгийн дараа EPG-г импортлохоор шийдсэн бол \\\\\\\\"
+msgstr "Ачаалагдсан хайрцгийн дараа EPG-г импортлохоор шийдсэн бол \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Та GUI-г дахин эхлүүлэх үед EPG өгөгдөл импортлохыг алгасах эсвэл алгасах эсэхээ шийдэж болно."
@@ -294,8 +299,9 @@ msgstr "Та EPG өгөгдөл шинэчлэгдсэний дараа авто
 msgid "always"
 msgstr "үргэлж"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "үйл явдал\\\\\\\\n"
+msgstr "үйл явдал\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "хэзээ ч"
@@ -315,3 +321,5 @@ msgstr "импортыг алгасах"
 msgid "wake up and import"
 msgstr "сэрээд импортлох"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Үзүүлэх \\\\\\\\\\\\\\\\"

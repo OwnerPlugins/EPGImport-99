@@ -24,8 +24,9 @@ msgstr "Żid Fornitur"
 msgid "All services provider"
 msgstr "Il-fornitur tas-servizzi kollha"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Applika wkoll \\\\\\\\"
+msgstr "Applika wkoll \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importatur EPG Awtomatizzat"
@@ -54,8 +55,9 @@ msgstr "Agħżel l-azzjoni li trid twettaq meta l-kaxxa tkun f'deep standby u l-
 msgid "Clear"
 msgstr "Ċara"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Ikkunsidra li tistabbilixxi \\\\\\\\"
+msgstr "Ikkunsidra li tistabbilixxi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Jiem Profil"
@@ -72,8 +74,9 @@ msgstr "Ħassar EPG kurrenti qabel l-importazzjoni"
 msgid "Delete selected"
 msgstr "Ħassar magħżula"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Uri shortcut \\\\\\\\"
+msgstr "Uri shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importazzjoni EPG"
@@ -192,8 +195,9 @@ msgstr "Settings salvati b'suċċess!"
 msgid "Shell command name"
 msgstr "Isem tal-kmand tal-shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Uri \\\\\\\\"
+msgstr "Uri log"
 
 msgid "Show log"
 msgstr "Uri log"
@@ -276,8 +280,9 @@ msgstr "Meta tkun attivata, allura tista 'taħdem l-iskript mixtieq qabel ma tib
 msgid "When in deep standby"
 msgstr "Meta tkun fil-fond ta' standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Meta tiddeċiedi li timporta l-EPG wara li l-kaxxa booted semmi jekk il-\\\\\\\\"
+msgstr "Meta tiddeċiedi li timporta l-EPG wara li l-kaxxa booted semmi jekk il-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Meta terġa 'tibda l-GUI tista' tiddeċiedi li taqbeż jew le l-importazzjoni tad-dejta EPG."
@@ -294,8 +299,9 @@ msgstr "Tista 'tibda awtomatikament il-plugin AutoTimer wara l-aġġornament tad
 msgid "always"
 msgstr "dejjem"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "avvenimenti\\\\\\\\n"
+msgstr "avvenimenti\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "qatt"
@@ -315,3 +321,5 @@ msgstr "aqbeż l-importazzjoni"
 msgid "wake up and import"
 msgstr "tqum u l-importazzjoni"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Uri \\\\\\\\\\\\\\\\"

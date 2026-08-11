@@ -24,8 +24,9 @@ msgstr "Aldonu Provizanton"
 msgid "All services provider"
 msgstr "Ĉiuj provizanto de servoj"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Ankaŭ apliki \\\\\\\\"
+msgstr "Ankaŭ apliki \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Aŭtomatigita EPG Importilo"
@@ -54,8 +55,9 @@ msgstr "Elektu la agon por plenumi kiam la skatolo estas en profunda standby kaj
 msgid "Clear"
 msgstr "Klara"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Konsideru agordi \\\\\\\\"
+msgstr "Konsideru agordi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Tagoj Profilo"
@@ -72,8 +74,9 @@ msgstr "Forigu nunan EPG antaŭ importo"
 msgid "Delete selected"
 msgstr "Forigi elektitan"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Montru ŝparvojon \\\\\\\\"
+msgstr "Montru ŝparvojon \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG Importo"
@@ -192,8 +195,9 @@ msgstr "Agordoj sukcese konservitaj!"
 msgid "Shell command name"
 msgstr "Ŝelo komandnomo"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Montru \\\\\\\\"
+msgstr "Montru protokolon"
 
 msgid "Show log"
 msgstr "Montru protokolon"
@@ -276,8 +280,9 @@ msgstr "Kiam ĝi estas ebligita, tiam vi povas ruli la deziratan skripton antaŭ
 msgid "When in deep standby"
 msgstr "Kiam en profunda standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kiam vi decidas importi la EPG post la skatolo startita, menciu se la \\\\\\\\"
+msgstr "Kiam vi decidas importi la EPG post la skatolo startita, menciu se la \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kiam vi rekomencas la GUI, vi povas decidi transsalti aŭ ne la EPG-datumimportadon."
@@ -294,8 +299,9 @@ msgstr "Vi povas aŭtomate komenci la kromprogramon AutoTimer post la ĝisdatigo
 msgid "always"
 msgstr "ĉiam"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "eventoj\\\\\\\\n"
+msgstr "eventoj\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "neniam"
@@ -315,3 +321,5 @@ msgstr "salti la importon"
 msgid "wake up and import"
 msgstr "vekiĝi kaj importi"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Montru \\\\\\\\\\\\\\\\"

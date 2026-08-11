@@ -24,8 +24,9 @@ msgstr "Adăugați furnizorul"
 msgid "All services provider"
 msgstr "Furnizorul tuturor serviciilor"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Aplică și \\\\\\\\"
+msgstr "Aplică și \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importator EPG automat"
@@ -54,8 +55,9 @@ msgstr "Alegeți acțiunea de efectuat când caseta este în standby profund și
 msgid "Clear"
 msgstr "Clar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Luați în considerare setarea \\\\\\\\"
+msgstr "Luați în considerare setarea \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profilul zilelor"
@@ -72,8 +74,9 @@ msgstr "Ștergeți EPG-ul curent înainte de import"
 msgid "Delete selected"
 msgstr "Ștergeți selectat"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Afișează o comandă rapidă \\\\\\\\"
+msgstr "Afișează o comandă rapidă \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Import EPG"
@@ -192,8 +195,9 @@ msgstr "Setările au fost salvate cu succes!"
 msgid "Shell command name"
 msgstr "Numele comenzii Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Arată \\\\\\\\"
+msgstr "Afișează jurnalul"
 
 msgid "Show log"
 msgstr "Afișează jurnalul"
@@ -276,8 +280,9 @@ msgstr "Când este activat, puteți rula scriptul dorit înainte de a începe im
 msgid "When in deep standby"
 msgstr "Când se află în standby profund"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Când decideți să importați EPG-ul după pornirea casetei, menționați dacă \\\\\\\\"
+msgstr "Când decideți să importați EPG-ul după pornirea casetei, menționați dacă \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Când reporniți GUI, puteți decide să omiteți sau nu importarea datelor EPG."
@@ -294,8 +299,9 @@ msgstr "Puteți porni automat pluginul AutoTimer după actualizarea datelor EPG 
 msgid "always"
 msgstr "întotdeauna"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "evenimente\\\\\\\\n"
+msgstr "evenimente\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nu"
@@ -315,3 +321,5 @@ msgstr "sări peste import"
 msgid "wake up and import"
 msgstr "trezeste-te si import"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Arată \\\\\\\\\\\\\\\\"

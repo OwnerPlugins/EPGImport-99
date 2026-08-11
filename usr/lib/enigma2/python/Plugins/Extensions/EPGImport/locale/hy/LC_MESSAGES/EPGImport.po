@@ -24,8 +24,9 @@ msgstr "Ավելացնել մատակարար"
 msgid "All services provider"
 msgstr "Բոլոր ծառայություններ մատուցող"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Կիրառել նաև \\\\\\\\"
+msgstr "Կիրառել նաև \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Ավտոմատացված EPG ներմուծող"
@@ -54,8 +55,9 @@ msgstr "Ընտրեք գործողությունը, որը պետք է կատար
 msgid "Clear"
 msgstr "Պարզ"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Մտածեք \\\\\\\\\\\\\\\\"
+msgstr "Մտածեք \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Օրերի պրոֆիլ"
@@ -72,8 +74,9 @@ msgstr "Ջնջել ընթացիկ EPG-ն ներմուծումից առաջ"
 msgid "Delete selected"
 msgstr "Ջնջել ընտրվածը"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Ցուցադրել դյուրանցում \\\\\\\\"
+msgstr "Ցուցադրել դյուրանցում \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG ներմուծում"
@@ -192,8 +195,9 @@ msgstr "Կարգավորումները հաջողությամբ պահպանվե
 msgid "Shell command name"
 msgstr "Shell հրամանի անունը"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Ցույց տալ \\\\\\\\"
+msgstr "Ցույց տալ գրանցամատյանը"
 
 msgid "Show log"
 msgstr "Ցույց տալ գրանցամատյանը"
@@ -276,8 +280,9 @@ msgstr "Երբ միացված է, այնուհետև կարող եք գործա�
 msgid "When in deep standby"
 msgstr "Խորը սպասման ժամանակ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Երբ դուք որոշում եք ներմուծել EPG տուփը բեռնվելուց հետո, նշեք, եթե \\\\\\\\"
+msgstr "Երբ դուք որոշում եք ներմուծել EPG տուփը բեռնվելուց հետո, նշեք, եթե \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Երբ վերագործարկեք GUI-ն, կարող եք որոշել բաց թողնել EPG տվյալների ներմուծումը, թե ոչ:"
@@ -294,8 +299,9 @@ msgstr "Դուք կարող եք ավտոմատ կերպով գործարկել 
 msgid "always"
 msgstr "միշտ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "իրադարձություններ\\\\\\\\n"
+msgstr "իրադարձություններ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "երբեք"
@@ -315,3 +321,5 @@ msgstr "բաց թողնել ներմուծումը"
 msgid "wake up and import"
 msgstr "արթնանալ և ներմուծել"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Ցույց տալ \\\\\\\\\\\\\\\\"

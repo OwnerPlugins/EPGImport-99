@@ -24,8 +24,9 @@ msgstr "Cuir ris an t-solaraiche"
 msgid "All services provider"
 msgstr "A h-uile solaraiche seirbheis"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Cuir a-steach cuideachd \\\\\\\\"
+msgstr "Cuir a-steach cuideachd \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "In-mhalairt EPG fèin-ghluasadach"
@@ -54,8 +55,9 @@ msgstr "Tagh an gnìomh a nì thu nuair a tha am bogsa ann an cùl-raon domhainn
 msgid "Clear"
 msgstr "Soilleir"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Beachdaich air suidheachadh \\\\\\\\"
+msgstr "Beachdaich air suidheachadh \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Pròifil Làithean"
@@ -72,8 +74,9 @@ msgstr "Sguab às an EPG gnàthach mus cuir thu a-steach e"
 msgid "Delete selected"
 msgstr "Sguab às air a thaghadh"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Seall ath-ghoirid \\\\\\\\"
+msgstr "Seall ath-ghoirid \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Ion-phortadh EPG"
@@ -192,8 +195,9 @@ msgstr "Chaidh na roghainnean a shàbhaladh gu soirbheachail!"
 msgid "Shell command name"
 msgstr "Ainm àithne Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Seall \\\\\\\\"
+msgstr "Seall log"
 
 msgid "Show log"
 msgstr "Seall log"
@@ -276,8 +280,9 @@ msgstr "Nuair a bhios e comasach, faodaidh tu an sgriobt a tha thu ag iarraidh a
 msgid "When in deep standby"
 msgstr "Nuair a bhios tu ann an suidheachadh domhainn"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Nuair a cho-dhùnas tu an EPG a thoirt a-steach às deidh don bhogsa tòiseachadh thoir iomradh air ma tha an \\\\\\\\"
+msgstr "Nuair a cho-dhùnas tu an EPG a thoirt a-steach às deidh don bhogsa tòiseachadh thoir iomradh air ma tha an \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Nuair a nì thu ath-thòiseachadh air an GUI faodaidh tu co-dhùnadh leum a-steach no gun a bhith a’ toirt a-steach dàta EPG."
@@ -294,8 +299,9 @@ msgstr "Faodaidh tu am plugan AutoTimer a thòiseachadh gu fèin-ghluasadach às
 msgid "always"
 msgstr "daonnan"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "tachartasan\\\\\\\\n"
+msgstr "tachartasan\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "riamh"
@@ -315,3 +321,5 @@ msgstr "seachain an in-mhalairt"
 msgid "wake up and import"
 msgstr "dùisg agus cuir a-steach"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Seall \\\\\\\\\\\\\\\\"

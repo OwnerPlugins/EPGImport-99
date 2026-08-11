@@ -16,301 +16,301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Thêm kênh"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Thêm nhà cung cấp"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Tất cả nhà cung cấp dịch vụ"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Cũng áp dụng \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Trình nhập EPG tự động"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Tự động nhập EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Thời gian bắt đầu tự động"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Lựa chọn ngày để bắt đầu nhập"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Chọn thư mục:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Chọn thư mục"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Chọn hành động để thực hiện khi hộp ở chế độ chờ sâu và quá trình cập nhật EPG tự động thường sẽ bắt đầu."
 
 msgid "Clear"
-msgstr ""
+msgstr "Thông thoáng"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Hãy cân nhắc việc thiết lập \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Hồ sơ ngày"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Xác định số ngày bạn muốn nhận dữ liệu EPG đầy đủ, việc giảm con số này có thể giúp bạn tiết kiệm mức sử dụng bộ nhớ trên hộp của mình. Nhưng bạn cũng bị giới hạn với dữ liệu có sẵn của nhà cung cấp EPG. Bạn sẽ không có EPG 15 ngày nếu nó chỉ cung cấp dữ liệu trong 7 ngày."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Xóa tất cả"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Xóa EPG hiện tại trước khi nhập"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Xóa đã chọn"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Hiển thị phím tắt \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Nhập EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Cấu hình nhập EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Nhật ký nhập EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Nguồn nhập EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Quá trình nhập EPG đã hoàn tất, %d sự kiện"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Nhập EPG ngay bây giờ"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "Nhập EPG"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Nhập tên lệnh shell."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Thực thi lệnh shell trước khi nhập EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Đang lọc: %s Vui lòng đợi!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Thứ sáu"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Vài giờ sau đó quá trình nhập được lặp lại"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Bỏ qua danh sách dịch vụ"
 
 msgid "Import"
-msgstr ""
+msgstr "Nhập khẩu"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Nhập không thành công do lỗi: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Đang nhập: %s %s sự kiện"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Lần nhập cuối cùng:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Lần nhập cuối cùng: %s %s, %d sự kiện"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Lần nhập cuối cùng: %s sự kiện"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Chỉ tải EPG cho các kênh IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Chỉ tải các dịch vụ EPG trong bó hoa"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Tải mô tả dài lên đến X ngày"
 
 msgid "Manual"
-msgstr ""
+msgstr "Thủ công"
 
 msgid "Monday"
-msgstr ""
+msgstr "Thứ hai"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Không tìm thấy nguồn EPG đang hoạt động, không có gì để làm"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Không tìm thấy tập tin nguồn!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Số giờ (1-23 hoặc 0 nếu không lặp lại) sau đó quá trình nhập được lặp lại. Giá trị này không được lưu và sẽ được đặt lại khi GUI khởi động lại."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Đường dẫn DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Nhấn OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Thực sự xóa tất cả danh sách?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Trở về chế độ chờ sâu sau khi nhập"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Chạy AutoTimer sau khi nhập"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "CHỌN LỰA CHỌN CỦA BẠN"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Thứ bảy"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Select action"
-msgstr ""
+msgstr "Chọn hành động"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Chọn dịch vụ để thêm..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Đã lưu cài đặt thành công!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Tên lệnh Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Trình diễn \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Hiển thị nhật ký"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Bỏ qua quá trình nhập khi khởi động lại GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Nguồn EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Nguồn"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Đã lưu nguồn thành công!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Chỉ định trong trường hợp nào EPG phải được cập nhật tự động sau khi hộp khởi động."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Chỉ định thư mục đường dẫn để lưu tệp EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Chỉ định nguồn cho EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Chỉ định thời gian cập nhật EPG tự động."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Chờ khi khởi động"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Bắt đầu nhập sau khi khởi động"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Bắt đầu nhập sau khi tiếp tục từ chế độ chờ."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Bắt đầu nhập sau khi chờ"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Chủ nhật"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Hộp đánh thức sẽ được chuyển sang chế độ chờ sau khi hoạt động nhập EPG tự động được đánh thức."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Điều này dành cho người dùng nâng cao đang sử dụng tính năng lọc id kênh. Nếu được bật, các quy tắc lọc được xác định trong /etc/epgimport/channel_id_filter.conf cũng sẽ được áp dụng trên tệp /etc/epgimport/custom.channels.xml của bạn."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Thao tác này sẽ xóa dữ liệu EPG hiện tại trong bộ nhớ trước khi cập nhật dữ liệu EPG. Điều này cho phép bạn luôn có một EPG mới sạch sẽ với dữ liệu EPG mới nhất, chẳng hạn như trong trường hợp chương trình thay đổi giữa các lần làm mới, nếu không thì dữ liệu EPG sẽ được tích lũy."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Thao tác này sẽ chuyển hộp đã đánh thức sang chế độ chờ sâu sau khi nhập EPG tự động."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Thứ năm"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Để tiết kiệm bộ nhớ, bạn có thể quyết định chỉ tải dữ liệu EPG cho các kênh IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Để tiết kiệm bộ nhớ, bạn có thể quyết định chỉ tải dữ liệu EPG cho các dịch vụ mà bạn có trong tệp bó hoa của mình."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Thứ ba"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Cập nhật nguồn"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Thứ Tư"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Khi được bật, nó cho phép bạn lên lịch cập nhật EPG tự động vào những ngày và giờ nhất định."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Khi được bật, bạn có thể chạy tập lệnh mong muốn trước khi bắt đầu nhập, sau đó quá trình nhập EPG sẽ bắt đầu."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Khi ở chế độ chờ sâu"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Khi bạn quyết định nhập EPG sau khi hộp khởi động, hãy đề cập nếu \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Khi khởi động lại GUI, bạn có thể quyết định bỏ qua hoặc không nhập dữ liệu EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Viết thư cho /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Bạn có thể chọn (các) ngày phải thực hiện cập nhật EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Bạn có thể tự động khởi động plugin AutoTimer sau khi cập nhật dữ liệu EPG để nó làm mới lịch trình sau khi làm mới dữ liệu EPG."
 
 msgid "always"
-msgstr ""
+msgstr "luôn luôn"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "sự kiện\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "không bao giờ"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "chỉ khởi động tự động"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "chỉ khởi động thủ công"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "nhấn OK để lưu danh sách"
 
 msgid "skip the import"
-msgstr ""
+msgstr "bỏ qua việc nhập khẩu"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "thức dậy và nhập khẩu"

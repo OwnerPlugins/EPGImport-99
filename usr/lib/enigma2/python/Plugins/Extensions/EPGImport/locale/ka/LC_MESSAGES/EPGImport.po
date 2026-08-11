@@ -24,8 +24,9 @@ msgstr "პროვაიდერის დამატება"
 msgid "All services provider"
 msgstr "ყველა სერვისის მიმწოდებელი"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "ასევე ვრცელდება \\\\\\\\"
+msgstr "ასევე ვრცელდება \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ავტომატური EPG იმპორტიორი"
@@ -54,8 +55,9 @@ msgstr "აირჩიეთ მოქმედება, რომელიც
 msgid "Clear"
 msgstr "წმინდა"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "განიხილეთ პარამეტრი \\\\\\\\"
+msgstr "განიხილეთ პარამეტრი \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "დღეების პროფილი"
@@ -72,8 +74,9 @@ msgstr "წაშალეთ მიმდინარე EPG იმპორტ
 msgid "Delete selected"
 msgstr "არჩეული წაშლა"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "მალსახმობის ჩვენება \\\\\\\\"
+msgstr "მალსახმობის ჩვენება \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG იმპორტი"
@@ -192,8 +195,9 @@ msgstr "პარამეტრები წარმატებით შე�
 msgid "Shell command name"
 msgstr "Shell ბრძანების სახელი"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "ჩვენება \\\\\\\\"
+msgstr "ჟურნალის ჩვენება"
 
 msgid "Show log"
 msgstr "ჟურნალის ჩვენება"
@@ -276,8 +280,9 @@ msgstr "როდესაც ჩართულია, მაშინ იმ�
 msgid "When in deep standby"
 msgstr "ღრმა ლოდინის დროს"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "როდესაც გადაწყვეტთ EPG-ის იმპორტს ყუთის ჩატვირთვის შემდეგ, მიუთითეთ თუ \\\\\\\\"
+msgstr "როდესაც გადაწყვეტთ EPG-ის იმპორტს ყუთის ჩატვირთვის შემდეგ, მიუთითეთ თუ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "როდესაც თქვენ გადატვირთავთ GUI-ს, შეგიძლიათ გადაწყვიტოთ გამოტოვოთ თუ არა EPG მონაცემთა იმპორტი."
@@ -294,8 +299,9 @@ msgstr "შეგიძლიათ ავტომატურად დაი�
 msgid "always"
 msgstr "ყოველთვის"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "მოვლენები\\\\\\\\n"
+msgstr "მოვლენები\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "არასოდეს"
@@ -315,3 +321,5 @@ msgstr "გამოტოვეთ იმპორტი"
 msgid "wake up and import"
 msgstr "გაიღვიძე და შემოიტანე"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "ჩვენება \\\\\\\\\\\\\\\\"

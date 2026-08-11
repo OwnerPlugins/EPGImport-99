@@ -24,8 +24,9 @@ msgstr "Apondre un provesidor"
 msgid "All services provider"
 msgstr "Totes los provesidors de servicis"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Aplicar tanben \\\\\\\\"
+msgstr "Aplicar tanben \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importator d'EPG automatizat"
@@ -54,8 +55,9 @@ msgstr "Causissètz l'accion a realizar quand la bóstia es en espèra prigonda 
 msgid "Clear"
 msgstr "Clar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Pensatz a definir \\\\\\\\"
+msgstr "Pensatz a definir \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Perfil de jorns"
@@ -72,8 +74,9 @@ msgstr "Suprimir l'EPG actual abans l'importacion"
 msgid "Delete selected"
 msgstr "Suprimir seleccionat"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Afichar un acorchi \\\\\\\\"
+msgstr "Afichar un acorchi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importacion EPG"
@@ -94,7 +97,7 @@ msgid "EPG import now"
 msgstr "Importar EPG ara"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGIImport"
 
 msgid "Enter shell command name."
 msgstr "Picatz lo nom de la comanda de shell."
@@ -192,8 +195,9 @@ msgstr "Los paramètres enregistrats amb succès !"
 msgid "Shell command name"
 msgstr "Nom de comanda de shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Mostrar \\\\\\\\"
+msgstr "Mostrar lo jornal"
 
 msgid "Show log"
 msgstr "Mostrar lo jornal"
@@ -276,8 +280,9 @@ msgstr "Quand activat, podètz alara executar l'escript desirat abans de començ
 msgid "When in deep standby"
 msgstr "Quand es en espèra prigonda"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Quand decidissètz d'importar l'EPG après que la bóstia s'es aviada mencionatz se lo \\\\\\\\"
+msgstr "Quand decidissètz d'importar l'EPG après que la bóstia s'es aviada mencionatz se lo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Quand reaviatz l'interfaci grafica podètz decidir de sautar o pas l'importacion de donadas EPG."
@@ -294,8 +299,9 @@ msgstr "Podètz aviar automaticament l'ensamblador AutoTimer après la mesa a jo
 msgid "always"
 msgstr "totjorn"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "eveniments\\\\\\\\n"
+msgstr "eveniments\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "jamai"
@@ -315,3 +321,5 @@ msgstr "sautar l'importacion"
 msgid "wake up and import"
 msgstr "desrevelhar e importar"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Mostrar \\\\\\\\\\\\\\\\"

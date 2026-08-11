@@ -24,8 +24,9 @@ msgstr "வழங்குநரைச் சேர்"
 msgid "All services provider"
 msgstr "அனைத்து சேவை வழங்குநர்"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "மேலும் விண்ணப்பிக்கவும் \\\\\\\\"
+msgstr "மேலும் விண்ணப்பிக்கவும் \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "தானியங்கி EPG இறக்குமதியாளர்"
@@ -54,8 +55,9 @@ msgstr "பெட்டி ஆழ்ந்த காத்திருப்ப�
 msgid "Clear"
 msgstr "தெளிவு"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "அமைக்கவும் \\\\\\\\"
+msgstr "அமைக்கவும் \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "நாட்கள் சுயவிவரம்"
@@ -72,8 +74,9 @@ msgstr "இறக்குமதிக்கு முன் தற்போத�
 msgid "Delete selected"
 msgstr "தேர்ந்தெடுக்கப்பட்டதை நீக்கு"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "குறுக்குவழியைக் காண்பி \\\\\\\\"
+msgstr "குறுக்குவழியைக் காண்பி \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG இறக்குமதி"
@@ -192,8 +195,9 @@ msgstr "அமைப்புகள் வெற்றிகரமாக சே�
 msgid "Shell command name"
 msgstr "ஷெல் கட்டளை பெயர்"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "காட்டு \\\\\\\\"
+msgstr "பதிவைக் காட்டு"
 
 msgid "Show log"
 msgstr "பதிவைக் காட்டு"
@@ -276,8 +280,9 @@ msgstr "இயக்கப்பட்டால், இறக்குமதி�
 msgid "When in deep standby"
 msgstr "ஆழ்ந்த காத்திருப்பில் இருக்கும்போது"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "பெட்டி பூட் செய்யப்பட்ட பிறகு EPG ஐ இறக்குமதி செய்ய முடிவு செய்தால் \\\\\\\\"
+msgstr "பெட்டி பூட் செய்யப்பட்ட பிறகு EPG ஐ இறக்குமதி செய்ய முடிவு செய்தால் \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI ஐ மறுதொடக்கம் செய்யும் போது, ​​EPG தரவு இறக்குமதியைத் தவிர்க்கலாமா வேண்டாமா என்பதை நீங்கள் முடிவு செய்யலாம்."
@@ -294,8 +299,9 @@ msgstr "EPG தரவு புதுப்பித்தலுக்குப�
 msgid "always"
 msgstr "எப்போதும்"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "நிகழ்வுகள்\\\\\\\\n"
+msgstr "நிகழ்வுகள்\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ஒருபோதும்"
@@ -315,3 +321,5 @@ msgstr "இறக்குமதியை தவிர்க்கவும்"
 msgid "wake up and import"
 msgstr "எழுந்து இறக்குமதி"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "காட்டு \\\\\\\\\\\\\\\\"

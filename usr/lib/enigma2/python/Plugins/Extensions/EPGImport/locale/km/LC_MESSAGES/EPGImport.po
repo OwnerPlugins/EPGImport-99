@@ -24,8 +24,9 @@ msgstr "បន្ថែមអ្នកផ្តល់សេវា"
 msgid "All services provider"
 msgstr "អ្នកផ្តល់សេវាទាំងអស់។"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "អនុវត្តផងដែរ \\\\\\\\"
+msgstr "អនុវត្តផងដែរ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "អ្នកនាំចូល EPG ដោយស្វ័យប្រវត្តិ"
@@ -54,8 +55,9 @@ msgstr "ជ្រើសរើសសកម្មភាពដើម្បីអន
 msgid "Clear"
 msgstr "ច្បាស់"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "ពិចារណាការកំណត់ \\\\\\\\"
+msgstr "ពិចារណាការកំណត់ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "កម្រងព័ត៌មានថ្ងៃ"
@@ -72,8 +74,9 @@ msgstr "លុប EPG បច្ចុប្បន្នមុនពេលនា�
 msgid "Delete selected"
 msgstr "លុបដែលបានជ្រើសរើស"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "បង្ហាញផ្លូវកាត់ \\\\\\\\"
+msgstr "បង្ហាញផ្លូវកាត់ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "ការនាំចូល EPG"
@@ -192,8 +195,9 @@ msgstr "ការកំណត់ត្រូវបានរក្សាទុក
 msgid "Shell command name"
 msgstr "ឈ្មោះពាក្យបញ្ជាសែល"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "បង្ហាញ \\\\\\\\"
+msgstr "បង្ហាញកំណត់ហេតុ"
 
 msgid "Show log"
 msgstr "បង្ហាញកំណត់ហេតុ"
@@ -276,8 +280,9 @@ msgstr "នៅពេលបើកដំណើរការ អ្នកអាច�
 msgid "When in deep standby"
 msgstr "នៅពេលរង់ចាំយ៉ាងជ្រៅ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "នៅពេលអ្នកសម្រេចចិត្តនាំចូល EPG បន្ទាប់ពីប្រអប់ចាប់ផ្ដើម លើកឡើងប្រសិនបើ \\\\\\\\"
+msgstr "នៅពេលអ្នកសម្រេចចិត្តនាំចូល EPG បន្ទាប់ពីប្រអប់ចាប់ផ្ដើម លើកឡើងប្រសិនបើ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "នៅពេលអ្នកចាប់ផ្តើម GUI ឡើងវិញ អ្នកអាចសម្រេចចិត្តរំលង ឬមិននាំចូលទិន្នន័យ EPG ។"
@@ -294,8 +299,9 @@ msgstr "អ្នកអាចចាប់ផ្តើមកម្មវិធី
 msgid "always"
 msgstr "ជានិច្ច"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ព្រឹត្តិការណ៍\\\\\\\\n"
+msgstr "ព្រឹត្តិការណ៍\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "មិនដែល"
@@ -315,3 +321,5 @@ msgstr "រំលងការនាំចូល"
 msgid "wake up and import"
 msgstr "ភ្ញាក់ឡើងហើយនាំចូល"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "បង្ហាញ \\\\\\\\\\\\\\\\"

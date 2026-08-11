@@ -24,8 +24,9 @@ msgstr "Dodaj ponudnika"
 msgid "All services provider"
 msgstr "Vsi ponudniki storitev"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Uporabi tudi \\\\\\\\"
+msgstr "Uporabi tudi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Samodejni uvoznik EPG"
@@ -54,8 +55,9 @@ msgstr "Izberite dejanje, ki naj se izvede, ko je škatla v stanju globoke pripr
 msgid "Clear"
 msgstr "jasno"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Razmislite o nastavitvi \\\\\\\\"
+msgstr "Razmislite o nastavitvi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dnevi Profil"
@@ -72,8 +74,9 @@ msgstr "Izbrišite trenutni EPG pred uvozom"
 msgid "Delete selected"
 msgstr "Izbriši izbrano"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Prikaži bližnjico \\\\\\\\"
+msgstr "Prikaži bližnjico \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Uvoz EPG"
@@ -192,8 +195,9 @@ msgstr "Nastavitve uspešno shranjene!"
 msgid "Shell command name"
 msgstr "Ime ukaza lupine"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Prikaži \\\\\\\\"
+msgstr "Prikaži dnevnik"
 
 msgid "Show log"
 msgstr "Prikaži dnevnik"
@@ -276,8 +280,9 @@ msgstr "Ko je omogočeno, lahko pred začetkom uvoza zaženete želeni skript, p
 msgid "When in deep standby"
 msgstr "Ko je v globoki pripravljenosti"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Ko se odločite uvoziti EPG po zagonu škatle, omenite, če \\\\\\\\"
+msgstr "Ko se odločite uvoziti EPG po zagonu škatle, omenite, če \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Ko znova zaženete GUI, se lahko odločite, ali želite preskočiti uvoz podatkov EPG ali ne."
@@ -294,8 +299,9 @@ msgstr "Po posodobitvi podatkov EPG lahko samodejno zaženete vtičnik AutoTimer
 msgid "always"
 msgstr "vedno"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "dogodki\\\\\\\\n"
+msgstr "dogodki\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nikoli"
@@ -315,3 +321,5 @@ msgstr "preskoči uvoz"
 msgid "wake up and import"
 msgstr "zbudi in uvozi"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Prikaži \\\\\\\\\\\\\\\\"

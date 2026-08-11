@@ -16,301 +16,301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "新增頻道"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "新增提供者"
 
 msgid "All services provider"
-msgstr ""
+msgstr "所有服務提供者"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "也適用 \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "自動 EPG 導入器"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "自動導入EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "自動啟動時間"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "選擇開始導入的日期"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "選擇目錄："
 
 msgid "Choose directory"
-msgstr ""
+msgstr "選擇目錄"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "選擇當機上盒處於深度待機且自動 EPG 更新應正常啟動時要執行的操作。"
 
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "考慮設定 \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "日子簡介"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "定義您想要取得完整 EPG 資料的天數，減少此數字可以幫助您節省盒子上的記憶體使用量。但 EPG 提供者的可用數據也受到限制。如果只提供 7 天的數據，您將沒有 15 天的 EPG。"
 
 msgid "Delete all"
-msgstr ""
+msgstr "全部刪除"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "導入前刪除當前 EPG"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "刪除所選內容"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "顯示快捷方式 \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "電子節目指南導入"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG導入配置"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG匯入日誌"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG導入來源"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG 匯入已完成，%d 個事件"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "立即導入EPG"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGI導入"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "輸入 shell 命令名稱。"
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "導入 EPG 之前執行 shell 指令"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "過濾：%s 請稍候！"
 
 msgid "Friday"
-msgstr ""
+msgstr "星期五"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "重複導入後的小時數"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "忽略服務列表"
 
 msgid "Import"
-msgstr ""
+msgstr "進口"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "導入失敗並出現錯誤：{}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "正在導入：%s %s 事件"
 
 msgid "Last import:"
-msgstr ""
+msgstr "上次導入："
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "上次導入：%s %s，%d 個事件"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "上次導入：%s 個事件"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "僅載入 IPTV 頻道的 EPG"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "在花束中加載僅 EPG 服務"
 
 msgid "Load long descriptions up to X days"
 msgstr ""
 
 msgid "Manual"
-msgstr ""
+msgstr "手動的"
 
 msgid "Monday"
-msgstr ""
+msgstr "週一"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "找不到有效的 EPG 來源，無事可做"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "沒有找到原始檔！"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "重複導入之前的小時數（1-23，或 0 表示不重複）。該值不會儲存，並且會在 GUI 重新啟動時重設。"
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "路徑資料庫EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "按確定"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "真的刪除所有清單嗎？"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "導入後返回深度待機"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "導入後運行自動定時器"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "選擇您的選擇"
 
 msgid "Saturday"
-msgstr ""
+msgstr "週六"
 
 msgid "Save"
-msgstr ""
+msgstr "節省"
 
 msgid "Select action"
-msgstr ""
+msgstr "選擇動作"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "選擇要新增的服務..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "設定保存成功！"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "外殼命令名稱"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "展示 \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "顯示日誌"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "重新啟動 GUI 時跳過導入"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "來源電子節目指南"
 
 msgid "Sources"
-msgstr ""
+msgstr "來源"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "來源保存成功！"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "指定在哪種情況下 EPG 必須在盒子啟動後自動更新。"
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "指定儲存 EPG.dat 檔案的路徑資料夾。"
 
 msgid "Specify the source for EPG."
 msgstr ""
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "指定自動 EPG 更新的時間。"
 
 msgid "Standby at startup"
 msgstr ""
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "開機後開始導入"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "從待機模式恢復後開始匯入。"
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "待機後開始導入"
 
 msgid "Sunday"
-msgstr ""
+msgstr "星期日"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "自動EPG導入喚醒後，被喚醒的盒子將轉入待機狀態。"
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "這適用於使用頻道 ID 過濾功能的進階使用者。如果啟用，/etc/epgimport/channel_id_filter.conf 中定義的過濾規則也會套用到 /etc/epgimport/custom.channels.xml 檔案。"
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "這將在更新 EPG 資料之前清除記憶體中的當前 EPG 資料。這讓您始終擁有包含最新 EPG 資料的全新 EPG，例如在刷新之間節目發生變更的情況下，否則 EPG 資料會累積。"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
 msgstr ""
 
 msgid "Thursday"
-msgstr ""
+msgstr "週四"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "為了節省內存，您可以決定僅加載 IPTV 頻道的 EPG 資料。"
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "為了節省內存，您可以決定僅載入花束文件中的服務的 EPG 資料。"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "週二"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "更新來源"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "週三"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "啟用後，您可以安排在給定的日期和時間自動更新 EPG。"
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "啟用後，您可以在開始匯入之前執行所需的腳本，之後將開始匯入 EPG。"
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "深度待機時"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "當您決定在盒子啟動後導入 EPG 時，請提及是否 \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "當您重新啟動 GUI 時，您可以決定是否跳過 EPG 資料匯入。"
 
 msgid "Write to /tmp/epgimport.log"
 msgstr ""
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "您可以選擇必須執行 EPG 更新的日期。"
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "您可以在 EPG 資料更新後自動啟動插件 AutoTimer，使其在 EPG 資料刷新後刷新其調度。"
 
 msgid "always"
-msgstr ""
+msgstr "總是"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "事件\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "絕不"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "只能自動開機"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "只能手動啟動"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "按「確定」儲存列表"
 
 msgid "skip the import"
-msgstr ""
+msgstr "跳過導入"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "喚醒並導入"

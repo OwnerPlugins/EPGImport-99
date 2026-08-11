@@ -24,8 +24,9 @@ msgstr "إضافة موفر"
 msgid "All services provider"
 msgstr "جميع مقدمي الخدمات"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "تنطبق أيضاً \\\\\\\\"
+msgstr "تنطبق أيضاً \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "مستورد EPG الآلي"
@@ -54,8 +55,9 @@ msgstr "اختر الإجراء الذي تريد تنفيذه عندما يكو
 msgid "Clear"
 msgstr "واضح"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "خذ بعين الاعتبار الإعداد \\\\\\\\"
+msgstr "خذ بعين الاعتبار الإعداد \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "الملف الشخصي للأيام"
@@ -72,8 +74,9 @@ msgstr "احذف دليل البرامج الإلكتروني (EPG) الحالي
 msgid "Delete selected"
 msgstr "حذف المحدد"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "عرض الاختصار \\\\\\\\"
+msgstr "عرض الاختصار \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "استيراد دليل البرامج الإلكتروني"
@@ -192,8 +195,9 @@ msgstr "تم حفظ الإعدادات بنجاح!"
 msgid "Shell command name"
 msgstr "اسم أمر شل"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "يعرض \\\\\\\\"
+msgstr "عرض السجل"
 
 msgid "Show log"
 msgstr "عرض السجل"
@@ -276,8 +280,9 @@ msgstr "عند التمكين، يمكنك تشغيل البرنامج النص�
 msgid "When in deep standby"
 msgstr "عندما تكون في وضع الاستعداد العميق"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "عندما تقرر استيراد دليل البرامج الإلكتروني (EPG) بعد تشغيل المربع، أذكر ما إذا كان \\\\\\\\"
+msgstr "عندما تقرر استيراد دليل البرامج الإلكتروني (EPG) بعد تشغيل المربع، أذكر ما إذا كان \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "عند إعادة تشغيل واجهة المستخدم الرسومية، يمكنك أن تقرر تخطي استيراد بيانات دليل البرامج الإلكتروني (EPG) أو عدمه."
@@ -294,8 +299,9 @@ msgstr "يمكنك تشغيل المكون الإضافي AutoTimer تلقائي
 msgid "always"
 msgstr "دائماً"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "الأحداث\\\\\\\\n"
+msgstr "الأحداث\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "أبداً"
@@ -315,3 +321,5 @@ msgstr "تخطي الاستيراد"
 msgid "wake up and import"
 msgstr "استيقظ واستورد"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "يعرض \\\\\\\\\\\\\\\\"

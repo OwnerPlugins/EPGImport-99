@@ -24,8 +24,9 @@ msgstr "Pridėti teikėją"
 msgid "All services provider"
 msgstr "Visų paslaugų teikėjas"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Taip pat taikyti \\\\\\\\"
+msgstr "Taip pat taikyti \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatizuotas EPG importuotojas"
@@ -54,8 +55,9 @@ msgstr "Pasirinkite veiksmą, kurį norite atlikti, kai dėžutė veikia giliai 
 msgid "Clear"
 msgstr "Aišku"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Apsvarstykite galimybę nustatyti \\\\\\\\"
+msgstr "Apsvarstykite galimybę nustatyti \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dienų profilis"
@@ -72,8 +74,9 @@ msgstr "Prieš importuodami ištrinkite esamą EPG"
 msgid "Delete selected"
 msgstr "Ištrinti pasirinktus"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Rodyti spartųjį klavišą \\\\\\\\"
+msgstr "Rodyti spartųjį klavišą \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG importas"
@@ -192,8 +195,9 @@ msgstr "Nustatymai sėkmingai išsaugoti!"
 msgid "Shell command name"
 msgstr "Shell komandos pavadinimas"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Rodyti \\\\\\\\"
+msgstr "Rodyti žurnalą"
 
 msgid "Show log"
 msgstr "Rodyti žurnalą"
@@ -276,8 +280,9 @@ msgstr "Kai įjungta, prieš pradėdami importavimą galite paleisti norimą sce
 msgid "When in deep standby"
 msgstr "Kai yra gilus budėjimo režimas"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kai nusprendžiate importuoti EPG po įkrovos laukelio, paminėkite, jei \\\\\\\\"
+msgstr "Kai nusprendžiate importuoti EPG po įkrovos laukelio, paminėkite, jei \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kai iš naujo paleisite GUI, galite nuspręsti praleisti EPG duomenų importavimą ar ne."
@@ -294,8 +299,9 @@ msgstr "Galite automatiškai paleisti papildinį „AutoTimer“ po EPG duomenų
 msgid "always"
 msgstr "visada"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "įvykiai\\\\\\\\n"
+msgstr "įvykiai\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "niekada"
@@ -315,3 +321,5 @@ msgstr "praleisti importavimą"
 msgid "wake up and import"
 msgstr "pabusti ir importuoti"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Rodyti \\\\\\\\\\\\\\\\"

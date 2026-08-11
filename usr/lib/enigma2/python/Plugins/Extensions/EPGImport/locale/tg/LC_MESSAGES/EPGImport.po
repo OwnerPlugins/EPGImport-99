@@ -16,301 +16,301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Илова кардани канал"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Иловаи провайдер"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Ҳама провайдери хидматрасонӣ"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Инчунин муроҷиат кунед \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Воридкунандаи худкори EPG"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Воридоти худкори EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Вақти оғози автоматӣ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Бекор кардан"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Рӯзҳои интихоб барои оғози воридот"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Директорияро интихоб кунед:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Директорияро интихоб кунед"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Ҳангоми дар ҳолати интизории амиқ будани қуттӣ амалеро интихоб кунед ва навсозии автоматии EPG одатан бояд оғоз шавад."
 
 msgid "Clear"
-msgstr ""
+msgstr "Тоза"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Муайян кардани танзимоти \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Профили рӯзҳо"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Миқдори рӯзҳоеро муайян кунед, ки шумо маълумоти пурраи EPG-ро гирифтан мехоҳед, кам кардани ин рақам метавонад ба шумо барои сарфаи истифодаи хотира дар қуттии худ кӯмак кунад. Аммо шумо инчунин бо маълумоти дастраси провайдери EPG маҳдудед. Шумо 15 рӯз EPG нахоҳед дошт, агар он танҳо маълумоти 7 рӯзро пешниҳод кунад."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Ҳамаро нест кунед"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Пеш аз воридот EPG-и ҷорӣро нест кунед"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Нест кардани интихобшуда"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Нишон додани миёнабур \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Воридоти EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Конфигуратсияи воридоти EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Сабти воридоти EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Манбаъҳои воридоти EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Воридоти EPG анҷом ёфт, %d ҳодиса"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Ҳоло воридоти EPG"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Номи фармони shell-ро ворид кунед."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Пеш аз воридоти EPG фармонро иҷро кунед"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Филтр: %s Лутфан интизор шавед!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Ҷумъа"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Соатҳое, ки пас аз он воридот такрор мешавад"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Рӯйхати хидматҳоро нодида гиред"
 
 msgid "Import"
-msgstr ""
+msgstr "Воридот"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Воридот бо хатогӣ ноком шуд: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Воридот: %s %s ҳодиса"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Воридоти охирин:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Воридоти охирин: %s %s, %d ҳодиса"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Воридоти охирин: %s ҳодиса"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "EPG-ро танҳо барои каналҳои IPTV бор кунед"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Танҳо хидматҳои EPG-ро дар гулдастаҳо бор кунед"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Тавсифи дарозро то X рӯз бор кунед"
 
 msgid "Manual"
-msgstr ""
+msgstr "Дастӣ"
 
 msgid "Monday"
-msgstr ""
+msgstr "Душанбе"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Ягон манбаъҳои фаъоли EPG ёфт нашуд, ҳеҷ коре кардан лозим нест"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Ягон файли манбаъ ёфт нашуд!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Миқдори соатҳо (1-23 ё 0 барои такрор нашудани такрорӣ), ки пас аз он воридот такрор мешавад. Ин арзиш захира нашудааст ва ҳангоми аз нав оғоз кардани GUI аз нав барқарор карда мешавад."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Роҳи DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "OK-ро пахш кунед"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Дар ҳақиқат ҳама рӯйхат нест карда мешавад?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Пас аз воридот ба ҳолати интизории амиқ баргардед"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Пас аз воридот AutoTimer-ро иҷро кунед"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ИНТИХОБИ ХУДРО ИНТИХОБ КУНЕД"
 
 msgid "Saturday"
-msgstr ""
+msgstr "шанбе"
 
 msgid "Save"
-msgstr ""
+msgstr "Захира кунед"
 
 msgid "Select action"
-msgstr ""
+msgstr "Амал интихоб кунед"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Барои илова хидматро интихоб кунед..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Танзимотҳо бомуваффақият захира карда шуданд!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Номи фармони Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Намоиш \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Нишон додани сабт"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Ҳангоми аз нав оғоз кардани GUI воридотро гузаред"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Манбаи EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Сарчашмаҳо"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Сарчашмаҳо бомуваффақият захира карда шуданд!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Муайян кунед, ки дар кадом ҳолат EPG бояд пас аз боркунии қуттӣ ба таври худкор нав карда шавад."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Папкаи роҳро барои захира кардани файли EPG.dat муайян кунед."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Сарчашмаи EPG-ро муайян кунед."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Вақти навсозии автоматии EPG-ро муайян кунед."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Дар ҳолати интизорӣ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Пас аз боркунӣ воридотро оғоз кунед"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Пас аз идомаи ҳолати интизорӣ воридотро оғоз кунед."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Пас аз интизорӣ воридотро оғоз кунед"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Якшанбе"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Қуттии бедоршуда пас аз бедории худкори воридоти EPG ба ҳолати интизорӣ табдил дода мешавад."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Ин барои корбарони пешрафтаест, ки хусусияти филтркунии id-и каналро истифода мебаранд. Агар фаъол бошад, қоидаҳои филтри дар /etc/epgimport/channel_id_filter.conf муайяншуда дар файли /etc/epgimport/custom.channels.xml низ татбиқ карда мешаванд."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Ин пеш аз навсозии маълумоти EPG-ро дар хотира тоза мекунад. Ин ба шумо имкон медиҳад, ки ҳамеша як EPG-и нави тоза бо маълумоти охирини EPG дошта бошед, масалан дар сурати тағир додани барнома дар байни навсозӣ, дар акси ҳол маълумоти EPG ҷамъ мешаванд."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Ин пас аз воридоти автоматии EPG қуттии бедоршударо ба ҳолати амиқи интизорӣ бармегардонад."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Панҷшанбе"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Барои захира кардани хотира шумо метавонед тасмим гиред, ки маълумоти EPG-ро танҳо барои каналҳои IPTV бор кунед."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Барои захира кардани хотира шумо метавонед қарор диҳед, ки танҳо маълумоти EPG-ро барои хидматҳое, ки дар файлҳои гулдастаи худ доред, бор кунед."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "сешанбе"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Навсозии манбаъҳо"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Чоршанбе"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Вақте ки фаъол аст, он ба шумо имкон медиҳад, ки навсозии автоматии EPG-ро дар рӯзҳо ва вақти додашуда ба нақша гиред."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Ҳангоми фаъол шудан, шумо метавонед пеш аз оғози воридот скрипти дилхоҳро иҷро кунед, ки пас аз он воридоти EPG оғоз мешавад."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Вақте ки дар ҳолати интизории амиқ"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Вақте, ки шумо тасмим гирифтед, ки EPG-ро пас аз қуттии пурборшуда ворид кунед, агар \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Вақте ки шумо GUI-ро бозоғоз мекунед, шумо метавонед қарор қабул кунед, ки воридоти додаҳои EPG-ро гузаред ё не."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Ба /tmp/epgimport.log нависед"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Шумо метавонед рӯз(ҳо)-ро интихоб кунед, ки бояд навсозии EPG иҷро шавад."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Шумо метавонед ба таври худкор плагини AutoTimer-ро пас аз навсозии додаҳои EPG оғоз кунед, то он нақшаи худро пас аз навсозии додаҳои EPG навсозӣ кунад."
 
 msgid "always"
-msgstr ""
+msgstr "хамеша"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "рӯйдодҳо\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "ҳеҷ гоҳ"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "танҳо боркунии автоматӣ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "танҳо боркунии дастӣ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "Барои захира кардани рӯйхат OK -ро пахш кунед"
 
 msgid "skip the import"
-msgstr ""
+msgstr "воридотро гузаред"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "бедор шавед ва ворид кунед"

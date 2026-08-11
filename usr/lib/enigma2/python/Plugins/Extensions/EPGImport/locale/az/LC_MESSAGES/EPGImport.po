@@ -24,8 +24,9 @@ msgstr "Provayder əlavə edin"
 msgid "All services provider"
 msgstr "Bütün xidmətlər provayderi"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Həmçinin müraciət edin \\\\\\\\"
+msgstr "Həmçinin müraciət edin \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Avtomatlaşdırılmış EPG İdxalçısı"
@@ -54,8 +55,9 @@ msgstr "Qutu dərin gözləmə rejimində olduqda yerinə yetiriləcək hərək�
 msgid "Clear"
 msgstr "Təmiz"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Quraşdırmağı düşünün \\\\\\\\"
+msgstr "Quraşdırmağı düşünün \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Gün Profili"
@@ -72,8 +74,9 @@ msgstr "İdxal etməzdən əvvəl cari EPG-ni silin"
 msgid "Delete selected"
 msgstr "Seçilmişləri silin"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Qısayolu göstərin \\\\\\\\"
+msgstr "Qısayolu göstərin \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG idxalı"
@@ -192,8 +195,9 @@ msgstr "Parametrlər uğurla yadda saxlanıldı!"
 msgid "Shell command name"
 msgstr "Shell əmr adı"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Göstər \\\\\\\\"
+msgstr "Jurnal göstərin"
 
 msgid "Show log"
 msgstr "Jurnal göstərin"
@@ -276,8 +280,9 @@ msgstr "Aktivləşdirildikdə, idxala başlamazdan əvvəl istədiyiniz skripti 
 msgid "When in deep standby"
 msgstr "Dərin gözləmə rejimində olduqda"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Qutu açıldıqdan sonra EPG-ni idxal etmək qərarına gəldiyiniz zaman \\\\\\\\"
+msgstr "Qutu açıldıqdan sonra EPG-ni idxal etmək qərarına gəldiyiniz zaman \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI-ni yenidən başlatdığınız zaman siz EPG məlumatlarının idxalını atlaya və ya etməməyə qərar verə bilərsiniz."
@@ -294,8 +299,9 @@ msgstr "Siz EPG məlumatı yeniləndikdən sonra onun planını yeniləmək üç
 msgid "always"
 msgstr "həmişə"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "hadisələr\\\\\\\\n"
+msgstr "hadisələr\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "heç vaxt"
@@ -315,3 +321,5 @@ msgstr "idxalı atlayın"
 msgid "wake up and import"
 msgstr "oyan və idxal et"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Göstər \\\\\\\\\\\\\\\\"

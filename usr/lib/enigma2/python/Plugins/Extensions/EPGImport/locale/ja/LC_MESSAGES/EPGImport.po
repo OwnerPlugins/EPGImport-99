@@ -24,8 +24,9 @@ msgstr "プロバイダーの追加"
 msgid "All services provider"
 msgstr "すべてのサービスプロバイダー"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "こちらも適用\\\\\\\\"
+msgstr "こちらも適用\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "自動 EPG インポーター"
@@ -54,8 +55,9 @@ msgstr "ボックスがディープ スタンバイになっているときに�
 msgid "Clear"
 msgstr "クリア"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "\\\\\\\\ の設定を検討してください"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ の設定を検討してください"
 
 msgid "Days Profile"
 msgstr "日々のプロフィール"
@@ -72,8 +74,9 @@ msgstr "インポート前に現在の EPG を削除します"
 msgid "Delete selected"
 msgstr "選択したものを削除"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "ショートカットを表示\\\\\\\\"
+msgstr "ショートカットを表示\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG インポート"
@@ -192,8 +195,9 @@ msgstr "設定が正常に保存されました。"
 msgid "Shell command name"
 msgstr "シェルコマンド名"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "見せる \\\\\\\\"
+msgstr "ログを表示する"
 
 msgid "Show log"
 msgstr "ログを表示する"
@@ -276,8 +280,9 @@ msgstr "有効にすると、インポートを開始する前に目的のスク
 msgid "When in deep standby"
 msgstr "ディープスタンバイ時"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ボックスの起動後に EPG をインポートする場合は、\\\\\\\\"
+msgstr "ボックスの起動後に EPG をインポートする場合は、\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI を再起動するときに、EPG データのインポートをスキップするかどうかを決定できます。"
@@ -294,8 +299,9 @@ msgstr "EPG データの更新後にプラグイン AutoTimer を自動的に開
 msgid "always"
 msgstr "いつも"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "イベント\\\\\\\\n"
+msgstr "イベント\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "一度もない"
@@ -315,3 +321,5 @@ msgstr "インポートをスキップする"
 msgid "wake up and import"
 msgstr "起きてインポートする"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "見せる \\\\\\\\\\\\\\\\"

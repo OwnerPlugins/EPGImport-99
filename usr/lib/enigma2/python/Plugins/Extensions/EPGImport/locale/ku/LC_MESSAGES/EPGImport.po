@@ -24,8 +24,9 @@ msgstr "Pêşkêşker zêde bikin"
 msgid "All services provider"
 msgstr "Hemî pêşkêşvanê karûbaran"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Her weha bicîh bikin \\\\\\\\"
+msgstr "Her weha bicîh bikin \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Xweseriya EPG Importer"
@@ -54,8 +55,9 @@ msgstr "Çalakiyê hilbijêrin ku dema ku qutik di standbya kûr de ye û nûvek
 msgid "Clear"
 msgstr "Zelal"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Danîna \\\\\\\\"
+msgstr "Danîna \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profîla rojan"
@@ -72,8 +74,9 @@ msgstr "Berî importê EPG-ya heyî jêbirin"
 msgid "Delete selected"
 msgstr "Hilbijartî jêbirin"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Kurterek \\\\\\\\ nîşan bide"
+msgstr "Kurterek \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ nîşan bide"
 
 msgid "EPG Import"
 msgstr ""
@@ -192,8 +195,9 @@ msgstr "Mîheng bi serkeftî hatin tomarkirin!"
 msgid "Shell command name"
 msgstr "Navê fermana Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Nîşan bide \\\\\\\\"
+msgstr "Têketinê nîşan bide"
 
 msgid "Show log"
 msgstr "Têketinê nîşan bide"
@@ -276,8 +280,9 @@ msgstr "Dema ku were çalak kirin, wê hingê hûn dikarin berî destpêkirina i
 msgid "When in deep standby"
 msgstr "Dema ku di bîhnfirehiya kûr de"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Dema ku hûn biryar didin ku EPG-ê piştî ku qutikê hatî boot kirin, têkevinê ku \\\\\\\\"
+msgstr "Dema ku hûn biryar didin ku EPG-ê piştî ku qutikê hatî boot kirin, têkevinê ku \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Gava ku hûn GUI-yê ji nû ve bidin destpêkirin, hûn dikarin biryar bidin ku hûn ketina daneya EPG-ê derbas bikin an na."
@@ -294,8 +299,9 @@ msgstr "Hûn dikarin piştî nûvekirina daneya EPG-ê pêveka AutoTimer bixwebe
 msgid "always"
 msgstr "herdem"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "bûyer\\\\\\\\n"
+msgstr "bûyer\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "qet"
@@ -315,3 +321,5 @@ msgstr "ji îtxalê derbas bibin"
 msgid "wake up and import"
 msgstr "şiyar bibin û import bikin"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Nîşan bide \\\\\\\\\\\\\\\\"

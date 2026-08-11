@@ -24,8 +24,9 @@ msgstr "Lisa teenusepakkuja"
 msgid "All services provider"
 msgstr "Kõik teenusepakkujad"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Rakenda ka \\\\\\\\"
+msgstr "Rakenda ka \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatiseeritud EPG importija"
@@ -54,8 +55,9 @@ msgstr "Valige toiming, mida teha, kui kast on sügavas ooterežiimis ja automaa
 msgid "Clear"
 msgstr "Selge"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Kaaluge \\\\\\\\"
+msgstr "Kaaluge \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Päevade profiil"
@@ -72,8 +74,9 @@ msgstr "Enne importimist kustutage praegune EPG"
 msgid "Delete selected"
 msgstr "Kustuta valitud"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Kuva otsetee \\\\\\\\"
+msgstr "Kuva otsetee \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG import"
@@ -192,8 +195,9 @@ msgstr "Seaded salvestati edukalt!"
 msgid "Shell command name"
 msgstr "Shelli käsu nimi"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Näita \\\\\\\\"
+msgstr "Kuva logi"
 
 msgid "Show log"
 msgstr "Kuva logi"
@@ -276,8 +280,9 @@ msgstr "Kui see on lubatud, saate soovitud skripti käivitada enne importimise a
 msgid "When in deep standby"
 msgstr "Kui olete sügavas ooterežiimis"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kui otsustate importida EPG pärast kasti käivitamist, mainige, kui \\\\\\\\"
+msgstr "Kui otsustate importida EPG pärast kasti käivitamist, mainige, kui \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI taaskäivitamisel saate otsustada, kas soovite EPG andmete importimise vahele jätta või mitte."
@@ -294,8 +299,9 @@ msgstr "Saate pärast EPG andmete värskendamist automaatselt käivitada pistikp
 msgid "always"
 msgstr "alati"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "sündmused\\\\\\\\n"
+msgstr "sündmused\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "mitte kunagi"
@@ -315,3 +321,5 @@ msgstr "jäta import vahele"
 msgid "wake up and import"
 msgstr "ärgata ja importida"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Näita \\\\\\\\\\\\\\\\"

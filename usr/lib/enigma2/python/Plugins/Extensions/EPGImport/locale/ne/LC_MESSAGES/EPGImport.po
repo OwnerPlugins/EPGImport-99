@@ -24,6 +24,7 @@ msgstr "प्रदायक थप्नुहोस्"
 msgid "All services provider"
 msgstr "सबै सेवा प्रदायक"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
 msgstr "साथै आवेदन दिनुहोस्"
 
@@ -54,8 +55,9 @@ msgstr "बक्स गहिरो स्ट्यान्डबाइमा 
 msgid "Clear"
 msgstr "खाली गर्नुहोस्"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "सेटिङ विचार गर्नुहोस् \\\\\\\\"
+msgstr "सेटिङ विचार गर्नुहोस् \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "दिन प्रोफाइल"
@@ -72,8 +74,9 @@ msgstr "आयात गर्नु अघि हालको EPG मेटा�
 msgid "Delete selected"
 msgstr "चयन गरिएको मेटाउनुहोस्"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "सर्टकट देखाउनुहोस् \\\\\\\\"
+msgstr "सर्टकट देखाउनुहोस् \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG आयात"
@@ -192,8 +195,9 @@ msgstr "सेटिङहरू सफलतापूर्वक सुरक�
 msgid "Shell command name"
 msgstr "शेल आदेश नाम"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "देखाउनुहोस् \\\\\\\\"
+msgstr "लग देखाउनुहोस्"
 
 msgid "Show log"
 msgstr "लग देखाउनुहोस्"
@@ -276,8 +280,9 @@ msgstr "जब सक्षम हुन्छ, तब तपाईंले आ
 msgid "When in deep standby"
 msgstr "गहिरो स्ट्यान्डबाइमा हुँदा"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "जब तपाइँ बक्स बुट पछि EPG आयात गर्ने निर्णय गर्नुहुन्छ भने उल्लेख गर्नुहोस् यदि \\\\\\\\"
+msgstr "जब तपाइँ बक्स बुट पछि EPG आयात गर्ने निर्णय गर्नुहुन्छ भने उल्लेख गर्नुहोस् यदि \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "जब तपाइँ GUI पुन: सुरु गर्नुहुन्छ तपाइँ EPG डेटा आयात छोड्ने वा नगर्ने निर्णय गर्न सक्नुहुन्छ।"
@@ -294,8 +299,9 @@ msgstr "EPG डेटा रिफ्रेस पछि यसको समय�
 msgid "always"
 msgstr "सधैं"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "घटनाहरू\\\\\\\\n"
+msgstr "घटनाहरू\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "कहिल्यै"
@@ -315,3 +321,5 @@ msgstr "आयात छोड्नुहोस्"
 msgid "wake up and import"
 msgstr "उठ्नुहोस् र आयात गर्नुहोस्"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "देखाउनुहोस् \\\\\\\\\\\\\\\\"

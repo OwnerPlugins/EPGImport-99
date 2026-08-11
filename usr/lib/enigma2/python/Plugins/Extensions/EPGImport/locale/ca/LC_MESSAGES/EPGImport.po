@@ -24,8 +24,9 @@ msgstr "Afegeix un proveïdor"
 msgid "All services provider"
 msgstr "Proveïdor de tots els serveis"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Aplica també \\\\\\\\"
+msgstr "Aplica també \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importador automàtic d'EPG"
@@ -54,8 +55,9 @@ msgstr "Trieu l'acció que voleu dur a terme quan la caixa estigui en espera pro
 msgid "Clear"
 msgstr "Clar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Penseu en configurar \\\\\\\\"
+msgstr "Penseu en configurar \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Perfil de dies"
@@ -72,8 +74,9 @@ msgstr "Suprimeix l'EPG actual abans de la importació"
 msgid "Delete selected"
 msgstr "Suprimeix el seleccionat"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Mostra una drecera \\\\\\\\"
+msgstr "Mostra una drecera \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importació EPG"
@@ -192,8 +195,9 @@ msgstr "La configuració s'ha desat correctament!"
 msgid "Shell command name"
 msgstr "Nom de l'ordre de Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Mostra \\\\\\\\"
+msgstr "Mostra el registre"
 
 msgid "Show log"
 msgstr "Mostra el registre"
@@ -276,8 +280,9 @@ msgstr "Quan estigui activat, podeu executar l'script desitjat abans d'iniciar l
 msgid "When in deep standby"
 msgstr "Quan estigui en espera profunda"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Quan decidiu importar l'EPG després d'iniciar el quadre, mencioneu si el \\\\\\\\"
+msgstr "Quan decidiu importar l'EPG després d'iniciar el quadre, mencioneu si el \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Quan reinicieu la GUI, podeu decidir saltar o no la importació de dades EPG."
@@ -294,8 +299,9 @@ msgstr "Podeu iniciar automàticament el connector AutoTimer després de l'actua
 msgid "always"
 msgstr "sempre"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "esdeveniments\\\\\\\\n"
+msgstr "esdeveniments\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "mai"
@@ -315,3 +321,5 @@ msgstr "saltar la importació"
 msgid "wake up and import"
 msgstr "despertar i importar"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Mostra \\\\\\\\\\\\\\\\"

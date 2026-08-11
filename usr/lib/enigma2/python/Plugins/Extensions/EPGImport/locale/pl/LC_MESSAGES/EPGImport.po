@@ -24,8 +24,9 @@ msgstr "Dodaj dostawcę"
 msgid "All services provider"
 msgstr "Dostawca wszystkich usług"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Zastosuj także \\\\\\\\"
+msgstr "Zastosuj także \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Zautomatyzowany importer EPG"
@@ -54,8 +55,9 @@ msgstr "Wybierz akcję, która ma zostać wykonana, gdy urządzenie znajduje si�
 msgid "Clear"
 msgstr "Jasne"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Rozważ ustawienie \\\\\\\\"
+msgstr "Rozważ ustawienie \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profil dni"
@@ -72,8 +74,9 @@ msgstr "Usuń bieżący EPG przed importem"
 msgid "Delete selected"
 msgstr "Usuń wybrane"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Wyświetl skrót \\\\\\\\"
+msgstr "Wyświetl skrót \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Import EPG"
@@ -192,8 +195,9 @@ msgstr "Ustawienia zostały zapisane pomyślnie!"
 msgid "Shell command name"
 msgstr "Nazwa polecenia powłoki"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Pokazywać \\\\\\\\"
+msgstr "Pokaż dziennik"
 
 msgid "Show log"
 msgstr "Pokaż dziennik"
@@ -276,8 +280,9 @@ msgstr "Po włączeniu tej opcji możesz uruchomić żądany skrypt przed rozpoc
 msgid "When in deep standby"
 msgstr "W stanie głębokiego czuwania"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Jeśli zdecydujesz się zaimportować EPG po uruchomieniu skrzynki, wspomnij, czy \\\\\\\\"
+msgstr "Jeśli zdecydujesz się zaimportować EPG po uruchomieniu skrzynki, wspomnij, czy \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Po ponownym uruchomieniu GUI możesz zdecydować o pominięciu lub nie importowaniu danych EPG."
@@ -294,8 +299,9 @@ msgstr "Możesz automatycznie uruchomić wtyczkę AutoTimer po aktualizacji dany
 msgid "always"
 msgstr "zawsze"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "wydarzenia\\\\\\\\n"
+msgstr "wydarzenia\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nigdy"
@@ -315,3 +321,5 @@ msgstr "pomiń import"
 msgid "wake up and import"
 msgstr "obudź się i importuj"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Pokazywać \\\\\\\\\\\\\\\\"

@@ -24,8 +24,9 @@ msgstr "Tambahkan Penyedia"
 msgid "All services provider"
 msgstr "Semua penyedia layanan"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Terapkan juga \\\\\\\\"
+msgstr "Terapkan juga \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importir EPG Otomatis"
@@ -54,8 +55,9 @@ msgstr "Pilih tindakan yang akan dilakukan saat receiver berada dalam kondisi si
 msgid "Clear"
 msgstr "Jernih"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Pertimbangkan untuk menyetel \\\\\\\\"
+msgstr "Pertimbangkan untuk menyetel \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profil Hari"
@@ -72,8 +74,9 @@ msgstr "Hapus EPG saat ini sebelum mengimpor"
 msgid "Delete selected"
 msgstr "Hapus yang dipilih"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Tampilkan pintasan \\\\\\\\"
+msgstr "Tampilkan pintasan \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Impor EPG"
@@ -192,8 +195,9 @@ msgstr "Pengaturan berhasil disimpan!"
 msgid "Shell command name"
 msgstr "Nama perintah shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Menunjukkan \\\\\\\\"
+msgstr "Tampilkan log"
 
 msgid "Show log"
 msgstr "Tampilkan log"
@@ -276,8 +280,9 @@ msgstr "Jika diaktifkan, maka Anda dapat menjalankan skrip yang diinginkan sebel
 msgid "When in deep standby"
 msgstr "Saat dalam keadaan siaga mendalam"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Ketika Anda memutuskan untuk mengimpor EPG setelah kotak di-boot, sebutkan jika \\\\\\\\"
+msgstr "Ketika Anda memutuskan untuk mengimpor EPG setelah kotak di-boot, sebutkan jika \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Saat Anda memulai ulang GUI, Anda dapat memutuskan untuk melewatkan atau tidak mengimpor data EPG."
@@ -294,8 +299,9 @@ msgstr "Anda dapat memulai plugin AutoTimer secara otomatis setelah pembaruan da
 msgid "always"
 msgstr "selalu"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "acara\\\\\\\\n"
+msgstr "acara\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "tidak pernah"
@@ -315,3 +321,5 @@ msgstr "lewati impor"
 msgid "wake up and import"
 msgstr "bangun dan impor"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Menunjukkan \\\\\\\\\\\\\\\\"

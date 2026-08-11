@@ -24,8 +24,9 @@ msgstr "ಒದಗಿಸುವವರನ್ನು ಸೇರಿಸಿ"
 msgid "All services provider"
 msgstr "ಎಲ್ಲಾ ಸೇವೆ ಒದಗಿಸುವವರು"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "ಸಹ ಅನ್ವಯಿಸಿ \\\\\\\\"
+msgstr "ಸಹ ಅನ್ವಯಿಸಿ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ಸ್ವಯಂಚಾಲಿತ EPG ಆಮದುದಾರ"
@@ -54,8 +55,9 @@ msgstr "ಬಾಕ್ಸ್ ಆಳವಾದ ಸ್ಟ್ಯಾಂಡ್‌ಬೈ�
 msgid "Clear"
 msgstr "ತೆರವುಗೊಳಿಸಿ"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಪರಿಗಣಿಸಿ \\\\\\\\"
+msgstr "ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಪರಿಗಣಿಸಿ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "ಡೇಸ್ ಪ್ರೊಫೈಲ್"
@@ -72,8 +74,9 @@ msgstr "ಆಮದು ಮಾಡುವ ಮೊದಲು ಪ್ರಸ್ತುತ EP
 msgid "Delete selected"
 msgstr "ಆಯ್ಕೆಮಾಡಿದ ಅಳಿಸು"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "ಶಾರ್ಟ್‌ಕಟ್ ಪ್ರದರ್ಶಿಸಿ \\\\\\\\"
+msgstr "ಶಾರ್ಟ್‌ಕಟ್ ಪ್ರದರ್ಶಿಸಿ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG ಆಮದು"
@@ -192,8 +195,9 @@ msgstr "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಯಶಸ್ವಿಯ�
 msgid "Shell command name"
 msgstr "ಶೆಲ್ ಆಜ್ಞೆಯ ಹೆಸರು"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "ತೋರಿಸು \\\\\\\\"
+msgstr "ಲಾಗ್ ತೋರಿಸು"
 
 msgid "Show log"
 msgstr "ಲಾಗ್ ತೋರಿಸು"
@@ -276,8 +280,9 @@ msgstr "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಆಮದು ಪ್ರಾ
 msgid "When in deep standby"
 msgstr "ಆಳವಾದ ಸ್ಟ್ಯಾಂಡ್ಬೈನಲ್ಲಿರುವಾಗ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ಬಾಕ್ಸ್ ಬೂಟ್ ಮಾಡಿದ ನಂತರ ನೀವು EPG ಅನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಲು ನಿರ್ಧರಿಸಿದಾಗ \\\\\\\\\\\\\\\\"
+msgstr "ಬಾಕ್ಸ್ ಬೂಟ್ ಮಾಡಿದ ನಂತರ ನೀವು EPG ಅನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಲು ನಿರ್ಧರಿಸಿದಾಗ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "ನೀವು GUI ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿದಾಗ ನೀವು EPG ಡೇಟಾ ಆಮದು ಬಿಟ್ಟುಬಿಡಲು ಅಥವಾ ಬೇಡವೆಂದು ನಿರ್ಧರಿಸಬಹುದು."
@@ -294,8 +299,9 @@ msgstr "EPG ಡೇಟಾ ರಿಫ್ರೆಶ್ ಮಾಡಿದ ನಂತರ �
 msgid "always"
 msgstr "ಯಾವಾಗಲೂ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ಘಟನೆಗಳು\\\\\\\\n"
+msgstr "ಘಟನೆಗಳು\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ಎಂದಿಗೂ"
@@ -315,3 +321,5 @@ msgstr "ಆಮದು ಬಿಟ್ಟುಬಿಡಿ"
 msgid "wake up and import"
 msgstr "ಎಚ್ಚರಗೊಂಡು ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "ತೋರಿಸು \\\\\\\\\\\\\\\\"

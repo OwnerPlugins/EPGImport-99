@@ -24,8 +24,9 @@ msgstr "הוסף ספק"
 msgid "All services provider"
 msgstr "כל ספק השירותים"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "החל גם \\\\\\\\"
+msgstr "החל גם \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "יבואן EPG אוטומטי"
@@ -54,8 +55,9 @@ msgstr "בחר את הפעולה לביצוע כאשר התיבה נמצאת ב�
 msgid "Clear"
 msgstr "בָּרוּר"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "שקול להגדיר \\\\\\\\"
+msgstr "שקול להגדיר \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "פרופיל ימים"
@@ -72,8 +74,9 @@ msgstr "מחק את ה-EPG הנוכחי לפני הייבוא"
 msgid "Delete selected"
 msgstr "מחק את הבחירה"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "הצג קיצור \\\\\\\\"
+msgstr "הצג קיצור \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "ייבוא ​​EPG"
@@ -192,8 +195,9 @@ msgstr "ההגדרות נשמרו בהצלחה!"
 msgid "Shell command name"
 msgstr "שם פקודת מעטפת"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "הצג \\\\\\\\"
+msgstr "הצג יומן"
 
 msgid "Show log"
 msgstr "הצג יומן"
@@ -276,8 +280,9 @@ msgstr "כאשר מופעל, אז אתה יכול להפעיל את הסקריפ
 msgid "When in deep standby"
 msgstr "במצב המתנה עמוק"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "כאשר אתה מחליט לייבא את ה-EPG לאחר אתחול התיבה, ציין אם ה-\\\\\\\\"
+msgstr "כאשר אתה מחליט לייבא את ה-EPG לאחר אתחול התיבה, ציין אם ה-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "כאשר אתה מפעיל מחדש את ה-GUI אתה יכול להחליט לדלג או לא על ייבוא ​​הנתונים של EPG."
@@ -294,8 +299,9 @@ msgstr "אתה יכול להפעיל אוטומטית את התוסף AutoTimer 
 msgid "always"
 msgstr "תָמִיד"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "אירועים\\\\\\\\n"
+msgstr "אירועים\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "לְעוֹלָם לֹא"
@@ -315,3 +321,5 @@ msgstr "לדלג על הייבוא"
 msgid "wake up and import"
 msgstr "להתעורר ולייבא"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "הצג \\\\\\\\\\\\\\\\"

@@ -24,8 +24,9 @@ msgstr "Tilføj udbyder"
 msgid "All services provider"
 msgstr "Alle tjenesteudbydere"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Anvend også \\\\\\\\"
+msgstr "Anvend også \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatiseret EPG-importør"
@@ -54,8 +55,9 @@ msgstr "Vælg den handling, der skal udføres, når boksen er i dyb standby, og 
 msgid "Clear"
 msgstr "Klar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Overvej at indstille \\\\\\\\"
+msgstr "Overvej at indstille \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dage profil"
@@ -72,8 +74,9 @@ msgstr "Slet den aktuelle EPG før import"
 msgid "Delete selected"
 msgstr "Slet valgte"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Vis en genvej \\\\\\\\"
+msgstr "Vis en genvej \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG import"
@@ -192,8 +195,9 @@ msgstr "Indstillinger blev gemt!"
 msgid "Shell command name"
 msgstr "Shell kommando navn"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Vis \\\\\\\\"
+msgstr "Vis log"
 
 msgid "Show log"
 msgstr "Vis log"
@@ -276,8 +280,9 @@ msgstr "Når det er aktiveret, så kan du køre det ønskede script før du star
 msgid "When in deep standby"
 msgstr "Når du er i dyb standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Når du beslutter dig for at importere EPG'en efter at boksen er startet, skal du nævne, om \\\\\\\\"
+msgstr "Når du beslutter dig for at importere EPG'en efter at boksen er startet, skal du nævne, om \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Når du genstarter GUI'en, kan du beslutte at springe EPG-dataimporten over eller ej."
@@ -294,8 +299,9 @@ msgstr "Du kan automatisk starte plugin'et AutoTimer efter EPG-dataopdateringen 
 msgid "always"
 msgstr "altid"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "begivenheder\\\\\\\\n"
+msgstr "begivenheder\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "aldrig"
@@ -315,3 +321,5 @@ msgstr "springe importen over"
 msgid "wake up and import"
 msgstr "vågne op og importere"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Vis \\\\\\\\\\\\\\\\"

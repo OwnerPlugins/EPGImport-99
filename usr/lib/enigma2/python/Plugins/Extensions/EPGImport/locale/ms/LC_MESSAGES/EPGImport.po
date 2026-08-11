@@ -24,8 +24,9 @@ msgstr "Tambah Pembekal"
 msgid "All services provider"
 msgstr "Semua penyedia perkhidmatan"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Juga memohon \\\\\\\\"
+msgstr "Juga memohon \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Pengimport EPG Automatik"
@@ -54,8 +55,9 @@ msgstr "Pilih tindakan untuk dilakukan apabila kotak berada dalam siap sedia dan
 msgid "Clear"
 msgstr "Jelas"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Pertimbangkan untuk menetapkan \\\\\\\\"
+msgstr "Pertimbangkan untuk menetapkan \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profil Hari"
@@ -72,8 +74,9 @@ msgstr "Padamkan EPG semasa sebelum import"
 msgid "Delete selected"
 msgstr "Padam dipilih"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Paparkan pintasan \\\\\\\\"
+msgstr "Paparkan pintasan \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Import EPG"
@@ -192,8 +195,9 @@ msgstr "Tetapan berjaya disimpan!"
 msgid "Shell command name"
 msgstr "Nama arahan Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Tunjukkan \\\\\\\\"
+msgstr "Tunjukkan log"
 
 msgid "Show log"
 msgstr "Tunjukkan log"
@@ -276,8 +280,9 @@ msgstr "Apabila didayakan, maka anda boleh menjalankan skrip yang dikehendaki se
 msgid "When in deep standby"
 msgstr "Apabila dalam keadaan siap sedia"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Apabila anda membuat keputusan untuk mengimport EPG selepas kotak but menyebut jika \\\\\\\\"
+msgstr "Apabila anda membuat keputusan untuk mengimport EPG selepas kotak but menyebut jika \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Apabila anda memulakan semula GUI anda boleh memutuskan untuk melangkau atau tidak mengimport data EPG."
@@ -294,8 +299,9 @@ msgstr "Anda boleh memulakan pemalam AutoTimer secara automatik selepas kemas ki
 msgid "always"
 msgstr "sentiasa"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "acara\\\\\\\\n"
+msgstr "acara\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "tidak pernah"
@@ -315,3 +321,5 @@ msgstr "langkau import"
 msgid "wake up and import"
 msgstr "bangun dan import"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Tunjukkan \\\\\\\\\\\\\\\\"

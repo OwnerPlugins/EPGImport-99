@@ -24,8 +24,9 @@ msgstr "Lisää palveluntarjoaja"
 msgid "All services provider"
 msgstr "Kaikki palveluntarjoaja"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Hae myös \\\\\\\\"
+msgstr "Hae myös \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatisoitu EPG-maahantuoja"
@@ -54,8 +55,9 @@ msgstr "Valitse toiminto, joka suoritetaan, kun laatikko on syvässä valmiustil
 msgid "Clear"
 msgstr "Selkeä"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Harkitse asetusta \\\\\\\\"
+msgstr "Harkitse asetusta \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Päivän profiili"
@@ -72,8 +74,9 @@ msgstr "Poista nykyinen EPG ennen tuontia"
 msgid "Delete selected"
 msgstr "Poista valitut"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Näytä pikakuvake \\\\\\\\"
+msgstr "Näytä pikakuvake \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG tuonti"
@@ -192,8 +195,9 @@ msgstr "Asetukset tallennettu onnistuneesti!"
 msgid "Shell command name"
 msgstr "Shell-komennon nimi"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Näytä \\\\\\\\"
+msgstr "Näytä loki"
 
 msgid "Show log"
 msgstr "Näytä loki"
@@ -276,8 +280,9 @@ msgstr "Kun tämä on käytössä, voit suorittaa haluamasi skriptin ennen tuonn
 msgid "When in deep standby"
 msgstr "Syvässä valmiustilassa"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kun päätät tuoda EPG:n laatikon käynnistyksen jälkeen, mainitse jos \\\\\\\\"
+msgstr "Kun päätät tuoda EPG:n laatikon käynnistyksen jälkeen, mainitse jos \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kun käynnistät graafisen käyttöliittymän uudelleen, voit päättää ohittaako EPG-tietojen tuonnin vai ei."
@@ -294,8 +299,9 @@ msgstr "Voit käynnistää AutoTimer-laajennuksen automaattisesti EPG-tietojen p
 msgid "always"
 msgstr "aina"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "tapahtumia\\\\\\\\n"
+msgstr "tapahtumia\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ei koskaan"
@@ -315,3 +321,5 @@ msgstr "ohita tuonti"
 msgid "wake up and import"
 msgstr "herätä ja tuoda"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Näytä \\\\\\\\\\\\\\\\"

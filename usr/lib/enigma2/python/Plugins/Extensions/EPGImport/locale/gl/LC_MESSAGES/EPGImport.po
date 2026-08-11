@@ -24,8 +24,9 @@ msgstr "Engadir provedor"
 msgid "All services provider"
 msgstr "Todos os provedores de servizos"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Aplicar tamén \\\\\\\\"
+msgstr "Aplicar tamén \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importador automático de EPG"
@@ -54,8 +55,9 @@ msgstr "Escolle a acción a realizar cando a caixa estea en modo de espera profu
 msgid "Clear"
 msgstr "Limpar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Considere configurar \\\\\\\\"
+msgstr "Considere configurar \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Perfil de días"
@@ -72,8 +74,9 @@ msgstr "Eliminar o EPG actual antes da importación"
 msgid "Delete selected"
 msgstr "Eliminar seleccionado"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Mostrar un atallo \\\\\\\\"
+msgstr "Mostrar un atallo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importación EPG"
@@ -192,8 +195,9 @@ msgstr "A configuración gardouse correctamente!"
 msgid "Shell command name"
 msgstr "Nome do comando Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Mostrar \\\\\\\\"
+msgstr "Mostrar rexistro"
 
 msgid "Show log"
 msgstr "Mostrar rexistro"
@@ -276,8 +280,9 @@ msgstr "Cando estea activado, pode executar o script desexado antes de iniciar a
 msgid "When in deep standby"
 msgstr "Cando está en espera profunda"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Cando decida importar o EPG despois de que se iniciase a caixa, mencione se o \\\\\\\\"
+msgstr "Cando decida importar o EPG despois de que se iniciase a caixa, mencione se o \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Cando reinicie a GUI, pode decidir saltar ou non a importación de datos EPG."
@@ -294,8 +299,9 @@ msgstr "Podes iniciar automaticamente o complemento AutoTimer despois da actuali
 msgid "always"
 msgstr "sempre"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "eventos\\\\\\\\n"
+msgstr "eventos\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nunca"
@@ -315,3 +321,5 @@ msgstr "saltar a importación"
 msgid "wake up and import"
 msgstr "espertar e importar"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Mostrar \\\\\\\\\\\\\\\\"

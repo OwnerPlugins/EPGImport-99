@@ -24,8 +24,9 @@ msgstr "Legg til leverandør"
 msgid "All services provider"
 msgstr "Alle tjenesteleverandører"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Bruk også \\\\\\\\"
+msgstr "Bruk også \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatisert EPG-importør"
@@ -54,8 +55,9 @@ msgstr "Velg handlingen som skal utføres når boksen er i dyp standby og den au
 msgid "Clear"
 msgstr "Klar"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Vurder å stille inn \\\\\\\\"
+msgstr "Vurder å stille inn \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dager profil"
@@ -72,8 +74,9 @@ msgstr "Slett gjeldende EPG før import"
 msgid "Delete selected"
 msgstr "Slett valgte"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Vis en snarvei \\\\\\\\"
+msgstr "Vis en snarvei \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG-import"
@@ -192,8 +195,9 @@ msgstr "Innstillingene er lagret!"
 msgid "Shell command name"
 msgstr "Shell-kommandonavn"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Vis \\\\\\\\"
+msgstr "Vis logg"
 
 msgid "Show log"
 msgstr "Vis logg"
@@ -276,8 +280,9 @@ msgstr "Når den er aktivert, kan du kjøre ønsket skript før du starter impor
 msgid "When in deep standby"
 msgstr "Når du er i dyp standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Når du bestemmer deg for å importere EPG-en etter at boksen er startet opp, nevner du om \\\\\\\\"
+msgstr "Når du bestemmer deg for å importere EPG-en etter at boksen er startet opp, nevner du om \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Når du starter GUI på nytt, kan du bestemme deg for å hoppe over EPG-dataimporten eller ikke."
@@ -294,8 +299,9 @@ msgstr "Du kan automatisk starte plugin-modulen AutoTimer etter EPG-dataoppdater
 msgid "always"
 msgstr "alltid"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "hendelser\\\\\\\\n"
+msgstr "hendelser\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "aldri"
@@ -315,3 +321,5 @@ msgstr "hoppe over importen"
 msgid "wake up and import"
 msgstr "våkne opp og importere"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Vis \\\\\\\\\\\\\\\\"

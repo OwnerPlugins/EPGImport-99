@@ -24,8 +24,9 @@ msgstr "Дадаць пастаўшчыка"
 msgid "All services provider"
 msgstr "Пастаўшчык усіх паслуг"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Таксама ўжываць \\\\\\\\"
+msgstr "Таксама ўжываць \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Аўтаматызаваны імпарцёр EPG"
@@ -54,8 +55,9 @@ msgstr "Выберыце дзеянне, якое трэба выканаць, �
 msgid "Clear"
 msgstr "Ясна"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Разгледзьце магчымасць усталяваць \\\\\\\\"
+msgstr "Разгледзьце магчымасць усталяваць \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Профіль дзён"
@@ -72,8 +74,9 @@ msgstr "Выдаліць бягучы EPG перад імпартам"
 msgid "Delete selected"
 msgstr "Выдаліць выбранае"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Паказаць ярлык \\\\\\\\"
+msgstr "Паказаць ярлык \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Імпарт EPG"
@@ -192,8 +195,9 @@ msgstr "Налады паспяхова захаваны!"
 msgid "Shell command name"
 msgstr "Назва каманды абалонкі"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Паказаць \\\\\\\\"
+msgstr "Паказаць журнал"
 
 msgid "Show log"
 msgstr "Паказаць журнал"
@@ -276,8 +280,9 @@ msgstr "Калі гэта ўключана, вы можаце запусціць
 msgid "When in deep standby"
 msgstr "У рэжыме глыбокага чакання"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Калі вы вырашылі імпартаваць EPG пасля загрузкі скрынкі, згадайце, калі \\\\\\\\"
+msgstr "Калі вы вырашылі імпартаваць EPG пасля загрузкі скрынкі, згадайце, калі \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Калі вы перазапусціце графічны інтэрфейс, вы можаце вырашыць, прапусціць ці не імпарт даных EPG."
@@ -294,8 +299,9 @@ msgstr "Вы можаце аўтаматычна запускаць плагін
 msgid "always"
 msgstr "заўсёды"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "падзеі\\\\\\\\n"
+msgstr "падзеі\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ніколі"
@@ -315,3 +321,5 @@ msgstr "прапусціць імпарт"
 msgid "wake up and import"
 msgstr "прачынацца і імпартаваць"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Паказаць \\\\\\\\\\\\\\\\"

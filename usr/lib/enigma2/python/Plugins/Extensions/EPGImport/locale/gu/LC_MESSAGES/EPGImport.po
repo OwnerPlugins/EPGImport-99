@@ -24,8 +24,9 @@ msgstr "પ્રદાતા ઉમેરો"
 msgid "All services provider"
 msgstr "તમામ સેવાઓ પ્રદાતા"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "પણ અરજી કરો \\\\\\\\"
+msgstr "પણ અરજી કરો \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "સ્વયંસંચાલિત EPG આયાતકાર"
@@ -54,8 +55,9 @@ msgstr "જ્યારે બોક્સ ડીપ સ્ટેન્ડબા
 msgid "Clear"
 msgstr "સાફ કરો"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "સેટિંગ પર વિચાર કરો \\\\\\\\"
+msgstr "સેટિંગ પર વિચાર કરો \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "દિવસો પ્રોફાઇલ"
@@ -72,8 +74,9 @@ msgstr "આયાત કરતા પહેલા વર્તમાન EPG ક�
 msgid "Delete selected"
 msgstr "પસંદ કરેલ કાઢી નાખો"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "શોર્ટકટ દર્શાવો \\\\\\\\"
+msgstr "શોર્ટકટ દર્શાવો \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG આયાત"
@@ -192,8 +195,9 @@ msgstr "સેટિંગ્સ સફળતાપૂર્વક સાચવ�
 msgid "Shell command name"
 msgstr "શેલ આદેશનું નામ"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "બતાવો \\\\\\\\"
+msgstr "લોગ બતાવો"
 
 msgid "Show log"
 msgstr "લોગ બતાવો"
@@ -276,8 +280,9 @@ msgstr "જ્યારે સક્ષમ હોય, ત્યારે તમ�
 msgid "When in deep standby"
 msgstr "જ્યારે ડીપ સ્ટેન્ડબાયમાં હોય છે"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "જ્યારે તમે બોક્સ બુટ થયા પછી EPG આયાત કરવાનું નક્કી કરો છો, જો \\\\\\\\"
+msgstr "જ્યારે તમે બોક્સ બુટ થયા પછી EPG આયાત કરવાનું નક્કી કરો છો, જો \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "જ્યારે તમે GUI ને પુનઃપ્રારંભ કરો છો ત્યારે તમે EPG ડેટા આયાતને છોડવાનું કે નહીં તે નક્કી કરી શકો છો."
@@ -294,8 +299,9 @@ msgstr "તમે EPG ડેટા અપડેટ પછી ઑટો ટાઈ
 msgid "always"
 msgstr "હંમેશા"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ઘટનાઓ\\\\\\\\n"
+msgstr "ઘટનાઓ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ક્યારેય નહીં"
@@ -315,3 +321,5 @@ msgstr "આયાત છોડો"
 msgid "wake up and import"
 msgstr "જાગો અને આયાત કરો"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "બતાવો \\\\\\\\\\\\\\\\"

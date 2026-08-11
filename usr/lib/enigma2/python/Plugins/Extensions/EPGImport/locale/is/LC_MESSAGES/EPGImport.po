@@ -24,8 +24,9 @@ msgstr "Bæta við veitanda"
 msgid "All services provider"
 msgstr "Allur þjónustuaðili"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Notaðu einnig \\\\\\\\"
+msgstr "Notaðu einnig \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Sjálfvirkur EPG innflytjandi"
@@ -54,8 +55,9 @@ msgstr "Veldu aðgerðina sem á að framkvæma þegar kassinn er í djúpum bi�
 msgid "Clear"
 msgstr "Hreinsa"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Íhugaðu að setja \\\\\\\\"
+msgstr "Íhugaðu að setja \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Daga prófíl"
@@ -72,8 +74,9 @@ msgstr "Eyddu núverandi EPG fyrir innflutning"
 msgid "Delete selected"
 msgstr "Eyða völdum"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Birta flýtileið \\\\\\\\"
+msgstr "Birta flýtileið \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG innflutningur"
@@ -192,8 +195,9 @@ msgstr "Stillingar vistaðar!"
 msgid "Shell command name"
 msgstr "Shell skipunarheiti"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Sýna \\\\\\\\"
+msgstr "Sýna log"
 
 msgid "Show log"
 msgstr "Sýna log"
@@ -276,8 +280,9 @@ msgstr "Þegar það er virkt geturðu keyrt skriftuna sem þú vilt áður en i
 msgid "When in deep standby"
 msgstr "Þegar í djúpum biðstöðu"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Þegar þú ákveður að flytja inn EPG eftir að kassinn var ræstur skaltu nefna hvort \\\\\\\\"
+msgstr "Þegar þú ákveður að flytja inn EPG eftir að kassinn var ræstur skaltu nefna hvort \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Þegar þú endurræsir GUI geturðu ákveðið að sleppa EPG gagnainnflutningi eða ekki."
@@ -294,8 +299,9 @@ msgstr "Þú getur sjálfkrafa ræst viðbótina AutoTimer eftir EPG gagnauppfæ
 msgid "always"
 msgstr "alltaf"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "viðburðir\\\\\\\\n"
+msgstr "viðburðir\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "aldrei"
@@ -315,3 +321,5 @@ msgstr "sleppa innflutningnum"
 msgid "wake up and import"
 msgstr "vakna og flytja inn"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Sýna \\\\\\\\\\\\\\\\"

@@ -24,8 +24,9 @@ msgstr "አቅራቢን ያክሉ"
 msgid "All services provider"
 msgstr "ሁሉም አገልግሎት አቅራቢ"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "እንዲሁም ተግብር \\\\\\\\"
+msgstr "እንዲሁም ተግብር \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ራስ-ሰር EPG አስመጪ"
@@ -54,8 +55,9 @@ msgstr "ሳጥኑ በጥልቅ ተጠባባቂ ውስጥ ሲሆን እና አው
 msgid "Clear"
 msgstr "ግልጽ"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "ማዋቀርን አስቡበት \\\\\\\\"
+msgstr "ማዋቀርን አስቡበት \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "የቀናት መገለጫ"
@@ -72,6 +74,7 @@ msgstr "ከማስመጣትዎ በፊት የአሁኑን EPG ሰርዝ"
 msgid "Delete selected"
 msgstr "ሰርዝ ተመርጧል"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
 msgstr "አቋራጭ አሳይ"
 
@@ -192,8 +195,9 @@ msgstr "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል!"
 msgid "Shell command name"
 msgstr "የሼል ትዕዛዝ ስም"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "አሳይ"
+msgstr "ምዝግብ ማስታወሻን አሳይ"
 
 msgid "Show log"
 msgstr "ምዝግብ ማስታወሻን አሳይ"
@@ -276,8 +280,9 @@ msgstr "ሲነቃ, ማስመጣቱን ከመጀመርዎ በፊት የተፈለ�
 msgid "When in deep standby"
 msgstr "በጥልቅ ተጠባባቂ ውስጥ ሲሆኑ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ሳጥኑ ከተነሳ በኋላ EPGን ለማስመጣት ሲወስኑ \\\\\\\\\\\\\\\\"
+msgstr "ሳጥኑ ከተነሳ በኋላ EPGን ለማስመጣት ሲወስኑ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI ን እንደገና ሲጀምሩ የ EPG ውሂብ ማስመጣትን ለመዝለል መወሰን ይችላሉ ።"
@@ -294,8 +299,9 @@ msgstr "ፕለጊኑን AutoTimer ከ EPG ውሂብ ማሻሻያ በኋላ በ�
 msgid "always"
 msgstr "ሁልጊዜ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ክስተቶች\\\\\\\\n"
+msgstr "ክስተቶች\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "በፍጹም"
@@ -315,3 +321,5 @@ msgstr "አስመጪውን መዝለል"
 msgid "wake up and import"
 msgstr "ተነሱ እና አስመጪ"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "አሳይ"

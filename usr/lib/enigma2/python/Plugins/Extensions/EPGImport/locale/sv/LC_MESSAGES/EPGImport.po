@@ -24,8 +24,9 @@ msgstr "Lägg till leverantör"
 msgid "All services provider"
 msgstr "Alla tjänsteleverantörer"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Använd även \\\\\\\\"
+msgstr "Använd även \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatiserad EPG-importör"
@@ -54,8 +55,9 @@ msgstr "Välj den åtgärd som ska utföras när boxen är i djup standby och de
 msgid "Clear"
 msgstr "Rensa"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Överväg att ställa in \\\\\\\\"
+msgstr "Överväg att ställa in \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dagars profil"
@@ -72,8 +74,9 @@ msgstr "Ta bort aktuell EPG före import"
 msgid "Delete selected"
 msgstr "Ta bort markerade"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Visa en genväg \\\\\\\\"
+msgstr "Visa en genväg \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG-import"
@@ -192,8 +195,9 @@ msgstr "Inställningarna har sparats!"
 msgid "Shell command name"
 msgstr "Shell kommandonamn"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Visa \\\\\\\\"
+msgstr "Visa logg"
 
 msgid "Show log"
 msgstr "Visa logg"
@@ -276,8 +280,9 @@ msgstr "När det är aktiverat kan du köra det önskade skriptet innan du start
 msgid "When in deep standby"
 msgstr "När du är i djup standby"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "När du bestämmer dig för att importera EPG:n efter att rutan startat, nämn om \\\\\\\\"
+msgstr "När du bestämmer dig för att importera EPG:n efter att rutan startat, nämn om \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "När du startar om det grafiska användargränssnittet kan du välja att hoppa över EPG-dataimporten eller inte."
@@ -294,8 +299,9 @@ msgstr "Du kan starta insticksprogrammet AutoTimer automatiskt efter EPG-dataupp
 msgid "always"
 msgstr "alltid"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "händelser\\\\\\\\n"
+msgstr "händelser\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "aldrig"
@@ -315,3 +321,5 @@ msgstr "hoppa över importen"
 msgid "wake up and import"
 msgstr "vakna upp och importera"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Visa \\\\\\\\\\\\\\\\"

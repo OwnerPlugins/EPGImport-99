@@ -24,8 +24,9 @@ msgstr "Провайдерді қосу"
 msgid "All services provider"
 msgstr "Барлық қызметтерді жеткізуші"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Сондай-ақ қолдану \\\\\\\\"
+msgstr "Сондай-ақ қолдану \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Автоматтандырылған EPG импорттаушысы"
@@ -54,8 +55,9 @@ msgstr "Қорап терең күту режимінде болғанда ор�
 msgid "Clear"
 msgstr "Таза"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "\\\\\\\\ параметрін қарастырыңыз"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ параметрін қарастырыңыз"
 
 msgid "Days Profile"
 msgstr "Күндер профилі"
@@ -72,8 +74,9 @@ msgstr "Импорттау алдында ағымдағы EPG жою"
 msgid "Delete selected"
 msgstr "Таңдалғанды ​​жою"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Таңбашаны көрсету \\\\\\\\"
+msgstr "Таңбашаны көрсету \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG импорты"
@@ -192,8 +195,9 @@ msgstr "Параметрлер сәтті сақталды!"
 msgid "Shell command name"
 msgstr "Shell пәрмен атауы"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Көрсету \\\\\\\\"
+msgstr "Журналды көрсету"
 
 msgid "Show log"
 msgstr "Журналды көрсету"
@@ -276,8 +280,9 @@ msgstr "Қосылған кезде, импортты бастамас бұры�
 msgid "When in deep standby"
 msgstr "Күту режимінде болғанда"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Қорап жүктелгеннен кейін EPG импорттауды шешкен кезде, егер \\\\\\\\"
+msgstr "Қорап жүктелгеннен кейін EPG импорттауды шешкен кезде, егер \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI қайта іске қосылғанда, EPG деректерін импорттауды өткізіп жіберу немесе алмау туралы шешім қабылдауға болады."
@@ -294,8 +299,9 @@ msgstr "EPG деректерін жаңартқаннан кейін оның ж
 msgid "always"
 msgstr "әрқашан"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "оқиғалар\\\\\\\\n"
+msgstr "оқиғалар\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ешқашан"
@@ -315,3 +321,5 @@ msgstr "импортты өткізіп жіберіңіз"
 msgid "wake up and import"
 msgstr "ояту және импорттау"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Көрсету \\\\\\\\\\\\\\\\"

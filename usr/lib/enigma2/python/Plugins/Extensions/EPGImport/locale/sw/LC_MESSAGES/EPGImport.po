@@ -24,8 +24,9 @@ msgstr "Ongeza Mtoa Huduma"
 msgid "All services provider"
 msgstr "Mtoa huduma zote"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Pia tuma \\\\\\\\"
+msgstr "Pia tuma \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Kiingizaji cha EPG kiotomatiki"
@@ -54,8 +55,9 @@ msgstr "Chagua kitendo cha kutekeleza wakati kisanduku kiko katika hali ya kusub
 msgid "Clear"
 msgstr "Wazi"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Zingatia kuweka \\\\\\\\"
+msgstr "Zingatia kuweka \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Wasifu wa Siku"
@@ -72,8 +74,9 @@ msgstr "Futa EPG ya sasa kabla ya kuagiza"
 msgid "Delete selected"
 msgstr "Futa iliyochaguliwa"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Onyesha njia ya mkato \\\\\\\\"
+msgstr "Onyesha njia ya mkato \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Ingiza EPG"
@@ -192,8 +195,9 @@ msgstr "Mipangilio imehifadhiwa!"
 msgid "Shell command name"
 msgstr "Jina la amri ya Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Onyesha \\\\\\\\"
+msgstr "Onyesha kumbukumbu"
 
 msgid "Show log"
 msgstr "Onyesha kumbukumbu"
@@ -276,8 +280,9 @@ msgstr "Ikiwashwa, basi unaweza kuendesha hati inayotaka kabla ya kuanza kuagiza
 msgid "When in deep standby"
 msgstr "Ukiwa katika hali ya kusubiri sana"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Unapoamua kuagiza EPG baada ya kisanduku kuanza kutaja ikiwa \\\\\\\\"
+msgstr "Unapoamua kuagiza EPG baada ya kisanduku kuanza kutaja ikiwa \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Unapoanzisha upya GUI unaweza kuamua kuruka au kutoingiza data ya EPG."
@@ -294,8 +299,9 @@ msgstr "Unaweza kuanzisha kiotomatiki programu-jalizi ya AutoTimer baada ya sasi
 msgid "always"
 msgstr "daima"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "matukio\\\\\\\\n"
+msgstr "matukio\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "kamwe"
@@ -315,3 +321,5 @@ msgstr "ruka uagizaji"
 msgid "wake up and import"
 msgstr "kuamka na kuagiza"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Onyesha \\\\\\\\\\\\\\\\"

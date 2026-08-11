@@ -24,8 +24,9 @@ msgstr "Ychwanegu Darparwr"
 msgid "All services provider"
 msgstr "Pob darparwr gwasanaethau"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Gwnewch gais hefyd \\\\\\\\"
+msgstr "Gwnewch gais hefyd \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Mewnforiwr EPG awtomataidd"
@@ -54,8 +55,9 @@ msgstr "Dewiswch y camau gweithredu i'w cyflawni pan fydd y blwch yn y modd segu
 msgid "Clear"
 msgstr "Clir"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Ystyriwch osod \\\\\\\\"
+msgstr "Ystyriwch osod \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Proffil Dyddiau"
@@ -72,8 +74,9 @@ msgstr "Dileu EPG cyfredol cyn mewnforio"
 msgid "Delete selected"
 msgstr "Dileu a ddewiswyd"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Dangos llwybr byr \\\\\\\\"
+msgstr "Dangos llwybr byr \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Mewnforio EPG"
@@ -192,8 +195,9 @@ msgstr "Gosodiadau wedi'u cadw'n llwyddiannus !"
 msgid "Shell command name"
 msgstr "Enw gorchymyn cragen"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Dangos \\\\\\\\"
+msgstr "Dangos log"
 
 msgid "Show log"
 msgstr "Dangos log"
@@ -276,8 +280,9 @@ msgstr "Pan fydd wedi'i alluogi, gallwch redeg y sgript a ddymunir cyn dechrau'r
 msgid "When in deep standby"
 msgstr "Pan yn ddwfn wrth gefn"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Pan fyddwch chi'n penderfynu mewnforio'r EPG ar ôl i'r blwch gychwyn sôn am y \\\\\\\\"
+msgstr "Pan fyddwch chi'n penderfynu mewnforio'r EPG ar ôl i'r blwch gychwyn sôn am y \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Pan fyddwch yn ailgychwyn y GUI gallwch benderfynu hepgor neu beidio â mewnforio data EPG."
@@ -294,8 +299,9 @@ msgstr "Gallwch chi gychwyn yr ategyn AutoTimer yn awtomatig ar ôl y diweddaria
 msgid "always"
 msgstr "bob amser"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "digwyddiadau\\\\\\\\n"
+msgstr "digwyddiadau\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "byth"
@@ -315,3 +321,5 @@ msgstr "hepgor y mewnforio"
 msgid "wake up and import"
 msgstr "deffro a mewnforio"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Dangos \\\\\\\\\\\\\\\\"

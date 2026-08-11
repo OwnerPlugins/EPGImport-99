@@ -24,8 +24,9 @@ msgstr "ପ୍ରଦାନକାରୀ ଯୋଡନ୍ତୁ |"
 msgid "All services provider"
 msgstr "ସମସ୍ତ ସେବା ପ୍ରଦାନକାରୀ |"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "ପ୍ରୟୋଗ କରନ୍ତୁ \\\\\\\\"
+msgstr "ପ୍ରୟୋଗ କରନ୍ତୁ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ସ୍ୱୟଂଚାଳିତ EPG ଆମଦାନୀକାରୀ |"
@@ -54,8 +55,9 @@ msgstr "ବାକ୍ସ ଗଭୀର ଷ୍ଟାଣ୍ଡବାଇରେ ଥି
 msgid "Clear"
 msgstr "ସଫା"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "ସେଟିଂକୁ ବିଚାର କରନ୍ତୁ \\\\\\\\"
+msgstr "ସେଟିଂକୁ ବିଚାର କରନ୍ତୁ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "ଦିନ ପ୍ରୋଫାଇଲ୍ |"
@@ -72,8 +74,9 @@ msgstr "ଆମଦାନି ପୂର୍ବରୁ ସାମ୍ପ୍ରତିକ 
 msgid "Delete selected"
 msgstr "ମନୋନୀତ ବିଲୋପ କରନ୍ତୁ |"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "ଏକ ସର୍ଟକଟ୍ ପ୍ରଦର୍ଶନ କରନ୍ତୁ \\\\\\\\"
+msgstr "ଏକ ସର୍ଟକଟ୍ ପ୍ରଦର୍ଶନ କରନ୍ତୁ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG ଆମଦାନୀ |"
@@ -192,8 +195,9 @@ msgstr "ସେଟିଂସମୂହ ସଫଳତାର ସହିତ ସଞ୍ଚ
 msgid "Shell command name"
 msgstr "ସେଲ୍ କମାଣ୍ଡ୍ ନାମ |"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "ଦେଖାନ୍ତୁ \\\\\\\\"
+msgstr "ଲଗ୍ ଦେଖାନ୍ତୁ |"
 
 msgid "Show log"
 msgstr "ଲଗ୍ ଦେଖାନ୍ତୁ |"
@@ -276,8 +280,9 @@ msgstr "ସକ୍ଷମ ହେଲେ, ଆମଦାନି ଆରମ୍ଭ କର�
 msgid "When in deep standby"
 msgstr "ଯେତେବେଳେ ଗଭୀର ଷ୍ଟାଣ୍ଡବାଇରେ |"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ଯେତେବେଳେ ଆପଣ ବକ୍ସ ବୁଟ ହେବା ପରେ EPG ଆମଦାନି କରିବାକୁ ନିଷ୍ପତ୍ତି ନିଅନ୍ତି \\\\\\\\"
+msgstr "ଯେତେବେଳେ ଆପଣ ବକ୍ସ ବୁଟ ହେବା ପରେ EPG ଆମଦାନି କରିବାକୁ ନିଷ୍ପତ୍ତି ନିଅନ୍ତି \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "ଯେତେବେଳେ ଆପଣ GUI କୁ ପୁନ rest ଆରମ୍ଭ କରିବେ ଆପଣ EPG ଡାଟା ଆମଦାନୀକୁ ଏଡ଼ାଇବାକୁ କିମ୍ବା ସ୍ଥିର କରିବାକୁ ନିଷ୍ପତ୍ତି ନେଇପାରିବେ |"
@@ -294,8 +299,9 @@ msgstr "EPG ଡାଟା ସତେଜ ହେବା ପରେ ଏହାର କା
 msgid "always"
 msgstr "ସବୁବେଳେ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ଘଟଣା \\\\\\\\ n"
+msgstr "ଘଟଣା \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "never"
 msgstr "କେବେ ନୁହେଁ"
@@ -315,3 +321,5 @@ msgstr "ଆମଦାନି ଛାଡିଦିଅ |"
 msgid "wake up and import"
 msgstr "ଜାଗ୍ରତ କର ଏବଂ ଆମଦାନି କର |"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "ଦେଖାନ୍ତୁ \\\\\\\\\\\\\\\\"

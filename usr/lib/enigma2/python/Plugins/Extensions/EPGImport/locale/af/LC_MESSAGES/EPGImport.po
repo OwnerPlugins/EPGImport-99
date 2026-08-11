@@ -24,8 +24,9 @@ msgstr "Voeg verskaffer by"
 msgid "All services provider"
 msgstr "Alle diensverskaffer"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Pas ook \\\\\\\\ toe"
+msgstr "Pas ook \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ toe"
 
 msgid "Automated EPG Importer"
 msgstr "Outomatiese EPG-invoerder"
@@ -54,8 +55,9 @@ msgstr "Kies die aksie om uit te voer wanneer die boks in diep bystand is en die
 msgid "Clear"
 msgstr "Duidelik"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Oorweeg dit om \\\\\\\\"
+msgstr "Oorweeg dit om \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Dae profiel"
@@ -72,8 +74,9 @@ msgstr "Vee huidige EPG uit voor invoer"
 msgid "Delete selected"
 msgstr "Vee geselekteerde uit"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Wys 'n kortpad \\\\\\\\"
+msgstr "Wys 'n kortpad \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG invoer"
@@ -192,8 +195,9 @@ msgstr "Instellings suksesvol gestoor!"
 msgid "Shell command name"
 msgstr "Shell opdrag naam"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Wys \\\\\\\\"
+msgstr "Wys log"
 
 msgid "Show log"
 msgstr "Wys log"
@@ -276,8 +280,9 @@ msgstr "Wanneer dit geaktiveer is, kan jy die verlangde skrif laat loop voordat 
 msgid "When in deep standby"
 msgstr "Wanneer in diepe bystand"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Wanneer jy besluit om die EPG in te voer nadat die boks gelaai is, noem as die \\\\\\\\"
+msgstr "Wanneer jy besluit om die EPG in te voer nadat die boks gelaai is, noem as die \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Wanneer jy die GUI herbegin, kan jy besluit om die EPG-data-invoer oor te slaan of nie."
@@ -294,8 +299,9 @@ msgstr "U kan die inprop AutoTimer outomaties begin na die EPG-data-opdatering o
 msgid "always"
 msgstr "altyd"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "gebeure\\\\\\\\n"
+msgstr "gebeure\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nooit"
@@ -315,3 +321,5 @@ msgstr "slaan die invoer oor"
 msgid "wake up and import"
 msgstr "wakker word en invoer"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Wys \\\\\\\\\\\\\\\\"

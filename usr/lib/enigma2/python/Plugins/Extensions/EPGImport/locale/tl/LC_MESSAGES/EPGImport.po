@@ -16,301 +16,301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Magdagdag ng Channel"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Magdagdag ng Provider"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Lahat ng service provider"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Mag-apply din ng \\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr ""
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Awtomatikong pag-import ng EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Awtomatikong oras ng pagsisimula"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Mga pagpipiliang araw para sa pagsisimula ng pag-import"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Pumili ng Direktoryo:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Pumili ng direktoryo"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Piliin ang aksyon na gagawin kapag ang kahon ay nasa malalim na standby at ang awtomatikong pag-update ng EPG ay dapat na karaniwang magsimula."
 
 msgid "Clear"
-msgstr ""
+msgstr "Maaliwalas"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Isaalang-alang ang pagtatakda ng \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Profile ng mga Araw"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Tukuyin ang bilang ng mga araw na gusto mong makuha ang buong data ng EPG, ang pagbabawas sa bilang na ito ay makakatulong sa iyo na makatipid ng paggamit ng memory sa iyong kahon. Ngunit limitado ka rin sa magagamit na data ng EPG provider. Hindi ka magkakaroon ng 15 araw na EPG kung nagbibigay lamang ito ng 7 araw na data."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Tanggalin lahat"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Tanggalin ang kasalukuyang EPG bago i-import"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Tanggalin ang napili"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Magpakita ng shortcut \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Pag-import ng EPG"
 
 msgid "EPG Import Configuration"
 msgstr ""
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Log ng Pag-import ng EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Mga Pinagmumulan ng Pag-import ng EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Tapos na ang EPG Import, %d event"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG import ngayon"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Ipasok ang pangalan ng utos ng shell."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Isagawa ang shell command bago mag-import ng EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Pag-filter: %s Mangyaring maghintay!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Biyernes"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Mga oras pagkatapos kung saan ang pag-import ay paulit-ulit"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Huwag pansinin ang listahan ng mga serbisyo"
 
 msgid "Import"
-msgstr ""
+msgstr "Mag-import"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Nabigo ang pag-import nang may error: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Ini-import: %s %s kaganapan"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Huling pag-import:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Huling pag-import: %s %s, %d kaganapan"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Huling pag-import: %s kaganapan"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Mag-load ng EPG para lamang sa mga IPTV channel"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Mag-load ng mga serbisyong EPG lamang sa mga bouquet"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Mag-load ng mahabang paglalarawan hanggang X araw"
 
 msgid "Manual"
-msgstr ""
+msgstr "Manwal"
 
 msgid "Monday"
-msgstr ""
+msgstr "Lunes"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Walang nakitang aktibong source ng EPG, walang gagawin"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Walang nakitang source file!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Bilang ng mga oras (1-23, o 0 para sa walang pag-uulit) pagkatapos ay ang pag-import ay paulit-ulit. Hindi nase-save ang value na ito at mare-reset kapag nag-restart ang GUI."
 
 msgid "Path DB EPG"
 msgstr ""
 
 msgid "Press OK"
-msgstr ""
+msgstr "Pindutin ang OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Talagang tanggalin ang lahat ng listahan?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Bumalik sa malalim na standby pagkatapos ng pag-import"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Patakbuhin ang AutoTimer pagkatapos ng pag-import"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PUMILI NG IYONG PAGPILI"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Sabado"
 
 msgid "Save"
-msgstr ""
+msgstr "I-save"
 
 msgid "Select action"
-msgstr ""
+msgstr "Pumili ng aksyon"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Pumili ng serbisyong idaragdag..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Matagumpay na na-save ang mga setting!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Pangalan ng utos ng Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Ipakita ang \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Ipakita ang log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Laktawan ang pag-import sa pag-restart ng GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Pinagmulan EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Mga pinagmumulan"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Matagumpay na na-save ang mga mapagkukunan!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Tukuyin kung aling kaso ang EPG ay dapat na awtomatikong ma-update pagkatapos mag-boot ang kahon."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Tukuyin ang folder ng path para sa pag-save ng EPG.dat file."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Tukuyin ang pinagmulan para sa EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Tukuyin ang oras para sa awtomatikong pag-update ng EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Standby sa startup"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Simulan ang pag-import pagkatapos mag-boot"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Simulan ang pag-import pagkatapos magpatuloy mula sa standby mode."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Simulan ang pag-import pagkatapos ng standby"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Linggo"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Ang waked up box ay gagawing standby pagkatapos ng awtomatikong pag-import ng EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Ito ay para sa mga advanced na user na gumagamit ng feature na pag-filter ng channel id. Kung naka-enable, ang mga panuntunan sa pag-filter na tinukoy sa /etc/epgimport/channel_id_filter.conf ay ilalapat din sa iyong /etc/epgimport/custom.channels.xml file."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Iki-clear nito ang kasalukuyang data ng EPG sa memorya bago i-update ang data ng EPG. Nagbibigay-daan ito sa iyong palaging magkaroon ng malinis na bagong EPG na may pinakabagong data ng EPG, halimbawa sa kaso ng mga pagbabago sa programa sa pagitan ng pag-refresh, kung hindi man ay pinagsama-sama ang data ng EPG."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Ibabalik nito ang waked up box sa deep-standby pagkatapos ng awtomatikong pag-import ng EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Huwebes"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Upang makatipid ng memorya maaari kang magpasya na i-load ang data ng EPG para lamang sa mga channel ng IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Upang makatipid ng memorya maaari kang magpasya na i-load lamang ang data ng EPG para sa mga serbisyong mayroon ka sa iyong mga file ng bouquet."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Martes"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "I-update ang Mga Pinagmulan"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Miyerkules"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Kapag pinagana, pinapayagan ka nitong mag-iskedyul ng awtomatikong pag-update ng EPG sa mga ibinigay na araw at oras."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Kapag pinagana, maaari mong patakbuhin ang nais na script bago simulan ang pag-import, pagkatapos ay magsisimula ang pag-import ng EPG."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Kapag nasa malalim na standby"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Kapag nagpasya kang i-import ang EPG pagkatapos ng pag-boot ng kahon ay binanggit kung ang \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Kapag na-restart mo ang GUI maaari kang magpasya na laktawan o hindi ang pag-import ng data ng EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Sumulat sa /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Maaari mong piliin ang (mga) araw kung kailan dapat isagawa ang pag-update ng EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Maaari mong awtomatikong simulan ang plugin na AutoTimer pagkatapos ng pag-update ng data ng EPG upang ma-refresh nito ang pag-iiskedyul nito pagkatapos ng pag-refresh ng data ng EPG."
 
 msgid "always"
-msgstr ""
+msgstr "palagi"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "mga kaganapan\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "hindi kailanman"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "automatic boot lang"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "manual boot lang"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "pindutin ang OK upang i-save ang listahan"
 
 msgid "skip the import"
-msgstr ""
+msgstr "laktawan ang pag-import"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "gumising ka at mag-import"

@@ -24,8 +24,9 @@ msgstr "প্রদানকারী যোগ করুন"
 msgid "All services provider"
 msgstr "সমস্ত পরিষেবা প্রদানকারী"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "এছাড়াও আবেদন করুন \\\\\\\\"
+msgstr "এছাড়াও আবেদন করুন \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "স্বয়ংক্রিয় ইপিজি আমদানিকারক"
@@ -54,8 +55,9 @@ msgstr "যখন বাক্সটি গভীর স্ট্যান্ড
 msgid "Clear"
 msgstr "পরিষ্কার"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "সেটিং বিবেচনা করুন \\\\\\\\"
+msgstr "সেটিং বিবেচনা করুন \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "দিনের প্রোফাইল"
@@ -72,8 +74,9 @@ msgstr "আমদানি করার আগে বর্তমান ইপ�
 msgid "Delete selected"
 msgstr "নির্বাচিত মুছুন"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "একটি শর্টকাট প্রদর্শন \\\\\\\\"
+msgstr "একটি শর্টকাট প্রদর্শন \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "ইপিজি আমদানি"
@@ -192,8 +195,9 @@ msgstr "সেটিংস সফলভাবে সংরক্ষিত হয
 msgid "Shell command name"
 msgstr "শেল কমান্ডের নাম"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "দেখান \\\\\\\\"
+msgstr "লগ দেখান"
 
 msgid "Show log"
 msgstr "লগ দেখান"
@@ -276,8 +280,9 @@ msgstr "সক্রিয় করা হলে, আপনি আমদান�
 msgid "When in deep standby"
 msgstr "যখন গভীর স্ট্যান্ডবাই"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "আপনি যখন ইপিজি আমদানি করার সিদ্ধান্ত নেবেন বক্স বুট করার পরে উল্লেখ করুন যদি \\\\\\\\"
+msgstr "আপনি যখন ইপিজি আমদানি করার সিদ্ধান্ত নেবেন বক্স বুট করার পরে উল্লেখ করুন যদি \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "আপনি যখন GUI পুনরায় চালু করবেন তখন আপনি EPG ডেটা আমদানি এড়িয়ে যাওয়ার বা না করার সিদ্ধান্ত নিতে পারেন।"
@@ -294,8 +299,9 @@ msgstr "EPG ডেটা রিফ্রেশ করার পরে এটি�
 msgid "always"
 msgstr "সবসময়"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ঘটনা\\\\\\\\n"
+msgstr "ঘটনা\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "কখনই"
@@ -315,3 +321,5 @@ msgstr "আমদানি এড়িয়ে যান"
 msgid "wake up and import"
 msgstr "জেগে উঠুন এবং আমদানি করুন"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "দেখান \\\\\\\\\\\\\\\\"

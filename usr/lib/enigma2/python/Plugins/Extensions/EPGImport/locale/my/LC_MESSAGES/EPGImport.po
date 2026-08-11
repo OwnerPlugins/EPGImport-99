@@ -24,8 +24,9 @@ msgstr "ပံ့ပိုးသူထည့်ပါ။"
 msgid "All services provider"
 msgstr "ဝန်ဆောင်မှုပေးသူအားလုံး"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "သက်ဆိုင်သည် \\\\\\\\"
+msgstr "သက်ဆိုင်သည် \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "အလိုအလျောက် EPG တင်သွင်းသူ"
@@ -54,8 +55,9 @@ msgstr "အကွက်သည် နက်ရှိုင်းစွာ အသ�
 msgid "Clear"
 msgstr "ရှင်းပါတယ်။"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "သတ်မှတ်ရန် \\\\\\\\"
+msgstr "သတ်မှတ်ရန် \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "နေ့ရက်များ Profile"
@@ -72,8 +74,9 @@ msgstr "မတင်သွင်းမီ လက်ရှိ EPG ကို ဖ�
 msgid "Delete selected"
 msgstr "ရွေးထားသည်ကို ဖျက်ပါ။"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "ဖြတ်လမ်း \\\\\\\\"
+msgstr "ဖြတ်လမ်း \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG တင်သွင်းခြင်း။"
@@ -192,8 +195,9 @@ msgstr "ဆက်တင်များကို အောင်မြင်စ�
 msgid "Shell command name"
 msgstr "Shell အမိန့်အမည်"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "\\\\\\\\ပြပါ"
+msgstr "မှတ်တမ်းကိုပြပါ။"
 
 msgid "Show log"
 msgstr "မှတ်တမ်းကိုပြပါ။"
@@ -276,8 +280,9 @@ msgstr "ဖွင့်ထားသောအခါ၊ ထို့နောက�
 msgid "When in deep standby"
 msgstr "နက်နက်ရှိုင်းရှိုင်း အသင့်အနေအထားရှိသောအခါ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "အကွက်ဖွင့်ပြီးနောက် EPG ကိုတင်သွင်းရန် ဆုံးဖြတ်သောအခါ \\\\\\\\"
+msgstr "အကွက်ဖွင့်ပြီးနောက် EPG ကိုတင်သွင်းရန် ဆုံးဖြတ်သောအခါ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI ကို ပြန်လည်စတင်သည့်အခါ EPG ဒေတာတင်သွင်းမှုကို ကျော်ရန် သို့မဟုတ် မပြုရန် ဆုံးဖြတ်နိုင်သည်။"
@@ -294,8 +299,9 @@ msgstr "EPG ဒေတာကို ပြန်လည်ဆန်းသစ်ပ�
 msgid "always"
 msgstr "အမြဲတမ်း"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ပွဲများ\\\\\\\\n"
+msgstr "ပွဲများ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ဘယ်တော့မှ"
@@ -315,3 +321,5 @@ msgstr "တင်သွင်းမှုကို ကျော်သွား�
 msgid "wake up and import"
 msgstr "နှိုးပြီးတင်သွင်းပါ။"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "\\\\\\\\\\\\\\\\ပြပါ"

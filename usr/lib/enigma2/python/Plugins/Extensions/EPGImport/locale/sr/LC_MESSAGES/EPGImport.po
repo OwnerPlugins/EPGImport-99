@@ -24,8 +24,9 @@ msgstr "Додај провајдера"
 msgid "All services provider"
 msgstr "Провајдер свих услуга"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Такође примените \\\\\\\\"
+msgstr "Такође примените \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Аутоматизовани ЕПГ увозник"
@@ -54,8 +55,9 @@ msgstr "Изаберите радњу коју ћете извршити кад�
 msgid "Clear"
 msgstr "Јасно"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Размислите о подешавању \\\\\\\\"
+msgstr "Размислите о подешавању \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Даис Профиле"
@@ -72,8 +74,9 @@ msgstr "Избришите тренутни ЕПГ пре увоза"
 msgid "Delete selected"
 msgstr "Избриши изабрано"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Прикажи пречицу \\\\\\\\"
+msgstr "Прикажи пречицу \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "ЕПГ увоз"
@@ -192,8 +195,9 @@ msgstr "Подешавања су успешно сачувана!"
 msgid "Shell command name"
 msgstr "Име команде љуске"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Прикажи \\\\\\\\"
+msgstr "Прикажи дневник"
 
 msgid "Show log"
 msgstr "Прикажи дневник"
@@ -276,8 +280,9 @@ msgstr "Када је омогућено, тада можете покренут
 msgid "When in deep standby"
 msgstr "Када је у дубокој приправности"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Када одлучите да увезете ЕПГ након покретања кутије, наведите да ли је \\\\\\\\"
+msgstr "Када одлучите да увезете ЕПГ након покретања кутије, наведите да ли је \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Када поново покренете ГУИ, можете одлучити да прескочите или не увоз ЕПГ података."
@@ -294,8 +299,9 @@ msgstr "Можете аутоматски да покренете додатак
 msgid "always"
 msgstr "увек"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "догађаји\\\\\\\\н"
+msgstr "догађаји\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\н"
 
 msgid "never"
 msgstr "никад"
@@ -315,3 +321,5 @@ msgstr "прескочите увоз"
 msgid "wake up and import"
 msgstr "пробуди се и увози"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Прикажи \\\\\\\\\\\\\\\\"

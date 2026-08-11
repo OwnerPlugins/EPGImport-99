@@ -24,8 +24,9 @@ msgstr "Gehitu hornitzailea"
 msgid "All services provider"
 msgstr "Zerbitzu hornitzaile guztiak"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Aplikatu ere \\\\\\\\"
+msgstr "Aplikatu ere \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "EPG inportatzaile automatizatua"
@@ -54,8 +55,9 @@ msgstr "Aukeratu kutxa erreserba sakonean dagoenean eta EPG eguneratze automatik
 msgid "Clear"
 msgstr "Garbi"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Kontuan hartu \\\\\\\\"
+msgstr "Kontuan hartu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Egunen profila"
@@ -72,8 +74,9 @@ msgstr "Ezabatu uneko EPG inportatu aurretik"
 msgid "Delete selected"
 msgstr "Ezabatu hautatutakoa"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Erakutsi lasterbide bat \\\\\\\\"
+msgstr "Erakutsi lasterbide bat \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG inportazioa"
@@ -192,8 +195,9 @@ msgstr "Ezarpenak ongi gorde dira!"
 msgid "Shell command name"
 msgstr "Shell komandoaren izena"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Erakutsi \\\\\\\\"
+msgstr "Erakutsi erregistroa"
 
 msgid "Show log"
 msgstr "Erakutsi erregistroa"
@@ -276,8 +280,9 @@ msgstr "Gaituta dagoenean, nahi duzun script-a exekutatu dezakezu inportazioa ha
 msgid "When in deep standby"
 msgstr "Erreserba sakonean dagoenean"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Koadroa abiarazi ondoren EPG inportatzea erabakitzen duzunean, aipatu \\\\\\\\"
+msgstr "Koadroa abiarazi ondoren EPG inportatzea erabakitzen duzunean, aipatu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI berrabiarazten duzunean EPG datuen inportazioa saltatzea edo ez erabaki dezakezu."
@@ -294,8 +299,9 @@ msgstr "Automatikoki abiarazi dezakezu AutoTimer plugina EPG datuak eguneratu on
 msgid "always"
 msgstr "beti"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "gertaerak\\\\\\\\n"
+msgstr "gertaerak\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "inoiz ez"
@@ -315,3 +321,5 @@ msgstr "saltatu inportazioa"
 msgid "wake up and import"
 msgstr "esnatu eta inportatu"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Erakutsi \\\\\\\\\\\\\\\\"

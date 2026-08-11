@@ -24,8 +24,9 @@ msgstr "Shto Ofrues"
 msgid "All services provider"
 msgstr "Ofruesi i të gjitha shërbimeve"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Gjithashtu aplikoni \\\\\\\\"
+msgstr "Gjithashtu aplikoni \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importues i automatizuar EPG"
@@ -54,8 +55,9 @@ msgstr "Zgjidhni veprimin për të kryer kur kutia është në gatishmëri të t
 msgid "Clear"
 msgstr "E qartë"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Merrni parasysh vendosjen \\\\\\\\"
+msgstr "Merrni parasysh vendosjen \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profili i ditëve"
@@ -72,8 +74,9 @@ msgstr "Fshini EPG-në aktuale përpara importimit"
 msgid "Delete selected"
 msgstr "Fshij të zgjedhurin"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Shfaq një shkurtore \\\\\\\\"
+msgstr "Shfaq një shkurtore \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importi EPG"
@@ -192,8 +195,9 @@ msgstr "Cilësimet u ruajtën me sukses!"
 msgid "Shell command name"
 msgstr "Emri i komandës Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Shfaq \\\\\\\\"
+msgstr "Shfaq regjistrin"
 
 msgid "Show log"
 msgstr "Shfaq regjistrin"
@@ -276,8 +280,9 @@ msgstr "Kur aktivizohet, atëherë mund të ekzekutoni skriptin e dëshiruar pë
 msgid "When in deep standby"
 msgstr "Kur jeni në gatishmëri të thellë"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kur vendosni të importoni EPG pasi kutia të niset, përmendni nëse \\\\\\\\"
+msgstr "Kur vendosni të importoni EPG pasi kutia të niset, përmendni nëse \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kur rinisni GUI-në, mund të vendosni të kapërceni ose jo importimin e të dhënave EPG."
@@ -294,8 +299,9 @@ msgstr "Mund ta nisni automatikisht shtojcën AutoTimer pas përditësimit të t
 msgid "always"
 msgstr "gjithmonë"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ngjarje\\\\\\\\n"
+msgstr "ngjarje\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "kurrë"
@@ -315,3 +321,5 @@ msgstr "anashkaloni importin"
 msgid "wake up and import"
 msgstr "zgjohu dhe importo"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Shfaq \\\\\\\\\\\\\\\\"

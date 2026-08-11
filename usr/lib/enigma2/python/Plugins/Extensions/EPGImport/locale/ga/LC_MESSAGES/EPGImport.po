@@ -24,8 +24,9 @@ msgstr "Cuir Soláthraí leis"
 msgid "All services provider"
 msgstr "Gach soláthraí seirbhíse"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Cuir i bhfeidhm freisin \\\\\\\\"
+msgstr "Cuir i bhfeidhm freisin \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Allmhaireoir EPG Uathoibrithe"
@@ -54,8 +55,9 @@ msgstr "Roghnaigh an gníomh atá le déanamh nuair a bhíonn an bosca faoi dhí
 msgid "Clear"
 msgstr "Glan"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Smaoinigh ar \\\\\\\\ a shocrú"
+msgstr "Smaoinigh ar \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ a shocrú"
 
 msgid "Days Profile"
 msgstr "Próifíl Laethanta"
@@ -72,8 +74,9 @@ msgstr "Scrios an EPG reatha roimh iompórtáil"
 msgid "Delete selected"
 msgstr "Scrios roghnaithe"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Taispeáin aicearra \\\\\\\\"
+msgstr "Taispeáin aicearra \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Iompórtáil EPG"
@@ -192,8 +195,9 @@ msgstr "D'éirigh le socruithe a shábháil !"
 msgid "Shell command name"
 msgstr "Ainm ordú Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Taispeáin \\\\\\\\"
+msgstr "Taispeáin logáil"
 
 msgid "Show log"
 msgstr "Taispeáin logáil"
@@ -276,8 +280,9 @@ msgstr "Nuair a bheidh tú cumasaithe, ansin is féidir leat an script atá ag t
 msgid "When in deep standby"
 msgstr "Nuair a bheidh i fuireachas domhain"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Nuair a shocraíonn tú a allmhairiú an EPG tar éis an bosca booted lua má tá an \\\\\\\\"
+msgstr "Nuair a shocraíonn tú a allmhairiú an EPG tar éis an bosca booted lua má tá an \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Nuair a atosóidh tú an GUI is féidir leat cinneadh a dhéanamh iompórtáil sonraí EPG a scipeáil nó gan é."
@@ -294,8 +299,9 @@ msgstr "Is féidir leat an breiseán AutoTimer a thosú go huathoibríoch tar é
 msgid "always"
 msgstr "i gcónaí"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "imeachtaí\\\\\\\\n"
+msgstr "imeachtaí\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "riamh"
@@ -315,3 +321,5 @@ msgstr "skip an allmhairiú"
 msgid "wake up and import"
 msgstr "múscail agus allmhairiú"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Taispeáin \\\\\\\\\\\\\\\\"

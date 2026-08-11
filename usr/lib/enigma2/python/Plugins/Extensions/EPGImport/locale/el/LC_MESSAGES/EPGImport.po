@@ -24,8 +24,9 @@ msgstr "Προσθήκη παρόχου"
 msgid "All services provider"
 msgstr "Πάροχος όλων των υπηρεσιών"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Εφαρμόστε επίσης \\\\\\\\"
+msgstr "Εφαρμόστε επίσης \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Αυτοματοποιημένος εισαγωγέας EPG"
@@ -54,8 +55,9 @@ msgstr "Επιλέξτε την ενέργεια που θα εκτελεστε�
 msgid "Clear"
 msgstr "Σαφής"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Εξετάστε το ενδεχόμενο ρύθμισης \\\\\\\\"
+msgstr "Εξετάστε το ενδεχόμενο ρύθμισης \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Προφίλ ημερών"
@@ -72,8 +74,9 @@ msgstr "Διαγράψτε το τρέχον EPG πριν από την εισα
 msgid "Delete selected"
 msgstr "Διαγραφή επιλεγμένων"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Εμφάνιση συντόμευσης \\\\\\\\"
+msgstr "Εμφάνιση συντόμευσης \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Εισαγωγή EPG"
@@ -192,8 +195,9 @@ msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία
 msgid "Shell command name"
 msgstr "Όνομα εντολής Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Εμφάνιση \\\\\\\\"
+msgstr "Εμφάνιση αρχείου καταγραφής"
 
 msgid "Show log"
 msgstr "Εμφάνιση αρχείου καταγραφής"
@@ -276,8 +280,9 @@ msgstr "Όταν είναι ενεργοποιημένο, τότε μπορεί�
 msgid "When in deep standby"
 msgstr "Όταν βρίσκεται σε βαθιά αναμονή"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Όταν αποφασίσετε να εισαγάγετε το EPG μετά την εκκίνηση του πλαισίου αναφέρετε εάν το \\\\\\\\"
+msgstr "Όταν αποφασίσετε να εισαγάγετε το EPG μετά την εκκίνηση του πλαισίου αναφέρετε εάν το \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Όταν κάνετε επανεκκίνηση του GUI, μπορείτε να αποφασίσετε να παραλείψετε ή όχι την εισαγωγή δεδομένων EPG."
@@ -294,8 +299,9 @@ msgstr "Μπορείτε να ξεκινήσετε αυτόματα το πρό�
 msgid "always"
 msgstr "πάντοτε"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "εκδηλώσεις\\\\\\\\n"
+msgstr "εκδηλώσεις\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ποτέ"
@@ -315,3 +321,5 @@ msgstr "παραλείψτε την εισαγωγή"
 msgid "wake up and import"
 msgstr "ξυπνήστε και εισάγετε"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Εμφάνιση \\\\\\\\\\\\\\\\"

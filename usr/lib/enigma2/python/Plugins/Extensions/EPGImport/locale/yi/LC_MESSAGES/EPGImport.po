@@ -16,301 +16,301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "לייג קאַנאַל"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "לייג פּראַוויידער"
 
 msgid "All services provider"
-msgstr ""
+msgstr "אַלע סערוויס פּראַוויידערז"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "אויך צולייגן \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "אָטאַמייטיד עפּג ימפּאָרטער"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "אָטאַמאַטיק אַרייַנפיר עפּג"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "אָטאַמאַטיק אָנהייב צייַט"
 
 msgid "Cancel"
-msgstr ""
+msgstr "באָטל מאַכן"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "ברירה טעג פֿאַר אָנהייב אַרייַנפיר"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "קלייַבן Directory:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "קלייַבן וועגווייַזער"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "קלייַבן די אַקציע צו דורכפירן ווען די קעסטל איז אין טיף סטאַנדביי און די אָטאַמאַטיק עפּג דערהייַנטיקן זאָל נאָרמאַלי אָנהייבן."
 
 msgid "Clear"
-msgstr ""
+msgstr "קלאָר"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "באַטראַכטן באַשטעטיקן \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "טעג פּראָפיל"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "דעפינירן די נומער פון טעג וואָס איר ווילן צו באַקומען די פול EPG דאַטן, רידוסינג דעם נומער קענען העלפֿן איר שפּאָרן זכּרון באַניץ אין דיין קעסטל. אָבער איר זענט אויך לימיטעד מיט די EPG שפּייַזער בנימצא דאַטן. איר וועט נישט האָבן 15 טעג EPG אויב עס בלויז צושטעלן 7 טעג דאַטן."
 
 msgid "Delete all"
-msgstr ""
+msgstr "ויסמעקן אַלע"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "ויסמעקן קראַנט עפּג איידער אַרייַנפיר"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "ויסמעקן אויסגעקליבן"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "ווייַזן אַ דורכוועג \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "עפּג ימפּאָרט"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG ימפּאָרט קאָנפיגוראַטיאָן"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "עפּג ימפּאָרט לאָג"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "עפּג ימפּאָרט קוואלן"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG ימפּאָרט פאַרטיק, %d events"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "עפּג אַרייַנפיר איצט"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "אַרייַן שאָל באַפֿעלן נאָמען."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "ויספירן שאָל באַפֿעל איידער אַרייַנפיר EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "פילטערינג: %s ביטע וואַרטן!"
 
 msgid "Friday"
-msgstr ""
+msgstr "פרייטאג"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "שעה נאָך וואָס די אַרייַנפיר איז ריפּיטיד"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "איגנאָרירן סערוויס רשימה"
 
 msgid "Import"
-msgstr ""
+msgstr "אַרייַנפיר"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "אימפארט איז דורכגעפאלן מיט טעות: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "ימפּאָרטינג: %s %s events"
 
 msgid "Last import:"
-msgstr ""
+msgstr "לעצטע אַרייַנפיר:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "לעצטע אַרייַנפיר: %s %s, %d events"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "לעצטע אַרייַנפיר: %s events"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "לאָדן EPG בלויז פֿאַר IPTV טשאַנאַלז"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "לאָדן בלויז EPG באַדינונגס אין באָוקייז"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "לאָדן לאַנג דיסקריפּשאַנז אַרויף צו X טעג"
 
 msgid "Manual"
-msgstr ""
+msgstr "מאַנואַל"
 
 msgid "Monday"
-msgstr ""
+msgstr "מאנטאג"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "קיין אַקטיוו עפּג קוואלן געפֿונען, גאָרנישט צו טאָן"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "קיין מקור טעקע געפונען!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "נומער פון שעה (1-23, אָדער 0 פֿאַר קיין איבערחזרן) נאָך וואָס די אַרייַנפיר איז ריפּיטיד. דער ווערט איז נישט געראטעוועט און וועט זיין באַשטעטיק ווען די GUI ריסטאַרט."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "דרך דב עפּג"
 
 msgid "Press OK"
-msgstr ""
+msgstr "דרוק OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "טאַקע ויסמעקן אַלע רשימה?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "צוריקקומען צו טיף סטאַנדביי נאָך אַרייַנפיר"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "לויפן אַוטאָטימער נאָך אַרייַנפיר"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "אויסקלייַבן דיין ברירה"
 
 msgid "Saturday"
-msgstr ""
+msgstr "שבת"
 
 msgid "Save"
-msgstr ""
+msgstr "היט"
 
 msgid "Select action"
-msgstr ""
+msgstr "אויסקלייַבן קאַמף"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "אויסקלייַבן סערוויס צו לייגן ..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "סעטטינגס געראטעוועט הצלחה!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "שאָל באַפֿעלן נאָמען"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "ווייַזן \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ווייַזן קלאָץ"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "האָפּקען אַרייַנפיר אויף ריסטאַרט GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "מקור EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "קוואלן"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "מקורים געראטעוועט הצלחה!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "ספּעציפיצירן אין וואָס פאַל די EPG מוזן זיין אויטאָמאַטיש דערהייַנטיקט נאָך די בוטיד קעסטל."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "ספּעציפיצירן דעם דרך טעקע פֿאַר ראַטעווען EPG.dat טעקע."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "ספּעציפיצירן די מקור פֿאַר EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ספּעציפיצירן די צייט פֿאַר די אָטאַמאַטיק עפּג דערהייַנטיקן."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "סטאַנדביי ביי סטאַרטאַפּ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "אָנהייב אַרייַנפיר נאָך בוטינג אַרויף"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "אָנהייב אַרייַנפיר נאָך ריזומינג פון סטאַנדביי מאָדע."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "אָנהייב אַרייַנפיר נאָך סטאַנדביי"
 
 msgid "Sunday"
-msgstr ""
+msgstr "זונטיק"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "די וועקן אַרויף קעסטל וועט זיין פארוואנדלען אין סטאַנדביי נאָך אָטאַמאַטיק EPG אַרייַנפיר וועקן זיך."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "דאָס איז פֿאַר אַוואַנסירטע ניצערס וואָס נוצן די קאַנאַל שייַן פֿילטרירונג שטריך. אויב ענייבאַלד, די פילטער כּללים דיפיינד אין /etc/epgimport/channel_id_filter.conf וועט אויך זיין געווענדט אויף דיין /etc/epgimport/custom.channels.xml טעקע."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "דאָס וועט ויסמעקן די קראַנט EPG דאַטן אין זכּרון איידער אַפּדייטינג די EPG דאַטן. דאָס אַלאַוז איר צו שטענדיק האָבן אַ ריין נייַע EPG מיט די לעצטע EPG דאַטן, פֿאַר בייַשפּיל אין פאַל פון פּראָגראַם ענדערונגען צווישן דערפרישן, אַנדערש EPG דאַטן זענען קיומיאַלאַטיוו."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "דאָס וועט אומקערן די וואַקינג קעסטל אין טיף סטאַנדביי נאָך אָטאַמאַטיק עפּג אַרייַנפיר."
 
 msgid "Thursday"
-msgstr ""
+msgstr "דאנערשטאג"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "צו שפּאָרן זיקאָרן איר קענען באַשליסן צו לאָדן EPG דאַטן בלויז פֿאַר די IPTV טשאַנאַלז."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "צו שפּאָרן זיקאָרן, איר קענען באַשליסן בלויז לאָדן EPG דאַטן פֿאַר די סערוויסעס וואָס איר האָט אין דיין בוקיי טעקעס."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "דינסטיק"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "דערהייַנטיקן קוואלן"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "מיטוואך"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "ווען ענייבאַלד, עס אַלאַוז איר צו פּלאַן אַן אָטאַמאַטיק EPG דערהייַנטיקן אין די געגעבן טעג און צייט."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "ווען ענייבאַלד, איר קענען לויפן די געבעטן שריפט איידער איר אָנהייבן דעם אַרייַנפיר, נאָך וואָס די אַרייַנפיר פון די EPG וועט אָנהייבן."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "ווען אין טיף סטאַנדביי"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "ווען איר באַשליסן צו אַרייַנפיר די EPG נאָך די בוטיד קעסטל, דערמאָנען אויב די \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "ווען איר ריסטאַרט די GUI איר קענען באַשליסן צו האָפּקען אָדער נישט די EPG דאַטן אַרייַנפיר."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "שרייב צו /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "איר קענען אויסקלייַבן די טאָג (s) ווען די EPG דערהייַנטיקן מוזן זיין דורכגעקאָכט."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "איר קענט אויטאָמאַטיש אָנהייבן דעם פּלוגין AutoTimer נאָך די EPG דאַטן דערהייַנטיקן צו רעפרעשינג די סקעדזשולינג נאָך EPG דאַטן דערפרישן."
 
 msgid "always"
-msgstr ""
+msgstr "שטענדיק"
 
-msgid "events\n"
+msgid "events\\\\\\\\n"
 msgstr ""
 
 msgid "never"
-msgstr ""
+msgstr "קיינמאָל"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "בלויז אָטאַמאַטיק שטיוול"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "בלויז מאַנואַל שטיוול"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "דריקן OK צו ראַטעווען רשימה"
 
 msgid "skip the import"
-msgstr ""
+msgstr "האָפּקען דעם אַרייַנפיר"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "וועקן זיך און אַרייַנפיר"

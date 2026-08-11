@@ -24,8 +24,9 @@ msgstr "සපයන්නා එක් කරන්න"
 msgid "All services provider"
 msgstr "සියලුම සේවා සපයන්නා"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "එසේම අයදුම් කරන්න \\\\\\\\"
+msgstr "එසේම අයදුම් කරන්න \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "ස්වයංක්‍රීය EPG ආනයනකරු"
@@ -54,8 +55,9 @@ msgstr "කොටුව ගැඹුරු පොරොත්තුවෙන් 
 msgid "Clear"
 msgstr "පැහැදිලියි"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "සැකසීම සලකා බලන්න \\\\\\\\"
+msgstr "සැකසීම සලකා බලන්න \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "දින පැතිකඩ"
@@ -72,8 +74,9 @@ msgstr "ආයාත කිරීමට පෙර වත්මන් EPG මක�
 msgid "Delete selected"
 msgstr "තෝරාගත් මකන්න"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "කෙටිමඟක් පෙන්වන්න \\\\\\\\"
+msgstr "කෙටිමඟක් පෙන්වන්න \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG ආනයනය"
@@ -192,8 +195,9 @@ msgstr "සැකසීම් සාර්ථකව සුරකින ලදී
 msgid "Shell command name"
 msgstr "Shell විධාන නාමය"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "පෙන්වන්න \\\\\\\\"
+msgstr "ලොගය පෙන්වන්න"
 
 msgid "Show log"
 msgstr "ලොගය පෙන්වන්න"
@@ -276,8 +280,9 @@ msgstr "සබල කළ විට, ආනයනය ආරම්භ කිරී
 msgid "When in deep standby"
 msgstr "ගැඹුරු පොරොත්තුවෙන් සිටින විට"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ඔබ EPG ආයාත කිරීමට තීරණය කරන විට පෙට්ටිය බූට් කළ පසු \\\\\\\\\\\\\\\\"
+msgstr "ඔබ EPG ආයාත කිරීමට තීරණය කරන විට පෙට්ටිය බූට් කළ පසු \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "ඔබ GUI නැවත ආරම්භ කරන විට ඔබට EPG දත්ත ආයාත කිරීම මඟ හැරීමට හෝ නොකිරීමට තීරණය කළ හැක."
@@ -294,8 +299,9 @@ msgstr "ඔබට EPG දත්ත යාවත්කාලීන කිරී�
 msgid "always"
 msgstr "සෑම විටම"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "සිදුවීම්\\\\\\\\n"
+msgstr "සිදුවීම්\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "කවදාවත්"
@@ -315,3 +321,5 @@ msgstr "ආනයනය මඟ හරින්න"
 msgid "wake up and import"
 msgstr "අවදි වී ආනයනය කරන්න"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "පෙන්වන්න \\\\\\\\\\\\\\\\"

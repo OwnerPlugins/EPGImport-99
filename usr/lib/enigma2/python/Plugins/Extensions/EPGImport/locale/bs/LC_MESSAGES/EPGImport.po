@@ -24,8 +24,9 @@ msgstr "Dodaj provajdera"
 msgid "All services provider"
 msgstr "Provajder svih usluga"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Također primijeniti \\\\\\\\"
+msgstr "Također primijeniti \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatski EPG uvoznik"
@@ -54,8 +55,9 @@ msgstr "Odaberite radnju koju ćete izvršiti kada je kutija u dubokom stanju pr
 msgid "Clear"
 msgstr "Jasno"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Razmislite o postavljanju \\\\\\\\"
+msgstr "Razmislite o postavljanju \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr ""
@@ -72,8 +74,9 @@ msgstr "Izbrišite trenutni EPG prije uvoza"
 msgid "Delete selected"
 msgstr "Izbriši odabrano"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Prikaži prečicu \\\\\\\\"
+msgstr "Prikaži prečicu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG uvoz"
@@ -192,8 +195,9 @@ msgstr "Postavke su uspješno sačuvane!"
 msgid "Shell command name"
 msgstr "Ime komande ljuske"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Prikaži \\\\\\\\"
+msgstr "Prikaži dnevnik"
 
 msgid "Show log"
 msgstr "Prikaži dnevnik"
@@ -276,8 +280,9 @@ msgstr "Kada je omogućeno, tada možete pokrenuti željenu skriptu prije počet
 msgid "When in deep standby"
 msgstr "Kada je u dubokom stanju pripravnosti"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kada odlučite da uvezete EPG nakon pokretanja kutije, spomenite da li je \\\\\\\\"
+msgstr "Kada odlučite da uvezete EPG nakon pokretanja kutije, spomenite da li je \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kada ponovo pokrenete GUI, možete odlučiti da preskočite ili ne uvoz EPG podataka."
@@ -294,8 +299,9 @@ msgstr "Možete automatski pokrenuti dodatak AutoTimer nakon ažuriranja EPG pod
 msgid "always"
 msgstr "uvijek"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "događaji\\\\\\\\n"
+msgstr "događaji\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nikad"
@@ -315,3 +321,5 @@ msgstr "preskočite uvoz"
 msgid "wake up and import"
 msgstr "probudi se i uvozi"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Prikaži \\\\\\\\\\\\\\\\"

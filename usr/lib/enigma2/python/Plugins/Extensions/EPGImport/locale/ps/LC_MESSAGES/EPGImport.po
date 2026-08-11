@@ -24,8 +24,9 @@ msgstr "چمتو کوونکی اضافه کړئ"
 msgid "All services provider"
 msgstr "د ټولو خدماتو چمتو کونکي"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "هم درخواست وکړئ \\\\\\\\"
+msgstr "هم درخواست وکړئ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "د اتوماتیک EPG واردونکي"
@@ -54,8 +55,9 @@ msgstr "د ترسره کولو لپاره عمل غوره کړئ کله چې ب�
 msgid "Clear"
 msgstr "روښانه"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "ترتیب ته پام وکړئ \\\\\\\\"
+msgstr "ترتیب ته پام وکړئ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "د ورځو پروفایل"
@@ -72,8 +74,9 @@ msgstr "د واردولو دمخه اوسنی EPG ړنګ کړئ"
 msgid "Delete selected"
 msgstr "غوره شوی ړنګول"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "یو شارټ کټ ښکاره کړئ \\\\\\\\"
+msgstr "یو شارټ کټ ښکاره کړئ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "د EPG واردول"
@@ -192,8 +195,9 @@ msgstr "ترتیبات په بریالیتوب سره خوندي شول!"
 msgid "Shell command name"
 msgstr "د شیل کمانډ نوم"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "ښودل \\\\\\\\"
+msgstr "ننوت ښکاره کړئ"
 
 msgid "Show log"
 msgstr "ننوت ښکاره کړئ"
@@ -276,8 +280,9 @@ msgstr "کله چې فعال شي، نو تاسو کولی شئ د واردات�
 msgid "When in deep standby"
 msgstr "کله چې په ژور موقف کې وي"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "کله چې تاسو پریکړه وکړئ چې EPG وارد کړئ وروسته له دې چې د بکس بوټ شوی یادونه وکړئ که \\\\\\\\"
+msgstr "کله چې تاسو پریکړه وکړئ چې EPG وارد کړئ وروسته له دې چې د بکس بوټ شوی یادونه وکړئ که \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "کله چې تاسو GUI بیا پیل کړئ تاسو کولی شئ پریکړه وکړئ چې د EPG ډیټا واردات پریږدئ یا نه."
@@ -294,8 +299,9 @@ msgstr "تاسو کولی شئ د EPG ډیټا تازه کولو وروسته پ
 msgid "always"
 msgstr "تل"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "پیښې\\\\\\\\n"
+msgstr "پیښې\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "هیڅکله"
@@ -315,3 +321,5 @@ msgstr "واردات پریږدئ"
 msgid "wake up and import"
 msgstr "ویښ شئ او وارد کړئ"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "ښودل \\\\\\\\\\\\\\\\"

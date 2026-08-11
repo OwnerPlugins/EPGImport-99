@@ -24,8 +24,9 @@ msgstr "Přidat poskytovatele"
 msgid "All services provider"
 msgstr "Poskytovatel všech služeb"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Použít také \\\\\\\\"
+msgstr "Použít také \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatizovaný importér EPG"
@@ -54,8 +55,9 @@ msgstr "Vyberte akci, která se má provést, když je box v hlubokém pohotovos
 msgid "Clear"
 msgstr "Jasný"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Zvažte nastavení \\\\\\\\"
+msgstr "Zvažte nastavení \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profil dnů"
@@ -72,8 +74,9 @@ msgstr "Před importem smažte aktuální EPG"
 msgid "Delete selected"
 msgstr "Smazat vybrané"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Zobrazit zástupce \\\\\\\\"
+msgstr "Zobrazit zástupce \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Import EPG"
@@ -192,8 +195,9 @@ msgstr "Nastavení byla úspěšně uložena!"
 msgid "Shell command name"
 msgstr "Název příkazu shellu"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Zobrazit \\\\\\\\"
+msgstr "Zobrazit protokol"
 
 msgid "Show log"
 msgstr "Zobrazit protokol"
@@ -276,8 +280,9 @@ msgstr "Je-li povoleno, můžete před zahájením importu spustit požadovaný 
 msgid "When in deep standby"
 msgstr "Když je v hlubokém pohotovostním režimu"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Když se rozhodnete importovat EPG po nabootování boxu, uveďte, zda \\\\\\\\"
+msgstr "Když se rozhodnete importovat EPG po nabootování boxu, uveďte, zda \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Po restartování GUI se můžete rozhodnout, zda import dat EPG přeskočit či nikoli."
@@ -294,8 +299,9 @@ msgstr "Po aktualizaci dat EPG můžete automaticky spustit plugin AutoTimer, ab
 msgid "always"
 msgstr "vždy"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "události\\\\\\\\n"
+msgstr "události\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "nikdy"
@@ -315,3 +321,5 @@ msgstr "přeskočit import"
 msgid "wake up and import"
 msgstr "probudit a importovat"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Zobrazit \\\\\\\\\\\\\\\\"

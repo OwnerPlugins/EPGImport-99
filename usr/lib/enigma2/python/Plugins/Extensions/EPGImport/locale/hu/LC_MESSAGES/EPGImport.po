@@ -24,8 +24,9 @@ msgstr "Szolgáltató hozzáadása"
 msgid "All services provider"
 msgstr "Minden szolgáltató"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Jelentkezz még \\\\\\\\"
+msgstr "Jelentkezz még \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Automatizált EPG importőr"
@@ -54,8 +55,9 @@ msgstr "Válassza ki a végrehajtandó műveletet, amikor a doboz mély készenl
 msgid "Clear"
 msgstr "Világos"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Fontolja meg a \\\\\\\\"
+msgstr "Fontolja meg a \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Napok profilja"
@@ -72,8 +74,9 @@ msgstr "Az aktuális EPG törlése az importálás előtt"
 msgid "Delete selected"
 msgstr "Kijelölt törlése"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Parancsikon megjelenítése \\\\\\\\"
+msgstr "Parancsikon megjelenítése \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG import"
@@ -192,8 +195,9 @@ msgstr "A beállítások sikeresen elmentve!"
 msgid "Shell command name"
 msgstr "Shell parancs neve"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Mutasd \\\\\\\\"
+msgstr "Napló megjelenítése"
 
 msgid "Show log"
 msgstr "Napló megjelenítése"
@@ -276,8 +280,9 @@ msgstr "Ha engedélyezve van, akkor az importálás megkezdése előtt lefuttath
 msgid "When in deep standby"
 msgstr "Mély készenléti állapotban"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Amikor úgy dönt, hogy importálja az EPG-t a doboz elindítása után, említse meg, ha a \\\\\\\\"
+msgstr "Amikor úgy dönt, hogy importálja az EPG-t a doboz elindítása után, említse meg, ha a \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Amikor újraindítja a grafikus felhasználói felületet, eldöntheti, hogy kihagyja-e vagy sem az EPG-adatok importálását."
@@ -294,8 +299,9 @@ msgstr "Az EPG-adatok frissítése után automatikusan elindíthatja az AutoTime
 msgid "always"
 msgstr "mindig"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "események\\\\\\\\n"
+msgstr "események\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "soha"
@@ -315,3 +321,5 @@ msgstr "hagyja ki az importálást"
 msgid "wake up and import"
 msgstr "ébredj fel és importálj"
 
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Mutasd \\\\\\\\\\\\\\\\"
