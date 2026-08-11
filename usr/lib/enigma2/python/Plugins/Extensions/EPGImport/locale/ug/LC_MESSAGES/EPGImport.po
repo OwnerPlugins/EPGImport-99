@@ -24,8 +24,9 @@ msgstr "تەمىنلىگۈچىنى قوشۇڭ"
 msgid "All services provider"
 msgstr "بارلىق مۇلازىمەت تەمىنلىگۈچى"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "\\\\\\\\ نىمۇ ئىشلىتىڭ"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ نىمۇ ئىشلىتىڭ"
 
 msgid "Automated EPG Importer"
 msgstr "ئاپتوماتىك EPG كىرگۈزگۈچ"
@@ -54,8 +55,9 @@ msgstr "ساندۇق چوڭقۇر ھالەتتە تۇرغاندا مەشغۇلا
 msgid "Clear"
 msgstr "ئېنىق"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "تەڭشەشنى ئويلاڭ \\\\\\\\"
+msgstr "تەڭشەشنى ئويلاڭ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "كۈن ئارخىپى"
@@ -72,8 +74,9 @@ msgstr "ئىمپورت قىلىشتىن بۇرۇن نۆۋەتتىكى EPG نى �
 msgid "Delete selected"
 msgstr "تاللانغاننى ئۆچۈرۈڭ"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "تېزلەتمە كۆرسەت \\\\\\\\"
+msgstr "تېزلەتمە كۆرسەت \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr ""
@@ -192,8 +195,9 @@ msgstr "تەڭشەكلەر مۇۋەپپەقىيەتلىك ساقلاندى!"
 msgid "Shell command name"
 msgstr "Shell بۇيرۇق ئىسمى"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "كۆرسەت \\\\\\\\"
+msgstr "خاتىرە كۆرسەت"
 
 msgid "Show log"
 msgstr "خاتىرە كۆرسەت"
@@ -276,8 +280,9 @@ msgstr "قوزغىتىلغاندا ، ئاندىن ئىمپورتنى باشلا
 msgid "When in deep standby"
 msgstr "چوڭقۇر كۈتۈشتە"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "EPG نى ئىمپورتلاشنى قارار قىلغاندا ، قۇتا قوزغىتىلغاندىن كېيىن \\\\\\\\"
+msgstr "EPG نى ئىمپورتلاشنى قارار قىلغاندا ، قۇتا قوزغىتىلغاندىن كېيىن \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI نى قايتا قوزغىتىپ ، EPG سانلىق مەلۇمات ئىمپورت قىلىشنى ئەمەلدىن قالدۇرۇشنى قارار قىلالايسىز."
@@ -294,8 +299,9 @@ msgstr "EPG سانلىق مەلۇمات يېڭىلانغاندىن كېيىن ق
 msgid "always"
 msgstr "ھەمىشە"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "ھادىسىلەر \\\\\\\\ n"
+msgstr "ھادىسىلەر \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "never"
 msgstr "ھەرگىز بولمايدۇ"
@@ -314,3 +320,6 @@ msgstr "ئىمپورتتىن ئاتلاڭ"
 
 msgid "wake up and import"
 msgstr "ئويغىنىپ ئىمپورت قىلىڭ"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "كۆرسەت \\\\\\\\\\\\\\\\"

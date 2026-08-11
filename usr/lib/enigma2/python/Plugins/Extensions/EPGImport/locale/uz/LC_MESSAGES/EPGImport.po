@@ -24,8 +24,9 @@ msgstr "Provayder qo'shish"
 msgid "All services provider"
 msgstr "Barcha xizmatlar provayderi"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Shuningdek qo'llang \\\\\\\\"
+msgstr "Shuningdek qo'llang \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Avtomatlashtirilgan EPG importchisi"
@@ -54,8 +55,9 @@ msgstr "Quti chuqur kutish rejimida bo'lganda bajariladigan amalni tanlang va av
 msgid "Clear"
 msgstr "Tozalash"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "\\\\\\\\ sozlashni ko'rib chiqing"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ sozlashni ko'rib chiqing"
 
 msgid "Days Profile"
 msgstr "Kunlar profili"
@@ -72,8 +74,9 @@ msgstr "Import qilishdan oldin joriy EPGni o'chirib tashlang"
 msgid "Delete selected"
 msgstr "Tanlangan oʻchirish"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Yorliqni ko'rsatish \\\\\\\\"
+msgstr "Yorliqni ko'rsatish \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG importi"
@@ -192,8 +195,9 @@ msgstr "Sozlamalar muvaffaqiyatli saqlandi!"
 msgid "Shell command name"
 msgstr "Shell buyruq nomi"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Ko'rsatish \\\\\\\\"
+msgstr "Jurnalni ko'rsatish"
 
 msgid "Show log"
 msgstr "Jurnalni ko'rsatish"
@@ -276,8 +280,9 @@ msgstr "Agar yoqilgan bo'lsa, importni boshlashdan oldin kerakli skriptni ishga 
 msgid "When in deep standby"
 msgstr "Chuqur kutish holatida"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Quti yuklangandan keyin EPGni import qilishga qaror qilganingizda, agar \\\\\\\\"
+msgstr "Quti yuklangandan keyin EPGni import qilishga qaror qilganingizda, agar \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI-ni qayta ishga tushirganingizda, EPG ma'lumotlarini import qilishni o'tkazib yuborish yoki qilmaslik haqida qaror qabul qilishingiz mumkin."
@@ -294,8 +299,9 @@ msgstr "EPG ma'lumotlari yangilangandan so'ng uning jadvalini yangilash uchun si
 msgid "always"
 msgstr "har doim"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "voqealar\\\\\\\\n"
+msgstr "voqealar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "hech qachon"
@@ -314,3 +320,6 @@ msgstr "importni o'tkazib yuboring"
 
 msgid "wake up and import"
 msgstr "uyg'onish va import qilish"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Ko'rsatish \\\\\\\\\\\\\\\\"

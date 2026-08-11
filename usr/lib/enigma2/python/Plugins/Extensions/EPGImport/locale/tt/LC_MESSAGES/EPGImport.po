@@ -24,8 +24,9 @@ msgstr "Провайдерны өстәгез"
 msgid "All services provider"
 msgstr "Барлык хезмәт күрсәтүче"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Шулай ук ​​\\\\\\\\ кулланыгыз"
+msgstr "Шулай ук ​​\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ кулланыгыз"
 
 msgid "Automated EPG Importer"
 msgstr "Автоматлаштырылган EPG Импортчысы"
@@ -54,8 +55,9 @@ msgstr "Рамка тирән көтүдә булганда һәм EPG авто�
 msgid "Clear"
 msgstr "Чиста"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "\\\\\\\\ көйләү турында уйлагыз"
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ көйләү турында уйлагыз"
 
 msgid "Days Profile"
 msgstr "Көн профиле"
@@ -72,8 +74,9 @@ msgstr "Импорт алдыннан хәзерге EPG бетерегез"
 msgid "Delete selected"
 msgstr "Сайланганны бетерү"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Кыска юлны күрсәтегез \\\\\\\\"
+msgstr "Кыска юлны күрсәтегез \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG импорт"
@@ -192,8 +195,9 @@ msgstr "Көйләүләр уңышлы сакланды!"
 msgid "Shell command name"
 msgstr "Кабык исеме"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Күрсәт \\\\\\\\"
+msgstr "Бүрәнәне күрсәт"
 
 msgid "Show log"
 msgstr "Бүрәнәне күрсәт"
@@ -276,8 +280,9 @@ msgstr "Эшләтелгәндә, сез импортны башлар алды�
 msgid "When in deep standby"
 msgstr "Тирән көтүдә"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "EPG-ны импортларга карар иткәндә, \\\\\\\\"
+msgstr "EPG-ны импортларга карар иткәндә, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUIны яңадан эшләтеп җибәргәндә, сез EPG мәгълүмат импортын калдырырга яки җибәрмәскә карар итә аласыз."
@@ -294,8 +299,9 @@ msgstr "EPG мәгълүматларын яңартканнан соң, AutoGTim
 msgid "always"
 msgstr "һәрвакыт"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "вакыйгалар \\\\\\\\ n"
+msgstr "вакыйгалар \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "never"
 msgstr "беркайчан да"
@@ -314,3 +320,6 @@ msgstr "импортны калдырыгыз"
 
 msgid "wake up and import"
 msgstr "уян һәм импорт"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Күрсәт \\\\\\\\\\\\\\\\"

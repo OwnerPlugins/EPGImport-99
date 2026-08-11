@@ -24,8 +24,9 @@ msgstr "Thêm nhà cung cấp"
 msgid "All services provider"
 msgstr "Tất cả nhà cung cấp dịch vụ"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Cũng áp dụng \\\\\\\\"
+msgstr "Cũng áp dụng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Trình nhập EPG tự động"
@@ -54,8 +55,9 @@ msgstr "Chọn hành động để thực hiện khi hộp ở chế độ chờ
 msgid "Clear"
 msgstr "Thông thoáng"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Hãy cân nhắc việc thiết lập \\\\\\\\"
+msgstr "Hãy cân nhắc việc thiết lập \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Hồ sơ ngày"
@@ -72,8 +74,9 @@ msgstr "Xóa EPG hiện tại trước khi nhập"
 msgid "Delete selected"
 msgstr "Xóa đã chọn"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Hiển thị phím tắt \\\\\\\\"
+msgstr "Hiển thị phím tắt \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Nhập EPG"
@@ -192,8 +195,9 @@ msgstr "Đã lưu cài đặt thành công!"
 msgid "Shell command name"
 msgstr "Tên lệnh Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Trình diễn \\\\\\\\"
+msgstr "Hiển thị nhật ký"
 
 msgid "Show log"
 msgstr "Hiển thị nhật ký"
@@ -276,8 +280,9 @@ msgstr "Khi được bật, bạn có thể chạy tập lệnh mong muốn trư
 msgid "When in deep standby"
 msgstr "Khi ở chế độ chờ sâu"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Khi bạn quyết định nhập EPG sau khi hộp khởi động, hãy đề cập nếu \\\\\\\\"
+msgstr "Khi bạn quyết định nhập EPG sau khi hộp khởi động, hãy đề cập nếu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Khi khởi động lại GUI, bạn có thể quyết định bỏ qua hoặc không nhập dữ liệu EPG."
@@ -294,8 +299,9 @@ msgstr "Bạn có thể tự động khởi động plugin AutoTimer sau khi c�
 msgid "always"
 msgstr "luôn luôn"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "sự kiện\\\\\\\\n"
+msgstr "sự kiện\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "không bao giờ"
@@ -314,3 +320,6 @@ msgstr "bỏ qua việc nhập khẩu"
 
 msgid "wake up and import"
 msgstr "thức dậy và nhập khẩu"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Trình diễn \\\\\\\\\\\\\\\\"

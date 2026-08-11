@@ -24,8 +24,9 @@ msgstr "Üpjün edijini goşuň"
 msgid "All services provider"
 msgstr "Serviceshli hyzmatlary üpjün ediji"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Şeýle hem \\\\\\\\ ulanyň"
+msgstr "Şeýle hem \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ulanyň"
 
 msgid "Automated EPG Importer"
 msgstr "Awtomatlaşdyrylan EPG import ediji"
@@ -54,8 +55,9 @@ msgstr "Guty çuňňur garaşylanda we awtomatiki EPG täzelenmesi başlanda ýe
 msgid "Clear"
 msgstr "Arassala"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Sazlamagy göz öňünde tutuň \\\\\\\\"
+msgstr "Sazlamagy göz öňünde tutuň \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Günleriň tertibi"
@@ -72,8 +74,9 @@ msgstr "Import etmezden ozal häzirki EPG-i pozuň"
 msgid "Delete selected"
 msgstr "Saýlananlary poz"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Salgylanma görkez \\\\\\\\"
+msgstr "Salgylanma görkez \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "EPG importy"
@@ -192,8 +195,9 @@ msgstr "Sazlamalar üstünlikli saklandy!"
 msgid "Shell command name"
 msgstr "Gabyk buýrugynyň ady"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "\\\\\\\\ görkez"
+msgstr "Gündeligi görkez"
 
 msgid "Show log"
 msgstr "Gündeligi görkez"
@@ -276,8 +280,9 @@ msgstr "Işledilende, importa başlamazdan ozal islenýän skripti işledip bile
 msgid "When in deep standby"
 msgstr "Çuňňur garaşylanda"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "EPG import etmegi ýüregiňize düweniňizden soň, \\\\\\\\"
+msgstr "EPG import etmegi ýüregiňize düweniňizden soň, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "GUI-ni täzeden açanyňyzda, EPG maglumat importyndan geçmek ýa-da ýok etmek kararyna gelip bilersiňiz."
@@ -294,8 +299,9 @@ msgstr "EPG maglumatlary täzelenenden soň meýilnamasyny täzelemek üçin EPG
 msgid "always"
 msgstr "elmydama"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "hadysalar \\\\\\\\ n"
+msgstr "hadysalar \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "never"
 msgstr "hiç haçan"
@@ -314,3 +320,6 @@ msgstr "importdan geçiň"
 
 msgid "wake up and import"
 msgstr "oýan we import et"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "\\\\\\\\\\\\\\\\ görkez"

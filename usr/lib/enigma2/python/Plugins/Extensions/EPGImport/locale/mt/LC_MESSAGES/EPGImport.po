@@ -25,8 +25,8 @@ msgid "All services provider"
 msgstr "Il-fornitur tas-servizzi kollha"
 
 #, fuzzy
-msgid "Also apply \\\\\\\\"
-msgstr "Applika wkoll \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Also apply \\\\"
+msgstr "Applika wkoll \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Importatur EPG Awtomatizzat"
@@ -56,8 +56,8 @@ msgid "Clear"
 msgstr "Ċara"
 
 #, fuzzy
-msgid "Consider setting \\\\\\\\"
-msgstr "Ikkunsidra li tistabbilixxi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Consider setting \\\\"
+msgstr "Ikkunsidra li tistabbilixxi \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Jiem Profil"
@@ -75,8 +75,8 @@ msgid "Delete selected"
 msgstr "Ħassar magħżula"
 
 #, fuzzy
-msgid "Display a shortcut \\\\\\\\"
-msgstr "Uri shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Display a shortcut \\\\"
+msgstr "Uri shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Importazzjoni EPG"
@@ -196,7 +196,7 @@ msgid "Shell command name"
 msgstr "Isem tal-kmand tal-shell"
 
 #, fuzzy
-msgid "Show \\\\\\\\"
+msgid "Show \\\\"
 msgstr "Uri log"
 
 msgid "Show log"
@@ -281,8 +281,8 @@ msgid "When in deep standby"
 msgstr "Meta tkun fil-fond ta' standby"
 
 #, fuzzy
-msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Meta tiddeċiedi li timporta l-EPG wara li l-kaxxa booted semmi jekk il-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\"
+msgstr "Meta tiddeċiedi li timporta l-EPG wara li l-kaxxa booted semmi jekk il-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Meta terġa 'tibda l-GUI tista' tiddeċiedi li taqbeż jew le l-importazzjoni tad-dejta EPG."
@@ -299,9 +299,8 @@ msgstr "Tista 'tibda awtomatikament il-plugin AutoTimer wara l-aġġornament tad
 msgid "always"
 msgstr "dejjem"
 
-#, fuzzy
-msgid "events\\\\\\\\n"
-msgstr "avvenimenti\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgid "events\\\\n"
+msgstr "avvenimenti\\\\\\\\n"
 
 msgid "never"
 msgstr "qatt"
@@ -320,6 +319,14 @@ msgstr "aqbeż l-importazzjoni"
 
 msgid "wake up and import"
 msgstr "tqum u l-importazzjoni"
+
+#, fuzzy
+#~ msgid "Show \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+#~ msgstr "Uri log"
+
+#, fuzzy
+#~ msgid "events\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+#~ msgstr "avvenimenti\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #~ msgid "Show \\\\\\\\\\\\\\\\"
 #~ msgstr "Uri \\\\\\\\\\\\\\\\"

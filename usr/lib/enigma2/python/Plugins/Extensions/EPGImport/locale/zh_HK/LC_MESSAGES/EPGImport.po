@@ -24,8 +24,9 @@ msgstr "新增提供者"
 msgid "All services provider"
 msgstr "所有服務提供者"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "也適用 \\\\\\\\"
+msgstr "也適用 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "自動 EPG 導入器"
@@ -54,8 +55,9 @@ msgstr "選擇當機上盒處於深度待機且自動 EPG 更新應正常啟動�
 msgid "Clear"
 msgstr "清除"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "考慮設定 \\\\\\\\"
+msgstr "考慮設定 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "日子簡介"
@@ -72,8 +74,9 @@ msgstr "導入前刪除當前 EPG"
 msgid "Delete selected"
 msgstr "刪除所選內容"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "顯示快捷方式 \\\\\\\\"
+msgstr "顯示快捷方式 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "電子節目指南導入"
@@ -139,7 +142,7 @@ msgid "Load EPG only services in bouquets"
 msgstr "在花束中加載僅 EPG 服務"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "加載長達 X 天的長描述"
 
 msgid "Manual"
 msgstr "手動的"
@@ -192,8 +195,9 @@ msgstr "設定保存成功！"
 msgid "Shell command name"
 msgstr "外殼命令名稱"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "展示 \\\\\\\\"
+msgstr "顯示日誌"
 
 msgid "Show log"
 msgstr "顯示日誌"
@@ -217,13 +221,13 @@ msgid "Specify the path folder for save EPG.dat file."
 msgstr "指定儲存 EPG.dat 檔案的路徑資料夾。"
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "指定 EPG 的來源。"
 
 msgid "Specify the time for the automatic EPG update."
 msgstr "指定自動 EPG 更新的時間。"
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "啟動時待機"
 
 msgid "Start import after booting up"
 msgstr "開機後開始導入"
@@ -247,7 +251,7 @@ msgid "This will clear the current EPG data in memory before updating the EPG da
 msgstr "這將在更新 EPG 資料之前清除記憶體中的當前 EPG 資料。這讓您始終擁有包含最新 EPG 資料的全新 EPG，例如在刷新之間節目發生變更的情況下，否則 EPG 資料會累積。"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "自動匯入 EPG 後，這會將喚醒的盒子返回深度待機狀態。"
 
 msgid "Thursday"
 msgstr "週四"
@@ -276,14 +280,15 @@ msgstr "啟用後，您可以在開始匯入之前執行所需的腳本，之後
 msgid "When in deep standby"
 msgstr "深度待機時"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "當您決定在盒子啟動後導入 EPG 時，請提及是否 \\\\\\\\"
+msgstr "當您決定在盒子啟動後導入 EPG 時，請提及是否 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "當您重新啟動 GUI 時，您可以決定是否跳過 EPG 資料匯入。"
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "寫入/tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
 msgstr "您可以選擇必須執行 EPG 更新的日期。"
@@ -294,8 +299,9 @@ msgstr "您可以在 EPG 資料更新後自動啟動插件 AutoTimer，使其在
 msgid "always"
 msgstr "總是"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "事件\\\\\\\\n"
+msgstr "事件\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "絕不"
@@ -314,3 +320,6 @@ msgstr "跳過導入"
 
 msgid "wake up and import"
 msgstr "喚醒並導入"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "展示 \\\\\\\\\\\\\\\\"

@@ -24,8 +24,9 @@ msgstr "לייג פּראַוויידער"
 msgid "All services provider"
 msgstr "אַלע סערוויס פּראַוויידערז"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "אויך צולייגן \\\\\\\\"
+msgstr "אויך צולייגן \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "אָטאַמייטיד עפּג ימפּאָרטער"
@@ -54,8 +55,9 @@ msgstr "קלייַבן די אַקציע צו דורכפירן ווען די ק�
 msgid "Clear"
 msgstr "קלאָר"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "באַטראַכטן באַשטעטיקן \\\\\\\\"
+msgstr "באַטראַכטן באַשטעטיקן \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "טעג פּראָפיל"
@@ -72,8 +74,9 @@ msgstr "ויסמעקן קראַנט עפּג איידער אַרייַנפיר"
 msgid "Delete selected"
 msgstr "ויסמעקן אויסגעקליבן"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "ווייַזן אַ דורכוועג \\\\\\\\"
+msgstr "ווייַזן אַ דורכוועג \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "עפּג ימפּאָרט"
@@ -192,8 +195,9 @@ msgstr "סעטטינגס געראטעוועט הצלחה!"
 msgid "Shell command name"
 msgstr "שאָל באַפֿעלן נאָמען"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "ווייַזן \\\\\\\\"
+msgstr "ווייַזן קלאָץ"
 
 msgid "Show log"
 msgstr "ווייַזן קלאָץ"
@@ -276,8 +280,9 @@ msgstr "ווען ענייבאַלד, איר קענען לויפן די געבע�
 msgid "When in deep standby"
 msgstr "ווען אין טיף סטאַנדביי"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "ווען איר באַשליסן צו אַרייַנפיר די EPG נאָך די בוטיד קעסטל, דערמאָנען אויב די \\\\\\\\"
+msgstr "ווען איר באַשליסן צו אַרייַנפיר די EPG נאָך די בוטיד קעסטל, דערמאָנען אויב די \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "ווען איר ריסטאַרט די GUI איר קענען באַשליסן צו האָפּקען אָדער נישט די EPG דאַטן אַרייַנפיר."
@@ -314,3 +319,6 @@ msgstr "האָפּקען דעם אַרייַנפיר"
 
 msgid "wake up and import"
 msgstr "וועקן זיך און אַרייַנפיר"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "ווייַזן \\\\\\\\\\\\\\\\"

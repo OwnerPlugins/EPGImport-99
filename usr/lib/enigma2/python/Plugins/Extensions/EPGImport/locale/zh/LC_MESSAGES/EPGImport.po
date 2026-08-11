@@ -24,8 +24,9 @@ msgstr "添加提供商"
 msgid "All services provider"
 msgstr "所有服务提供商"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "也适用 \\\\\\\\"
+msgstr "也适用 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "自动 EPG 导入器"
@@ -54,8 +55,9 @@ msgstr "选择当机顶盒处于深度待机且自动 EPG 更新应正常启动�
 msgid "Clear"
 msgstr "清除"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "考虑设置 \\\\\\\\"
+msgstr "考虑设置 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "日子简介"
@@ -72,8 +74,9 @@ msgstr "导入前删除当前 EPG"
 msgid "Delete selected"
 msgstr "删除所选内容"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "显示快捷方式 \\\\\\\\"
+msgstr "显示快捷方式 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "电子节目指南导入"
@@ -192,8 +195,9 @@ msgstr "设置保存成功！"
 msgid "Shell command name"
 msgstr "外壳命令名称"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "展示 \\\\\\\\"
+msgstr "显示日志"
 
 msgid "Show log"
 msgstr "显示日志"
@@ -276,8 +280,9 @@ msgstr "启用后，您可以在开始导入之前运行所需的脚本，之后
 msgid "When in deep standby"
 msgstr "深度待机时"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "当您决定在盒子启动后导入 EPG 时，请提及是否 \\\\\\\\"
+msgstr "当您决定在盒子启动后导入 EPG 时，请提及是否 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "当您重新启动 GUI 时，您可以决定是否跳过 EPG 数据导入。"
@@ -294,8 +299,9 @@ msgstr "您可以在 EPG 数据更新后自动启动插件 AutoTimer，使其在
 msgid "always"
 msgstr "总是"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "事件\\\\\\\\n"
+msgstr "事件\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "绝不"
@@ -314,3 +320,6 @@ msgstr "跳过导入"
 
 msgid "wake up and import"
 msgstr "唤醒并导入"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "展示 \\\\\\\\\\\\\\\\"

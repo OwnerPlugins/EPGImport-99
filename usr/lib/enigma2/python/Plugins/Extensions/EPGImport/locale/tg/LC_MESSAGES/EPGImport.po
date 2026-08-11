@@ -24,8 +24,9 @@ msgstr "Иловаи провайдер"
 msgid "All services provider"
 msgstr "Ҳама провайдери хидматрасонӣ"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "Инчунин муроҷиат кунед \\\\\\\\"
+msgstr "Инчунин муроҷиат кунед \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr "Воридкунандаи худкори EPG"
@@ -54,8 +55,9 @@ msgstr "Ҳангоми дар ҳолати интизории амиқ буда�
 msgid "Clear"
 msgstr "Тоза"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "Муайян кардани танзимоти \\\\\\\\"
+msgstr "Муайян кардани танзимоти \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Профили рӯзҳо"
@@ -72,8 +74,9 @@ msgstr "Пеш аз воридот EPG-и ҷорӣро нест кунед"
 msgid "Delete selected"
 msgstr "Нест кардани интихобшуда"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "Нишон додани миёнабур \\\\\\\\"
+msgstr "Нишон додани миёнабур \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Воридоти EPG"
@@ -192,8 +195,9 @@ msgstr "Танзимотҳо бомуваффақият захира карда 
 msgid "Shell command name"
 msgstr "Номи фармони Shell"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "Намоиш \\\\\\\\"
+msgstr "Нишон додани сабт"
 
 msgid "Show log"
 msgstr "Нишон додани сабт"
@@ -276,8 +280,9 @@ msgstr "Ҳангоми фаъол шудан, шумо метавонед пеш
 msgid "When in deep standby"
 msgstr "Вақте ки дар ҳолати интизории амиқ"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Вақте, ки шумо тасмим гирифтед, ки EPG-ро пас аз қуттии пурборшуда ворид кунед, агар \\\\\\\\"
+msgstr "Вақте, ки шумо тасмим гирифтед, ки EPG-ро пас аз қуттии пурборшуда ворид кунед, агар \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Вақте ки шумо GUI-ро бозоғоз мекунед, шумо метавонед қарор қабул кунед, ки воридоти додаҳои EPG-ро гузаред ё не."
@@ -294,8 +299,9 @@ msgstr "Шумо метавонед ба таври худкор плагини 
 msgid "always"
 msgstr "хамеша"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "рӯйдодҳо\\\\\\\\n"
+msgstr "рӯйдодҳо\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ҳеҷ гоҳ"
@@ -314,3 +320,6 @@ msgstr "воридотро гузаред"
 
 msgid "wake up and import"
 msgstr "бедор шавед ва ворид кунед"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "Намоиш \\\\\\\\\\\\\\\\"

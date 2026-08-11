@@ -24,8 +24,9 @@ msgstr "เพิ่มผู้ให้บริการ"
 msgid "All services provider"
 msgstr "ผู้ให้บริการทั้งหมด"
 
+#, fuzzy
 msgid "Also apply \\\\\\\\"
-msgstr "ใช้ \\\\\\\\ ด้วย"
+msgstr "ใช้ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ด้วย"
 
 msgid "Automated EPG Importer"
 msgstr "ผู้นำเข้า EPG อัตโนมัติ"
@@ -54,8 +55,9 @@ msgstr "เลือกการดำเนินการที่จะดำ
 msgid "Clear"
 msgstr "ชัดเจน"
 
+#, fuzzy
 msgid "Consider setting \\\\\\\\"
-msgstr "พิจารณาการตั้งค่า \\\\\\\\"
+msgstr "พิจารณาการตั้งค่า \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "โปรไฟล์วัน"
@@ -72,8 +74,9 @@ msgstr "ลบ EPG ปัจจุบันก่อนนำเข้า"
 msgid "Delete selected"
 msgstr "ลบที่เลือกไว้"
 
+#, fuzzy
 msgid "Display a shortcut \\\\\\\\"
-msgstr "แสดงทางลัด \\\\\\\\"
+msgstr "แสดงทางลัด \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "อีพีจีนำเข้า"
@@ -192,8 +195,9 @@ msgstr "บันทึกการตั้งค่าสำเร็จแล
 msgid "Shell command name"
 msgstr "ชื่อคำสั่งเชลล์"
 
+#, fuzzy
 msgid "Show \\\\\\\\"
-msgstr "แสดง \\\\\\\\"
+msgstr "แสดงบันทึก"
 
 msgid "Show log"
 msgstr "แสดงบันทึก"
@@ -276,8 +280,9 @@ msgstr "เมื่อเปิดใช้งาน คุณจะสาม�
 msgid "When in deep standby"
 msgstr "เมื่ออยู่ในโหมดสแตนด์บายแบบลึก"
 
+#, fuzzy
 msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "เมื่อคุณตัดสินใจที่จะนำเข้า EPG หลังจากที่กล่องบูตพูดถึงถ้า \\\\\\\\"
+msgstr "เมื่อคุณตัดสินใจที่จะนำเข้า EPG หลังจากที่กล่องบูตพูดถึงถ้า \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "เมื่อคุณรีสตาร์ท GUI คุณสามารถเลือกที่จะข้ามหรือไม่นำเข้าข้อมูล EPG ได้"
@@ -294,8 +299,9 @@ msgstr "คุณสามารถเริ่มปลั๊กอิน AutoT
 msgid "always"
 msgstr "เสมอ"
 
+#, fuzzy
 msgid "events\\\\\\\\n"
-msgstr "เหตุการณ์\\\\\\\\n"
+msgstr "เหตุการณ์\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "never"
 msgstr "ไม่เคย"
@@ -314,3 +320,6 @@ msgstr "ข้ามการนำเข้า"
 
 msgid "wake up and import"
 msgstr "ตื่นขึ้นมาและนำเข้า"
+
+#~ msgid "Show \\\\\\\\\\\\\\\\"
+#~ msgstr "แสดง \\\\\\\\\\\\\\\\"
