@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Ավելացնել ալիք"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Ավելացնել մատակարար"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Բոլոր ծառայություններ մատուցող"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Կիրառել նաև \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Ավտոմատացված EPG ներմուծող"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Ավտոմատ ներմուծում EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Ավտոմատ մեկնարկի ժամանակը"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Չեղարկել"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Ընտրության օրեր ներմուծման մեկնարկի համար"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Ընտրեք տեղեկատու."
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Ընտրեք գրացուցակը"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Ընտրեք գործողությունը, որը պետք է կատարվի, երբ տուփը գտնվում է խորը սպասման վիճակում, և EPG-ի ավտոմատ թարմացումը սովորաբար պետք է սկսվի:"
 
 msgid "Clear"
-msgstr ""
+msgstr "Պարզ"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Մտածեք \\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Օրերի պրոֆիլ"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Սահմանեք այն օրերի քանակը, երբ ցանկանում եք ստանալ ամբողջական EPG տվյալները, այս թվի կրճատումը կարող է օգնել ձեզ խնայել հիշողության օգտագործումը ձեր տուփի վրա: Բայց դուք նաև սահմանափակված եք EPG մատակարարի հասանելի տվյալների հետ: Դուք չեք ունենա 15 օրվա EPG, եթե այն տրամադրի միայն 7 օրվա տվյալներ:"
 
 msgid "Delete all"
-msgstr ""
+msgstr "Ջնջել բոլորը"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Ջնջել ընթացիկ EPG-ն ներմուծումից առաջ"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Ջնջել ընտրվածը"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Ցուցադրել դյուրանցում \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG ներմուծում"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG ներմուծման կոնֆիգուրացիա"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG ներմուծման մատյան"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG ներմուծման աղբյուրներ"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG ներմուծումն ավարտված է, %d իրադարձություն"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG ներմուծում հիմա"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPG Ներմուծում"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Մուտքագրեք shell հրամանի անունը:"
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Կատարեք shell հրամանը EPG ներմուծումից առաջ"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Զտում. %s Խնդրում ենք սպասել:"
 
 msgid "Friday"
-msgstr ""
+msgstr "Ուրբաթ"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Ժամեր, որից հետո ներմուծումը կրկնվում է"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Անտեսել ծառայությունների ցանկը"
 
 msgid "Import"
-msgstr ""
+msgstr "Ներմուծում"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Ներմուծումը ձախողվեց սխալմամբ՝ {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Ներմուծում. %s %s իրադարձություն"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Վերջին ներմուծումը."
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Վերջին ներմուծումը՝ %s %s, %d իրադարձություն"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Վերջին ներմուծումը՝ %s իրադարձություն"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Բեռնել EPG միայն IPTV ալիքների համար"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Բեռնել միայն EPG ծառայությունները ծաղկեփնջերի մեջ"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Բեռնել երկար նկարագրությունները մինչև X օր"
 
 msgid "Manual"
-msgstr ""
+msgstr "Ձեռնարկ"
 
 msgid "Monday"
-msgstr ""
+msgstr "Երկուշաբթի"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Ակտիվ EPG աղբյուրներ չեն գտնվել, անելիք չկա"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Աղբյուրի ֆայլ չի գտնվել:"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Ժամերի քանակը (1-23, կամ 0՝ չկրկնվելու համար), որից հետո ներմուծումը կրկնվում է։ Այս արժեքը չի պահպանվել և կզրոյացվի, երբ GUI-ն վերագործարկվի:"
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Ճանապարհ DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Սեղմեք OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Իսկապե՞ս ջնջե՞լ ամբողջ ցուցակը:"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Ներմուծումից հետո վերադարձեք խորը սպասման ռեժիմի"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Ներմուծելուց հետո գործարկեք AutoTimer-ը"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ԸՆՏՐԵՔ ՁԵՐ ԸՆՏՐՈՒԹՅՈՒՆԸ"
 
 msgid "Saturday"
-msgstr ""
+msgstr "շաբաթ օրը"
 
 msgid "Save"
-msgstr ""
+msgstr "Պահպանել"
 
 msgid "Select action"
-msgstr ""
+msgstr "Ընտրեք գործողություն"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Ընտրեք ծառայություն՝ ավելացնելու համար..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Կարգավորումները հաջողությամբ պահպանվեցին:"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell հրամանի անունը"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Ցույց տալ \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Ցույց տալ գրանցամատյանը"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Բաց թողնել ներմուծումը վերագործարկելու միջերեսային միջերեսը"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Աղբյուր EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Աղբյուրներ"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Աղբյուրները հաջողությամբ պահպանվեցին:"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Նշեք, թե որ դեպքում EPG-ը պետք է ավտոմատ կերպով թարմացվի տուփի բեռնումից հետո:"
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Նշեք EPG.dat ֆայլի պահպանման ուղու թղթապանակը:"
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Նշեք EPG-ի աղբյուրը:"
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Նշեք EPG-ի ավտոմատ թարմացման ժամանակը:"
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Սպասման ժամանակ գործարկման ժամանակ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Սկսեք ներմուծումը բեռնումից հետո"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Սկսեք ներմուծումը սպասման ռեժիմից վերսկսելուց հետո:"
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Սկսեք ներմուծումը սպասման պահից հետո"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Կիրակի"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Արթնացած տուփը կվերածվի սպասման ռեժիմի՝ EPG ներմուծման ավտոմատ արթնացումից հետո:"
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Սա առաջադեմ օգտատերերի համար է, ովքեր օգտագործում են ալիքի ID-ի զտման գործառույթը: Եթե ​​միացված է, ապա /etc/epgimport/channel_id_filter.conf-ում սահմանված ֆիլտրի կանոնները նույնպես կկիրառվեն ձեր /etc/epgimport/custom.channels.xml ֆայլի վրա:"
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Սա կջնջի ընթացիկ EPG տվյալները հիշողության մեջ՝ նախքան EPG տվյալները թարմացնելը: Սա թույլ է տալիս միշտ ունենալ մաքուր նոր EPG՝ վերջին EPG տվյալներով, օրինակ՝ թարմացման միջև ծրագրային փոփոխության դեպքում, հակառակ դեպքում EPG տվյալները կուտակային են:"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Սա արթնացած տուփը կվերադարձնի խորը սպասման ռեժիմի ավտոմատ EPG ներմուծումից հետո:"
 
 msgid "Thursday"
-msgstr ""
+msgstr "հինգշաբթի"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Հիշողությունը խնայելու համար կարող եք որոշել բեռնել EPG տվյալները միայն IPTV ալիքների համար:"
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Հիշողությունը խնայելու համար դուք կարող եք որոշել միայն բեռնել EPG տվյալները ձեր ծաղկեփնջերի ֆայլերում առկա ծառայությունների համար:"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Երեքշաբթի"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Թարմացնել աղբյուրները"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "չորեքշաբթի"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Երբ միացված է, այն թույլ է տալիս պլանավորել EPG-ի ավտոմատ թարմացում տվյալ օրերին և ժամին:"
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Երբ միացված է, այնուհետև կարող եք գործարկել ցանկալի սկրիպտը նախքան ներմուծումը սկսելը, որից հետո կսկսվի EPG-ի ներմուծումը:"
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Խորը սպասման ժամանակ"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Երբ դուք որոշում եք ներմուծել EPG տուփը բեռնվելուց հետո, նշեք, եթե \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Երբ վերագործարկեք GUI-ն, կարող եք որոշել բաց թողնել EPG տվյալների ներմուծումը, թե ոչ:"
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Գրեք /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Դուք կարող եք ընտրել օրը(եր)ը, երբ պետք է կատարվի EPG թարմացումը:"
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Դուք կարող եք ավտոմատ կերպով գործարկել plugin AutoTimer-ը EPG տվյալների թարմացումից հետո, որպեսզի այն թարմացնի իր պլանավորումը EPG տվյալների թարմացումից հետո:"
 
 msgid "always"
-msgstr ""
+msgstr "միշտ"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "իրադարձություններ\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "երբեք"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "միայն ավտոմատ բեռնախցիկ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "միայն ձեռքով բեռնախցիկ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "սեղմեք OK՝ ցուցակը պահպանելու համար"
 
 msgid "skip the import"
-msgstr ""
+msgstr "բաց թողնել ներմուծումը"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "արթնանալ և ներմուծել"
+

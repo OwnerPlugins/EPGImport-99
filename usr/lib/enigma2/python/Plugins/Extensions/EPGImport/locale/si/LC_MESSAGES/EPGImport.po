@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "නාලිකාව එක් කරන්න"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "සපයන්නා එක් කරන්න"
 
 msgid "All services provider"
-msgstr ""
+msgstr "සියලුම සේවා සපයන්නා"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "එසේම අයදුම් කරන්න \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "ස්වයංක්‍රීය EPG ආනයනකරු"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "ස්වයංක්‍රීය ආනයන EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "ස්වයංක්‍රීය ආරම්භක වේලාව"
 
 msgid "Cancel"
-msgstr ""
+msgstr "අවලංගු කරන්න"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "ආනයනය ආරම්භ කිරීම සඳහා තේරීම් දින"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "නාමාවලිය තෝරන්න:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "නාමාවලිය තෝරන්න"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "කොටුව ගැඹුරු පොරොත්තුවෙන් ඇති විට සිදු කිරීමට ක්‍රියාව තෝරන්න සහ ස්වයංක්‍රීය EPG යාවත්කාලීන කිරීම සාමාන්‍යයෙන් ආරම්භ විය යුතුය."
 
 msgid "Clear"
-msgstr ""
+msgstr "පැහැදිලියි"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "සැකසීම සලකා බලන්න \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "දින පැතිකඩ"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "ඔබට සම්පූර්ණ EPG දත්ත ලබා ගැනීමට අවශ්‍ය දින ගණන නිර්වචනය කරන්න, මෙම සංඛ්‍යාව අඩු කිරීමෙන් ඔබේ කොටුවේ මතක භාවිතය සුරැකීමට ඔබට උදවු කළ හැක. නමුත් EPG සපයන්නාගේ දත්ත සමඟ ඔබ සීමා වී ඇත. එය දින 7ක දත්ත පමණක් සපයන්නේ නම් ඔබට දින 15 EPG නොමැත."
 
 msgid "Delete all"
-msgstr ""
+msgstr "සියල්ල මකන්න"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "ආයාත කිරීමට පෙර වත්මන් EPG මකන්න"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "තෝරාගත් මකන්න"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "කෙටිමඟක් පෙන්වන්න \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG ආනයනය"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG ආනයන වින්‍යාසය"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG ආනයන ලොගය"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG ආනයන මූලාශ්‍ර"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG ආයාත කිරීම අවසන්, සිදුවීම් %d"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "දැන් EPG ආනයනය කරන්න"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "shell විධාන නාමය ඇතුලත් කරන්න."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPG ආයාත කිරීමට පෙර shell විධානය ක්‍රියාත්මක කරන්න"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "පෙරීම: %s කරුණාකර රැඳී සිටින්න!"
 
 msgid "Friday"
-msgstr ""
+msgstr "සිකුරාදා"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "පැය ගණනකට පසුව ආයාත කිරීම නැවත සිදු වේ"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "සේවා ලැයිස්තුව නොසලකා හරින්න"
 
 msgid "Import"
-msgstr ""
+msgstr "ආනයනය කරන්න"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "දෝෂයක් සමඟ ආයාත කිරීම අසාර්ථක විය: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "ආයාත කිරීම: සිදුවීම් %s %s"
 
 msgid "Last import:"
-msgstr ""
+msgstr "අවසන් ආනයනය:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "අවසන් ආයාත: %s %s, සිදුවීම් %d"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "අවසන් ආයාත: සිදුවීම් %s"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "IPTV නාලිකා සඳහා පමණක් EPG පූරණය කරන්න"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "මල් කළඹ තුළ EPG පමණක් සේවා පූරණය කරන්න"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "X දින දක්වා දිගු විස්තර පූරණය කරන්න"
 
 msgid "Manual"
-msgstr ""
+msgstr "අත්පොත"
 
 msgid "Monday"
-msgstr ""
+msgstr "සඳුදා"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "සක්‍රිය EPG මූලාශ්‍ර කිසිවක් හමු නොවීය, කිරීමට කිසිවක් නැත"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "මූලාශ්‍ර ගොනුවක් හමු නොවිණි!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "ආයාත කිරීම පුනරාවර්තනය වන පැය ගණන (1-23, හෝ පුනරාවර්තනය සඳහා 0). මෙම අගය සුරැකෙන්නේ නැති අතර GUI නැවත ආරම්භ වන විට නැවත සකසනු ඇත."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "මාර්ගය DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "හරි ඔබන්න"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "ඇත්තටම සියලුම ලැයිස්තුව මකන්නද?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "ආයාත කිරීමෙන් පසු ගැඹුරු පොරොත්තු වෙත ආපසු යන්න"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "ආයාත කිරීමෙන් පසු AutoTimer ධාවනය කරන්න"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ඔබේ තේරීම තෝරන්න"
 
 msgid "Saturday"
-msgstr ""
+msgstr "සෙනසුරාදා"
 
 msgid "Save"
-msgstr ""
+msgstr "සුරකින්න"
 
 msgid "Select action"
-msgstr ""
+msgstr "ක්‍රියාව තෝරන්න"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "එක් කිරීමට සේවාව තෝරන්න..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "සැකසීම් සාර්ථකව සුරකින ලදී!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell විධාන නාමය"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "පෙන්වන්න \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ලොගය පෙන්වන්න"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUI නැවත ආරම්භ කිරීමේදී ආනයනය මඟ හරින්න"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "මූලාශ්රය EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "මූලාශ්ර"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "මූලාශ්‍ර සාර්ථකව සුරකින ලදී!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "පෙට්ටිය ආරම්භ වූ පසු EPG ස්වයංක්‍රීයව යාවත්කාලීන කළ යුත්තේ කුමන අවස්ථාවකද යන්න සඳහන් කරන්න."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat ගොනුව සුරැකීමට මාර්ග ෆෝල්ඩරය සඳහන් කරන්න."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "EPG සඳහා මූලාශ්‍රය සඳහන් කරන්න."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ස්වයංක්‍රීය EPG යාවත්කාලීන කිරීම සඳහා කාලය සඳහන් කරන්න."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "ආරම්භයේදී රැඳී සිටින්න"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "ආරම්භ කිරීමෙන් පසු ආයාත කිරීම ආරම්භ කරන්න"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "පොරොත්තු ප්‍රකාරයෙන් නැවත ආරම්භ කිරීමෙන් පසු ආයාත කිරීම අරඹන්න."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "පොරොත්තුවෙන් පසු ආනයනය ආරම්භ කරන්න"
 
 msgid "Sunday"
-msgstr ""
+msgstr "ඉරිදා"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "ස්වයංක්‍රීය EPG ආයාත පිබිදීමෙන් පසු අවදි වූ පෙට්ටිය පොරොත්තු බවට පත් කෙරේ."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "මෙය නාලිකා හැඳුනුම්පත පෙරීමේ විශේෂාංගය භාවිතා කරන උසස් පරිශීලකයින් සඳහා වේ. සබල කර ඇත්නම්, /etc/epgimport/channel_id_filter.conf වෙත අර්ථ දක්වා ඇති පෙරහන් රීති ඔබගේ /etc/epgimport/custom.channels.xml ගොනුවටද යෙදේ."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "මෙය EPG දත්ත යාවත්කාලීන කිරීමට පෙර මතකයේ පවතින EPG දත්ත ඉවත් කරයි. මෙය ඔබට සෑම විටම නවතම EPG දත්ත සමඟ පිරිසිදු නව EPG ලබා ගැනීමට ඉඩ සලසයි, උදාහරණයක් ලෙස නැවුම් කිරීම අතර වැඩසටහන් වෙනස්වීම් වලදී, එසේ නොමැතිනම් EPG දත්ත සමුච්චිත වේ."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "මෙය ස්වයංක්‍රීය EPG ආයාත කිරීමෙන් පසු නැවත අවදි වූ පෙට්ටිය ගැඹුරු පොරොත්තු බවට පත් කරයි."
 
 msgid "Thursday"
-msgstr ""
+msgstr "බ්රහස්පතින්දා"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "මතකය සුරැකීමට ඔබට IPTV නාලිකා සඳහා පමණක් EPG දත්ත පූරණය කිරීමට තීරණය කළ හැකිය."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "මතකය සුරැකීමට ඔබට ඔබේ මල් කළඹේ ඇති සේවාවන් සඳහා පමණක් EPG දත්ත පූරණය කිරීමට තීරණය කළ හැක."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "අඟහරුවාදා"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "මූලාශ්ර යාවත්කාලීන කරන්න"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "බදාදා"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "සබල කළ විට, එය ඔබට ලබා දී ඇති දින සහ වේලාවට ස්වයංක්‍රීය EPG යාවත්කාලීනයක් උපලේඛනගත කිරීමට ඉඩ සලසයි."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "සබල කළ විට, ආනයනය ආරම්භ කිරීමට පෙර ඔබට අවශ්‍ය ස්ක්‍රිප්ට් ධාවනය කළ හැක, ඉන් පසුව EPG ආයාත කිරීම ආරම්භ වේ."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "ගැඹුරු පොරොත්තුවෙන් සිටින විට"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "ඔබ EPG ආයාත කිරීමට තීරණය කරන විට පෙට්ටිය බූට් කළ පසු \\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "ඔබ GUI නැවත ආරම්භ කරන විට ඔබට EPG දත්ත ආයාත කිරීම මඟ හැරීමට හෝ නොකිරීමට තීරණය කළ හැක."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.log වෙත ලියන්න"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "EPG යාවත්කාලීනය සිදු කළ යුතු දිනය(ය) ඔබට තේරිය හැක."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "ඔබට EPG දත්ත යාවත්කාලීන කිරීමෙන් පසු ස්වයංක්‍රීය ටයිමර් ප්ලගිනය ස්වයංක්‍රීයව ආරම්භ කළ හැක, එය EPG දත්ත නැවුම් කිරීමෙන් පසුව එහි කාලසටහන් නැවුම් කිරීමට."
 
 msgid "always"
-msgstr ""
+msgstr "සෑම විටම"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "සිදුවීම්\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "කවදාවත්"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "ස්වයංක්රීය ඇරඹුම් පමණි"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "අතින් ඇරඹුම් පමණි"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "ලැයිස්තුව සුරැකීමට OK ඔබන්න"
 
 msgid "skip the import"
-msgstr ""
+msgstr "ආනයනය මඟ හරින්න"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "අවදි වී ආනයනය කරන්න"
+

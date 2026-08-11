@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Żid il-Kanal"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Żid Fornitur"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Il-fornitur tas-servizzi kollha"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Applika wkoll \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Importatur EPG Awtomatizzat"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Importazzjoni awtomatika EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Ħin tal-bidu awtomatiku"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ikkanċella"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Ġranet tal-għażla għall-bidu tal-importazzjoni"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Agħżel Direttorju:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Agħżel direttorju"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Agħżel l-azzjoni li trid twettaq meta l-kaxxa tkun f'deep standby u l-aġġornament awtomatiku tal-EPG għandu normalment jibda."
 
 msgid "Clear"
-msgstr ""
+msgstr "Ċara"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Ikkunsidra li tistabbilixxi \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Jiem Profil"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Iddefinixxi n-numru ta' ġranet li trid tikseb id-dejta sħiħa tal-EPG, it-tnaqqis ta' dan in-numru jista' jgħinek biex tiffranka l-użu tal-memorja fuq il-kaxxa tiegħek. Imma int limitat ukoll bid-dejta disponibbli tal-fornitur EPG. Ma jkollokx 15-il jum EPG jekk tipprovdi biss data ta' 7 ijiem."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Ħassar kollox"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Ħassar EPG kurrenti qabel l-importazzjoni"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Ħassar magħżula"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Uri shortcut \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Importazzjoni EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Konfigurazzjoni tal-Importazzjoni tal-EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Ġurnal tal-Importazzjoni tal-EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Sorsi ta' importazzjoni EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Importazzjoni EPG lesta, %d avvenimenti"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG importazzjoni issa"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Daħħal l-isem tal-kmand tal-qoxra."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Eżegwixxi kmand tal-qoxra qabel l-importazzjoni EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Iffiltrar: %s Jekk jogħġbok stenna!"
 
 msgid "Friday"
-msgstr ""
+msgstr "il-Ġimgħa"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Sigħat li warajhom l-importazzjoni tiġi ripetuta"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Injora l-lista tas-servizzi"
 
 msgid "Import"
-msgstr ""
+msgstr "Importazzjoni"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "L-importazzjoni falliet bi żball: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Importazzjoni: %s %s avvenimenti"
 
 msgid "Last import:"
-msgstr ""
+msgstr "L-aħħar importazzjoni:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "L-aħħar importazzjoni: %s %s, %d avvenimenti"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "L-aħħar importazzjoni: %s avvenimenti"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Tagħbija EPG biss għal kanali IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Tagħbija servizzi EPG biss f'bukketti"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Tagħbija deskrizzjonijiet twal sa X ijiem"
 
 msgid "Manual"
-msgstr ""
+msgstr "Manwal"
 
 msgid "Monday"
-msgstr ""
+msgstr "it-Tnejn"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "L-ebda sors EPG attiv ma nstab, xejn x'tagħmel"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "L-ebda fajl sors misjub!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Numru ta' sigħat (1-23, jew 0 għal ebda ripetizzjoni) li warajhom l-importazzjoni tiġi ripetuta. Dan il-valur ma jiġix salvat u se jiġi reset meta l-GUI terġa 'tibda."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Mogħdija DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Agħfas OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Verament tħassar il-lista kollha?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Ritorn għal standby fil-fond wara l-importazzjoni"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Mexxi AutoTimer wara l-importazzjoni"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "AGĦŻEL L-GĦAŻLA TIEGĦEK"
 
 msgid "Saturday"
-msgstr ""
+msgstr "is-Sibt"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Select action"
-msgstr ""
+msgstr "Agħżel azzjoni"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Agħżel is-servizz biex iżżid..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Settings salvati b'suċċess!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Isem tal-kmand tal-shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Uri \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Uri log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Aqbeż l-importazzjoni meta terġa 'tibda l-GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Sors EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Sorsi"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Sorsi salvati b'suċċess!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Speċifika f'liema każ l-EPG għandu jiġi aġġornat awtomatikament wara li l-kaxxa tkun booted."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Speċifika l-folder tal-passaġġ għall-iffrankar tal-fajl EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Speċifika s-sors għall-EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Speċifika l-ħin għall-aġġornament awtomatiku tal-EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Standby fl-istartjar"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Ibda l-importazzjoni wara l-ibbutjar"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Ibda l-importazzjoni wara li terġa' tibda mill-modalità standby."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Ibda l-importazzjoni wara standby"
 
 msgid "Sunday"
-msgstr ""
+msgstr "il-Ħadd"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Il-kaxxa wakeed up tinbidel fi standby wara li jinxtegħel l-importazzjoni awtomatika tal-EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Dan huwa għal utenti avvanzati li qed jużaw il-karatteristika tal-filtrazzjoni tal-id tal-kanal. Jekk attivata, ir-regoli tal-filtru definiti f'/etc/epgimport/channel_id_filter.conf jiġu applikati wkoll fuq il-fajl /etc/epgimport/custom.channels.xml tiegħek."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Dan se jneħħi d-dejta attwali tal-EPG fil-memorja qabel ma taġġorna d-dejta tal-EPG. Dan jippermettilek li dejjem ikollok EPG ġdid nadif bl-aħħar dejta tal-EPG, pereżempju f'każ ta' bidliet fil-programm bejn l-aġġornament, inkella d-dejta tal-EPG tkun kumulattiva."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Dan se jdawwar lura l-kaxxa waked up f'deep-standby wara l-importazzjoni awtomatika tal-EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "il-Ħamis"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Biex tiffranka l-memorja tista 'tiddeċiedi li tagħbija data EPG biss għall-kanali IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Biex tiffranka l-memorja tista' tiddeċiedi li tgħabbi biss id-dejta tal-EPG għas-servizzi li għandek fil-fajls tal-bukkett tiegħek."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "it-Tlieta"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Aġġorna Sorsi"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "l-Erbgħa"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Meta tkun attivata, tippermettilek tiskeda aġġornament awtomatiku tal-EPG fil-jiem u l-ħin partikolari."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Meta tkun attivata, allura tista 'taħdem l-iskript mixtieq qabel ma tibda l-importazzjoni, u wara tibda l-importazzjoni tal-EPG."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Meta tkun fil-fond ta' standby"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Meta tiddeċiedi li timporta l-EPG wara li l-kaxxa booted semmi jekk il-\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Meta terġa 'tibda l-GUI tista' tiddeċiedi li taqbeż jew le l-importazzjoni tad-dejta EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Ikteb fuq /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Tista' tagħżel il-jum(i) meta jrid isir l-aġġornament tal-EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Tista 'tibda awtomatikament il-plugin AutoTimer wara l-aġġornament tad-dejta tal-EPG biex iġġedded l-iskedar tiegħu wara l-aġġornament tad-dejta tal-EPG."
 
 msgid "always"
-msgstr ""
+msgstr "dejjem"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "avvenimenti\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "qatt"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "boot awtomatiku biss"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "but manwali biss"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "agħfas OK biex issalva l-lista"
 
 msgid "skip the import"
-msgstr ""
+msgstr "aqbeż l-importazzjoni"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "tqum u l-importazzjoni"
+

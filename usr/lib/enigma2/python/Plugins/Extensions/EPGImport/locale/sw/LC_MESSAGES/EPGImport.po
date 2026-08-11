@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Ongeza Kituo"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Ongeza Mtoa Huduma"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Mtoa huduma zote"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Pia tuma \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Kiingizaji cha EPG kiotomatiki"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Ingiza kiotomatiki EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Wakati wa kuanza kiotomatiki"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ghairi"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Siku za chaguo za kuanza kuagiza"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Chagua Saraka:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Chagua saraka"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Chagua kitendo cha kutekeleza wakati kisanduku kiko katika hali ya kusubiri ya kina na usasishaji wa kiotomatiki wa EPG unapaswa kuanza kwa kawaida."
 
 msgid "Clear"
-msgstr ""
+msgstr "Wazi"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Zingatia kuweka \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Wasifu wa Siku"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Bainisha idadi ya siku ambazo ungependa kupata data kamili ya EPG, kupunguza nambari hii kunaweza kukusaidia kuhifadhi matumizi ya kumbukumbu kwenye kisanduku chako. Lakini pia una kikomo na data inayopatikana ya mtoaji wa EPG. Hutakuwa na EPG ya siku 15 ikiwa itatoa data ya siku 7 pekee."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Futa zote"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Futa EPG ya sasa kabla ya kuagiza"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Futa iliyochaguliwa"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Onyesha njia ya mkato \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Ingiza EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Usanidi wa Kuingiza wa EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Kumbukumbu ya Kuingiza ya EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Vyanzo vya Kuingiza vya EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Uingizaji wa EPG umekamilika, matukio %d"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Ingiza EPG sasa"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "Uagizaji wa EPGI"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Ingiza jina la amri ya ganda."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Tekeleza amri ya ganda kabla ya kuleta EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Inachuja: %s Tafadhali subiri!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Ijumaa"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Saa baada ya hapo uagizaji unarudiwa"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Puuza orodha ya huduma"
 
 msgid "Import"
-msgstr ""
+msgstr "Ingiza"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Imeshindwa kuleta hitilafu: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Inaleta: %s %s matukio"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Uingizaji wa mwisho:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Uletaji wa mwisho: %s %s, matukio %d"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Uletaji wa mwisho: Matukio %s"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Pakia EPG kwa vituo vya IPTV pekee"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Pakia huduma za EPG pekee kwenye bouquets"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Pakia maelezo marefu hadi siku X"
 
 msgid "Manual"
-msgstr ""
+msgstr "Mwongozo"
 
 msgid "Monday"
-msgstr ""
+msgstr "Jumatatu"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Hakuna vyanzo vinavyotumika vya EPG vilivyopatikana, hakuna cha kufanya"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Hakuna faili chanzo kupatikana!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Idadi ya saa (1-23, au 0 bila kurudiwa) baada ya hapo uagizaji unarudiwa. Thamani hii haijahifadhiwa na itawekwa upya GUI itakapowashwa upya."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Njia ya DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Bonyeza Sawa"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Je, ungependa kufuta orodha yote?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Rudi kwenye hali ya kusubiri ya kina baada ya kuagiza"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Endesha AutoTimer baada ya kuagiza"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "CHAGUA UCHAGUZI WAKO"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Jumamosi"
 
 msgid "Save"
-msgstr ""
+msgstr "Hifadhi"
 
 msgid "Select action"
-msgstr ""
+msgstr "Chagua kitendo"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Chagua huduma ya kuongeza..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Mipangilio imehifadhiwa!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Jina la amri ya Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Onyesha \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Onyesha kumbukumbu"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Ruka uagizaji kwenye kuanzisha upya GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Chanzo EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Vyanzo"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Vyanzo vimehifadhiwa!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Bainisha ni katika hali gani EPG lazima isasishwe kiotomatiki baada ya kisanduku kuwashwa."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Bainisha folda ya njia ya kuhifadhi faili ya EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Bainisha chanzo cha EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Bainisha muda wa sasisho otomatiki la EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Kusimama wakati wa kuanza"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Anza kuingiza baada ya kuwasha"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Anza kuingiza baada ya kuanza tena kutoka kwa hali ya kusubiri."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Anza kuagiza baada ya kusubiri"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Jumapili"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Kisanduku cha kuamsha kitageuzwa kuwa hali ya kusubiri baada ya kuamka kiotomatiki uagizaji wa EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Hii ni kwa watumiaji wa hali ya juu wanaotumia kipengele cha kuchuja kitambulisho cha kituo. Ikiwashwa, sheria za kichujio zilizofafanuliwa kwenye /etc/epgimport/channel_id_filter.conf pia zitatumika kwenye faili yako /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Hii itafuta data ya sasa ya EPG kwenye kumbukumbu kabla ya kusasisha data ya EPG. Hii hukuruhusu kuwa na EPG mpya kila wakati na data ya hivi punde ya EPG, kwa mfano ikiwa programu itabadilika kati ya kuonyesha upya, vinginevyo data ya EPG ni limbikizi."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Hii itarejesha kisanduku cha waked up katika hali ya kusubiri baada ya uletaji wa kiotomatiki wa EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Alhamisi"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Ili kuhifadhi kumbukumbu unaweza kuamua kupakia data ya EPG kwa vituo vya IPTV pekee."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Ili kuhifadhi kumbukumbu unaweza kuamua kupakia data ya EPG pekee kwa huduma ulizo nazo kwenye faili zako za bouquet."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Jumanne"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Sasisha Vyanzo"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Jumatano"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Inapowashwa, hukuruhusu kuratibu sasisho otomatiki la EPG kwa siku na wakati husika."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Ikiwashwa, basi unaweza kuendesha hati inayotaka kabla ya kuanza kuagiza, baada ya hapo uagizaji wa EPG utaanza."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Ukiwa katika hali ya kusubiri sana"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Unapoamua kuagiza EPG baada ya kisanduku kuanza kutaja ikiwa \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Unapoanzisha upya GUI unaweza kuamua kuruka au kutoingiza data ya EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Andika kwa /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Unaweza kuchagua siku ambapo sasisho la EPG lazima litekelezwe."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Unaweza kuanzisha kiotomatiki programu-jalizi ya AutoTimer baada ya sasisho la data la EPG ili ifanye upya ratiba yake baada ya kuonyesha upya data ya EPG."
 
 msgid "always"
-msgstr ""
+msgstr "daima"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "matukio\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "kamwe"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "buti moja kwa moja tu"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "buti ya mwongozo tu"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "bonyeza Sawa ili kuhifadhi orodha"
 
 msgid "skip the import"
-msgstr ""
+msgstr "ruka uagizaji"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "kuamka na kuagiza"
+

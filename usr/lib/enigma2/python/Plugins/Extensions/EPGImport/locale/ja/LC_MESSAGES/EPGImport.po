@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "チャンネルを追加"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "プロバイダーの追加"
 
 msgid "All services provider"
-msgstr ""
+msgstr "すべてのサービスプロバイダー"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "こちらも適用\\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "自動 EPG インポーター"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG の自動インポート"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "自動開始時間"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "インポート開始日の選択"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "ディレクトリを選択してください:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "ディレクトリを選択してください"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "ボックスがディープ スタンバイになっているときに実行するアクションを選択します。通常、EPG の自動更新が開始されます。"
 
 msgid "Clear"
-msgstr ""
+msgstr "クリア"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "\\\\\\\\ の設定を検討してください"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "日々のプロフィール"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "完全な EPG データを取得する日数を定義します。この数値を減らすと、ボックスのメモリ使用量を節約できます。ただし、EPG プロバイダーが利用できるデータにも制限があります。 7 日分のデータしか提供されない場合、15 日分の EPG はありません。"
 
 msgid "Delete all"
-msgstr ""
+msgstr "すべて削除"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "インポート前に現在の EPG を削除します"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "選択したものを削除"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "ショートカットを表示\\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG インポート"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG インポート設定"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPGインポートログ"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG インポート ソース"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG インポートが完了しました。イベント %d 件"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "今すぐEPGをインポート"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGインポート"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "シェルコマンド名を入力します。"
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPG をインポートする前にシェル コマンドを実行する"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "フィルタリング: %s お待ちください!"
 
 msgid "Friday"
-msgstr ""
+msgstr "金曜日"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "インポートが繰り返されるまでの時間数"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "サービスリストを無視する"
 
 msgid "Import"
-msgstr ""
+msgstr "輸入"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "インポートがエラーで失敗しました: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "インポート中: %s %s イベント"
 
 msgid "Last import:"
-msgstr ""
+msgstr "最後のインポート:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "最後のインポート: %s %s、%d イベント"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "最終インポート: %s イベント"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "IPTV チャンネルのみの EPG をロードする"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "EPG のみのサービスをブーケにロードする"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "最大 X 日間の長い説明を読み込みます"
 
 msgid "Manual"
-msgstr ""
+msgstr "マニュアル"
 
 msgid "Monday"
-msgstr ""
+msgstr "月曜日"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "アクティブな EPG ソースが見つからないため、何もすることができません"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "ソースファイルが見つかりません!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "インポートが繰り返されるまでの時間数 (1 ～ 23、または繰り返しなしの場合は 0)。この値は保存されず、GUI の再起動時にリセットされます。"
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "パス DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "「OK」を押します"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "本当にリストをすべて削除しますか？"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "インポート後にディープスタンバイに戻る"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "インポート後に AutoTimer を実行する"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "選択してください"
 
 msgid "Saturday"
-msgstr ""
+msgstr "土曜日"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Select action"
-msgstr ""
+msgstr "アクションの選択"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "追加するサービスを選択してください..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "設定が正常に保存されました。"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "シェルコマンド名"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "見せる \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ログを表示する"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUIの再起動時にインポートをスキップする"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "ソース EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "情報源"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "ソースが正常に保存されました。"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "ボックスの起動後に EPG を自動的に更新する必要がある場合を指定します。"
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat ファイルを保存するパスフォルダーを指定します。"
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "EPG のソースを指定します。"
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "EPG 自動更新の時刻を指定します。"
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "起動時スタンバイ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "起動後にインポートを開始する"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "スタンバイモードから復帰後、インポートを開始してください。"
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "スタンバイ後にインポートを開始する"
 
 msgid "Sunday"
-msgstr ""
+msgstr "日曜日"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "ウェイクアップされたボックスは、EPG インポートの自動ウェイクアップ後にスタンバイになります。"
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "これは、チャネル ID フィルタリング機能を使用する上級ユーザー向けです。有効にすると、/etc/epgimport/channel_id_filter.conf に定義されたフィルター ルールが /etc/epgimport/custom.channels.xml ファイルにも適用されます。"
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "これにより、EPG データを更新する前に、メモリ内の現在の EPG データがクリアされます。これにより、たとえば更新の間にプログラムが変更された場合など、最新の EPG データを含むクリーンな新しい EPG を常に保持できます。それ以外の場合、EPG データは累積されます。"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "これにより、自動 EPG インポート後にウェイクアップしたボックスがディープ スタンバイに戻ります。"
 
 msgid "Thursday"
-msgstr ""
+msgstr "木曜日"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "メモリを節約するために、IPTV チャンネルの EPG データのみをロードすることを決定できます。"
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "メモリを節約するために、ブーケ ファイルにあるサービスの EPG データのみをロードすることを決定できます。"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "火曜日"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "アップデートソース"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "水曜日"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "有効にすると、指定した日時に EPG の自動更新をスケジュールできます。"
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "有効にすると、インポートを開始する前に目的のスクリプトを実行でき、その後 EPG のインポートが開始されます。"
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "ディープスタンバイ時"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "ボックスの起動後に EPG をインポートする場合は、\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "GUI を再起動するときに、EPG データのインポートをスキップするかどうかを決定できます。"
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.log に書き込みます"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "EPG 更新を実行する必要がある日を選択できます。"
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "EPG データの更新後にプラグイン AutoTimer を自動的に開始して、EPG データの更新後にスケジュールを更新することができます。"
 
 msgid "always"
-msgstr ""
+msgstr "いつも"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "イベント\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "一度もない"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "自動ブートのみ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "手動ブートのみ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "OKを押してリストを保存します"
 
 msgid "skip the import"
-msgstr ""
+msgstr "インポートをスキップする"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "起きてインポートする"
+

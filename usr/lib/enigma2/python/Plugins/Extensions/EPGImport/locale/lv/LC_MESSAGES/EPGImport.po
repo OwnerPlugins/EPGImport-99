@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Pievienot kanālu"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Pievienot nodrošinātāju"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Visu pakalpojumu sniedzējs"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Piesakies arī \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Automatizēts EPG importētājs"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Automātiska EPG importēšana"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Automātiskais sākuma laiks"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atcelt"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Izvēles dienas importēšanas sākšanai"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Izvēlieties direktoriju:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Izvēlieties direktoriju"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Izvēlieties darbību, kas jāveic, kad kaste ir dziļā gaidstāves režīmā un parasti jāsākas automātiskajai EPG atjaunināšanai."
 
 msgid "Clear"
-msgstr ""
+msgstr "Skaidrs"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Apsveriet iestatījumu \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Dienu profils"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Definējiet dienu skaitu, kurās vēlaties iegūt pilnus EPG datus. Samazinot šo skaitu, varat ietaupīt uztvērēja atmiņas izmantošanu. Taču jūs arī ierobežojat ar EPG nodrošinātāja pieejamajiem datiem. Jums nebūs 15 dienu EPG, ja tajā tiks sniegti tikai 7 dienu dati."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Dzēst visu"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Pirms importēšanas dzēst pašreizējo EPG"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Dzēst atlasīto"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Parādīt saīsni \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG imports"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG importēšanas konfigurācija"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG importēšanas žurnāls"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG importa avoti"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG importēšana pabeigta, %d pasākumi"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG importēšana tūlīt"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGIimportēt"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Ievadiet apvalka komandas nosaukumu."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Pirms EPG importēšanas izpildiet čaulas komandu"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Filtrēšana: %s Lūdzu, uzgaidiet!"
 
 msgid "Friday"
-msgstr ""
+msgstr "piektdiena"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Stundas, pēc kurām importēšana tiek atkārtota"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Ignorēt pakalpojumu sarakstu"
 
 msgid "Import"
-msgstr ""
+msgstr "Importēt"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Importēšana neizdevās ar kļūdu: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Importē: %s %s notikumu"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Pēdējā importēšana:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Pēdējā importēšana: %s %s, %d notikumi"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Pēdējā importēšana: %s notikumi"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Ielādēt EPG tikai IPTV kanāliem"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Ievietojiet tikai EPG pakalpojumus pušķos"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Ielādēt garus aprakstus līdz pat X dienām"
 
 msgid "Manual"
-msgstr ""
+msgstr "Rokasgrāmata"
 
 msgid "Monday"
-msgstr ""
+msgstr "pirmdiena"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Netika atrasts neviens aktīvs EPG avots, nekas nav jādara"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Nav atrasts neviens avota fails!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Stundu skaits (1–23 vai 0, ja neatkārtojas), pēc kura importēšana tiek atkārtota. Šī vērtība netiek saglabāta un tiks atiestatīta, kad GUI restartēsies."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Ceļš DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Nospiediet OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Vai tiešām dzēst visu sarakstu?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Pēc importēšanas atgriezieties dziļajā gaidstāves režīmā"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Pēc importēšanas palaidiet AutoTimer"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "IZVĒLIES SAVU IZVĒLI"
 
 msgid "Saturday"
-msgstr ""
+msgstr "sestdiena"
 
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 msgid "Select action"
-msgstr ""
+msgstr "Izvēlieties darbību"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Atlasiet pakalpojumu, ko pievienot..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Iestatījumi ir veiksmīgi saglabāti!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell komandas nosaukums"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Rādīt \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Rādīt žurnālu"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Izlaist importēšanu, restartējot GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Avots EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Avoti"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Avoti veiksmīgi saglabāti!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Norādiet, kādā gadījumā EPG ir automātiski jāatjaunina pēc lodziņa sāknēšanas."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Norādiet EPG.dat faila saglabāšanas ceļa mapi."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Norādiet EPG avotu."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Norādiet automātiskās EPG atjaunināšanas laiku."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Gaidīšanas režīms palaišanas laikā"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Sāciet importēšanu pēc sāknēšanas"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Sāciet importēšanu pēc atsākšanas no gaidstāves režīma."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Sāciet importēšanu pēc gaidīšanas režīma"
 
 msgid "Sunday"
-msgstr ""
+msgstr "svētdiena"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Pamodinātā lodziņa tiks ieslēgta gaidstāves režīmā pēc automātiskās EPG importēšanas pamodināšanas."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Tas ir paredzēts pieredzējušiem lietotājiem, kuri izmanto kanāla ID filtrēšanas funkciju. Ja tas ir iespējots, failā /etc/epgimport/channel_id_filter.conf definētie filtra noteikumi tiks lietoti arī jūsu /etc/epgimport/custom.channels.xml failā."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Tas izdzēsīs pašreizējos EPG datus atmiņā pirms EPG datu atjaunināšanas. Tas ļauj jums vienmēr iegūt tīru jaunu EPG ar jaunākajiem EPG datiem, piemēram, ja notiek programmas izmaiņas starp atsvaidzināšanu, pretējā gadījumā EPG dati ir kumulatīvi."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Tas pēc automātiskas EPG importēšanas pārslēgs atpakaļ aktivizēto lodziņu dziļajā gaidstāves režīmā."
 
 msgid "Thursday"
-msgstr ""
+msgstr "ceturtdiena"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Lai ietaupītu atmiņu, varat izlemt ielādēt EPG datus tikai IPTV kanāliem."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Lai ietaupītu atmiņu, varat izlemt ielādēt EPG datus tikai tiem pakalpojumiem, kas ir jūsu pušķu failos."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "otrdiena"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Atjaunināt avotus"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "trešdiena"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Kad tas ir iespējots, tas ļauj ieplānot automātisku EPG atjaunināšanu norādītajās dienās un laikā."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Kad tas ir iespējots, pirms importēšanas sākšanas varat palaist vajadzīgo skriptu, pēc kura sāksies EPG importēšana."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Atrodoties dziļā gaidīšanas režīmā"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Kad izlemjat importēt EPG pēc lodziņa sāknēšanas, norādiet, ja \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Restartējot GUI, varat izlaist vai neveikt EPG datu importēšanu."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Rakstiet uz /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Varat izvēlēties dienu(-as), kad jāveic EPG atjaunināšana."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Varat automātiski palaist spraudni AutoTimer pēc EPG datu atjaunināšanas, lai tas atsvaidzinātu savu grafiku pēc EPG datu atsvaidzināšanas."
 
 msgid "always"
-msgstr ""
+msgstr "vienmēr"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "notikumi\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "nekad"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "tikai automātiskā sāknēšana"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "tikai manuāla sāknēšana"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "nospiediet OK, lai saglabātu sarakstu"
 
 msgid "skip the import"
-msgstr ""
+msgstr "izlaist importēšanu"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "mosties un importē"
+

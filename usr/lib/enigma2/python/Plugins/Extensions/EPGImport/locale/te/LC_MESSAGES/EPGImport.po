@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "ఛానెల్‌ని జోడించండి"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "ప్రదాతని జోడించండి"
 
 msgid "All services provider"
-msgstr ""
+msgstr "అన్ని సేవల ప్రదాత"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "అలాగే వర్తించు \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "ఆటోమేటెడ్ EPG దిగుమతిదారు"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "స్వయంచాలక దిగుమతి EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "స్వయంచాలక ప్రారంభ సమయం"
 
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దు చేయి"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "దిగుమతి ప్రారంభించడానికి ఎంపిక రోజులు"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "డైరెక్టరీని ఎంచుకోండి:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "డైరెక్టరీని ఎంచుకోండి"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "బాక్స్ డీప్ స్టాండ్‌బైలో ఉన్నప్పుడు నిర్వహించడానికి చర్యను ఎంచుకోండి మరియు ఆటోమేటిక్ EPG అప్‌డేట్ సాధారణంగా ప్రారంభం కావాలి."
 
 msgid "Clear"
-msgstr ""
+msgstr "క్లియర్"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "సెట్టింగును పరిగణించండి \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "డేస్ ప్రొఫైల్"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "మీరు పూర్తి EPG డేటాను పొందాలనుకుంటున్న రోజుల సంఖ్యను నిర్వచించండి, ఈ సంఖ్యను తగ్గించడం వలన మీ బాక్స్‌లో మెమరీ వినియోగాన్ని సేవ్ చేయడంలో మీకు సహాయపడుతుంది. కానీ మీరు EPG ప్రొవైడర్ అందుబాటులో ఉన్న డేటాతో కూడా పరిమితం చేయబడ్డారు. 7 రోజుల డేటాను మాత్రమే అందిస్తే మీకు 15 రోజుల EPG ఉండదు."
 
 msgid "Delete all"
-msgstr ""
+msgstr "అన్నింటినీ తొలగించండి"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "దిగుమతికి ముందు ప్రస్తుత EPGని తొలగించండి"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "ఎంచుకున్న వాటిని తొలగించండి"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "సత్వరమార్గాన్ని ప్రదర్శించు \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG దిగుమతి"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG దిగుమతి కాన్ఫిగరేషన్"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG దిగుమతి లాగ్"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG దిగుమతి మూలాలు"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG దిగుమతి పూర్తయింది, %d ఈవెంట్‌లు"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "ఇప్పుడు EPG దిగుమతి"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "షెల్ కమాండ్ పేరును నమోదు చేయండి."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPGని దిగుమతి చేసుకునే ముందు షెల్ కమాండ్‌ని అమలు చేయండి"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "వడపోత: %s దయచేసి వేచి ఉండండి!"
 
 msgid "Friday"
-msgstr ""
+msgstr "శుక్రవారం"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "గంటల తర్వాత దిగుమతి పునరావృతమవుతుంది"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "సేవల జాబితాను విస్మరించండి"
 
 msgid "Import"
-msgstr ""
+msgstr "దిగుమతి"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "లోపంతో దిగుమతి విఫలమైంది: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "దిగుమతి చేస్తోంది: %s %s ఈవెంట్‌లు"
 
 msgid "Last import:"
-msgstr ""
+msgstr "చివరిగా దిగుమతి:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "చివరిగా దిగుమతి: %s %s, %d ఈవెంట్‌లు"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "చివరిగా దిగుమతి: %s ఈవెంట్‌లు"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "IPTV ఛానెల్‌ల కోసం మాత్రమే EPGని లోడ్ చేయండి"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "బొకేలలో EPG మాత్రమే సేవలను లోడ్ చేయండి"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "X రోజుల వరకు సుదీర్ఘ వివరణలను లోడ్ చేయండి"
 
 msgid "Manual"
-msgstr ""
+msgstr "మాన్యువల్"
 
 msgid "Monday"
-msgstr ""
+msgstr "సోమవారం"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "క్రియాశీల EPG మూలాధారాలు ఏవీ కనుగొనబడలేదు, ఏమీ చేయలేము"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "సోర్స్ ఫైల్ ఏదీ కనుగొనబడలేదు!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "దిగుమతి పునరావృతమయ్యే గంటల సంఖ్య (1-23, లేదా పునరావృతం కాకుండా 0). ఈ విలువ సేవ్ చేయబడలేదు మరియు GUI పునఃప్రారంభించబడినప్పుడు రీసెట్ చేయబడుతుంది."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "మార్గం DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "సరే నొక్కండి"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "నిజంగా మొత్తం జాబితాను తొలగించాలా?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "దిగుమతి చేసిన తర్వాత డీప్ స్టాండ్‌బైకి తిరిగి వెళ్లండి"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "దిగుమతి చేసిన తర్వాత ఆటోటైమర్‌ని అమలు చేయండి"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "మీ ఎంపికను ఎంచుకోండి"
 
 msgid "Saturday"
-msgstr ""
+msgstr "శనివారం"
 
 msgid "Save"
-msgstr ""
+msgstr "సేవ్ చేయండి"
 
 msgid "Select action"
-msgstr ""
+msgstr "చర్యను ఎంచుకోండి"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "జోడించడానికి సేవను ఎంచుకోండి..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "సెట్టింగ్‌లు విజయవంతంగా సేవ్ చేయబడ్డాయి!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "షెల్ కమాండ్ పేరు"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "చూపించు \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "లాగ్ చూపించు"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUIని పునఃప్రారంభించేటప్పుడు దిగుమతిని దాటవేయండి"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "మూల EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "మూలాలు"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "మూలాధారాలు విజయవంతంగా సేవ్ చేయబడ్డాయి!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "బాక్స్ బూట్ అయిన తర్వాత EPG ఆటోమేటిక్‌గా అప్‌డేట్ కావాల్సిన సందర్భంలో పేర్కొనండి."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat ఫైల్‌ను సేవ్ చేయడానికి పాత్ ఫోల్డర్‌ను పేర్కొనండి."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "EPG కోసం మూలాన్ని పేర్కొనండి."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ఆటోమేటిక్ EPG అప్‌డేట్ కోసం సమయాన్ని పేర్కొనండి."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "ప్రారంభంలో స్టాండ్‌బై"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "బూట్ అయిన తర్వాత దిగుమతిని ప్రారంభించండి"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "స్టాండ్‌బై మోడ్ నుండి పునఃప్రారంభించిన తర్వాత దిగుమతిని ప్రారంభించండి."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "స్టాండ్‌బై తర్వాత దిగుమతిని ప్రారంభించండి"
 
 msgid "Sunday"
-msgstr ""
+msgstr "ఆదివారం"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "ఆటోమేటిక్ EPG దిగుమతి మేల్కొన్న తర్వాత వేక్ అప్ బాక్స్ స్టాండ్‌బైగా మార్చబడుతుంది."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "ఇది ఛానెల్ ఐడి ఫిల్టరింగ్ ఫీచర్‌ని ఉపయోగిస్తున్న అధునాతన వినియోగదారుల కోసం. ప్రారంభించబడితే, /etc/epgimport/channel_id_filter.confలో నిర్వచించబడిన ఫిల్టర్ నియమాలు మీ /etc/epgimport/custom.channels.xml ఫైల్‌పై కూడా వర్తింపజేయబడతాయి."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "ఇది EPG డేటాను అప్‌డేట్ చేయడానికి ముందు మెమరీలో ఉన్న ప్రస్తుత EPG డేటాను క్లియర్ చేస్తుంది. ఇది ఎల్లప్పుడూ తాజా EPG డేటాతో క్లీన్ కొత్త EPGని కలిగి ఉండటానికి మిమ్మల్ని అనుమతిస్తుంది, ఉదాహరణకు రిఫ్రెష్ మధ్య ప్రోగ్రామ్ మార్పులు జరిగినప్పుడు, లేకుంటే EPG డేటా సంచితంగా ఉంటుంది."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "ఇది ఆటోమేటిక్ EPG దిగుమతి తర్వాత తిరిగి వేక్ అప్ బాక్స్‌ను డీప్-స్టాండ్‌బైగా మారుస్తుంది."
 
 msgid "Thursday"
-msgstr ""
+msgstr "గురువారం"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "మెమరీని సేవ్ చేయడానికి మీరు IPTV ఛానెల్‌ల కోసం మాత్రమే EPG డేటాను లోడ్ చేయాలని నిర్ణయించుకోవచ్చు."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "మెమరీని సేవ్ చేయడానికి మీరు మీ బొకే ఫైల్‌లలో ఉన్న సేవల కోసం EPG డేటాను మాత్రమే లోడ్ చేయాలని నిర్ణయించుకోవచ్చు."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "మంగళవారం"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "మూలాధారాలను నవీకరించండి"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "బుధవారం"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "ప్రారంభించబడినప్పుడు, ఇచ్చిన రోజులు మరియు సమయానికి ఆటోమేటిక్ EPG అప్‌డేట్‌ను షెడ్యూల్ చేయడానికి ఇది మిమ్మల్ని అనుమతిస్తుంది."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "ప్రారంభించబడినప్పుడు, మీరు దిగుమతిని ప్రారంభించే ముందు కావలసిన స్క్రిప్ట్‌ను అమలు చేయవచ్చు, ఆ తర్వాత EPG దిగుమతి ప్రారంభమవుతుంది."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "లోతైన స్టాండ్‌బైలో ఉన్నప్పుడు"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "బాక్స్ బూట్ అయిన తర్వాత మీరు EPGని దిగుమతి చేయాలని నిర్ణయించుకున్నప్పుడు, \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "మీరు GUIని పునఃప్రారంభించినప్పుడు మీరు EPG డేటా దిగుమతిని దాటవేయాలా వద్దా అని నిర్ణయించుకోవచ్చు."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.logకి వ్రాయండి"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "EPG అప్‌డేట్ తప్పనిసరిగా నిర్వహించాల్సిన రోజు(ల)ను మీరు ఎంచుకోవచ్చు."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "EPG డేటా రిఫ్రెష్ తర్వాత దాని షెడ్యూల్‌ను రిఫ్రెష్ చేయడానికి మీరు EPG డేటా అప్‌డేట్ తర్వాత ఆటోటైమర్ ప్లగ్ఇన్‌ను స్వయంచాలకంగా ప్రారంభించవచ్చు."
 
 msgid "always"
-msgstr ""
+msgstr "ఎల్లప్పుడూ"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "ఈవెంట్స్\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "ఎప్పుడూ"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "ఆటోమేటిక్ బూట్ మాత్రమే"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "మాన్యువల్ బూట్ మాత్రమే"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "జాబితాను సేవ్ చేయడానికి సరే నొక్కండి"
 
 msgid "skip the import"
-msgstr ""
+msgstr "దిగుమతిని దాటవేయండి"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "మేల్కొలపండి మరియు దిగుమతి చేసుకోండి"
+

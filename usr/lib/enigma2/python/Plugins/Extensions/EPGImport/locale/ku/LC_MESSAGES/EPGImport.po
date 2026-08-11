@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Kanal zêde bikin"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Pêşkêşker zêde bikin"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Hemî pêşkêşvanê karûbaran"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Her weha bicîh bikin \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Xweseriya EPG Importer"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Otomatîk import EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Dema destpêkirina otomatîkî"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bişûndekirin"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Rojên hilbijartinê ji bo destpêkirina importê"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Peldanka hilbijêrin:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Peldanka hilbijêre"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Çalakiyê hilbijêrin ku dema ku qutik di standbya kûr de ye û nûvekirina otomatîkî ya EPG-ê bi gelemperî dest pê bike."
 
 msgid "Clear"
-msgstr ""
+msgstr "Zelal"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Danîna \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Profîla rojan"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Hejmara rojên ku hûn dixwazin daneyên tevahî EPG bistînin diyar bikin, kêmkirina vê hejmarê dikare ji we re bibe alîkar ku hûn karanîna bîranînê li ser qutiya xwe hilînin. Lê hûn bi daneyên berdest ên peydakiroxê EPG re jî sînordar in. Ger ew tenê daneyên 7 rojan peyda bike hûn ê 15 rojên EPG nebin."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Hemî jêbirin"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Berî importê EPG-ya heyî jêbirin"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Hilbijartî jêbirin"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Kurterek \\\\\\\\ nîşan bide"
 
 msgid "EPG Import"
 msgstr ""
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Veavakirina Import EPG"
 
 msgid "EPG Import Log"
 msgstr ""
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Çavkaniyên Import EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Împorta EPG qediya, %d bûyer"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG niha îtxal dike"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Navê fermana shell binivîse."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Berî îtxalkirina EPG fermana şêlê bicîh bînin"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Parzkirin: %s Ji kerema xwe bisekine!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Roja Înê"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Saet piştî ku import dubare dibe"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Lîsteya karûbaran paşguh nekin"
 
 msgid "Import"
-msgstr ""
+msgstr "Anîn"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Îxalkirin bi xeletî têk çû: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Import: %s %s bûyer"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Îxalata dawî:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Veguhastina dawî: %s %s, %d bûyer"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Importa dawî: %s bûyer"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Ji bo kanalên IPTV tenê EPG barkirin"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Karûbarên EPG tenê di kulîlkan de bar bikin"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Danasînên dirêj heya X rojan bar bikin"
 
 msgid "Manual"
-msgstr ""
+msgstr "Destî"
 
 msgid "Monday"
-msgstr ""
+msgstr "Duşem"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Çavkaniyên EPG-ê yên çalak nehatin dîtin, tiştek ku bikin"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Pelê çavkanî nehat dîtin!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Hejmara demjimêran (1-23, an jî 0 ji bo dubare nabe) piştî ku import dubare dibe. Ev nirx nayê tomarkirin û dema ku GUI ji nû ve dest pê bike dê were vesaz kirin."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Rêya DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Bitikîne OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Bi rastî hemî navnîşê jêbirin?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Piştî îtxalkirinê vegere amadebûna kûr"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Piştî importê AutoTimer bimeşînin"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "HILBIJARTINA XWE HILBIJARTIN"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Şemî"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Select action"
-msgstr ""
+msgstr "Çalakiyê hilbijêre"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Xizmeta lê zêde bike hilbijêrin..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Mîheng bi serkeftî hatin tomarkirin!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Navê fermana Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Nîşan bide \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Têketinê nîşan bide"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Li ser ji nû ve destpêkirina GUI-ê ji importê derbas bibin"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Çavkaniya EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Çavkanî"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Çavkanî bi serkeftî hatin xilas kirin!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Diyar bikin ka di kîjan rewşê de divê EPG bixweber were nûve kirin piştî ku qutikê were boot kirin."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Peldanka rê ji bo tomarkirina pelê EPG.dat diyar bike."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Çavkaniyê ji bo EPG diyar bikin."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Dema nûvekirina EPG-ya otomatîkî diyar bikin."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Standby di destpêkê de"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Piştî bootkirinê dest bi importê bikin"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Piştî ku ji moda standby-ê ji nû ve dest pê kir, import dest pê bikin."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Piştî standbyê dest bi importê bikin"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Yekşem"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Piştî şiyarbûna otomatîkî ya importa EPG-ê dê qutiya şiyarbûyî veguhere standby."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Ev ji bo bikarhênerên pêşkeftî yên ku taybetmendiya fîlterkirina nasnameya kanalê bikar tînin e. Ger çalak be, qaîdeyên parzûnê yên ku di /etc/epgimport/channel_id_filter.conf de hatine destnîşankirin dê li ser pelê weya /etc/epgimport/custom.channels.xml jî werin sepandin."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Ev ê berî nûvekirina daneyên EPG-ê daneyên heyî yên EPG-ê di bîranînê de paqij bike. Ev rê dide we ku hûn her gav bi daneyên EPG-ya herî paşîn xwedî EPG-ya nû ya paqij bin, mînakî heke bername di navbera nûvekirinê de biguhezîne, wekî din daneyên EPG-ê berhevkirî ne."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Ev ê piştî veguheztina otomatîkî ya EPG-ê qutiya şiyarbûyî vegere nav-standby-a kûr."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Pêncşem"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Ji bo hilanîna bîranînê hûn dikarin biryar bidin ku daneyên EPG tenê ji bo kanalên IPTV-yê bar bikin."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Ji bo hilanîna bîranînê hûn dikarin biryar bidin ku tenê daneyên EPG-ê ji bo karûbarên ku hûn di pelên bûkê de hene bar bikin."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Sêşem"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Çavkaniyên nûjen bikin"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Çarşem"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Dema ku were çalak kirin, ew dihêle hûn di roj û demjimêrên diyarkirî de nûvekirinek EPG-ya otomatîkî destnîşan bikin."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Dema ku were çalak kirin, wê hingê hûn dikarin berî destpêkirina importê skrîpta xwestinê bimeşînin, piştî ku îtxalkirina EPG-ê dê dest pê bike."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Dema ku di bîhnfirehiya kûr de"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Dema ku hûn biryar didin ku EPG-ê piştî ku qutikê hatî boot kirin, têkevinê ku \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Gava ku hûn GUI-yê ji nû ve bidin destpêkirin, hûn dikarin biryar bidin ku hûn ketina daneya EPG-ê derbas bikin an na."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Li /tmp/epgimport.log binivîse"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Hûn dikarin rojên ku divê nûvekirina EPG were kirin hilbijêrin."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Hûn dikarin piştî nûvekirina daneya EPG-ê pêveka AutoTimer bixweber dest pê bikin da ku ew piştî nûvekirina daneya EPG-ê plansaziya xwe nûve bike."
 
 msgid "always"
-msgstr ""
+msgstr "herdem"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "bûyer\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "qet"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "tenê boot otomatîk"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "tenê boot manual"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "OK bikirtînin da ku navnîşê tomar bikin"
 
 msgid "skip the import"
-msgstr ""
+msgstr "ji îtxalê derbas bibin"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "şiyar bibin û import bikin"
+

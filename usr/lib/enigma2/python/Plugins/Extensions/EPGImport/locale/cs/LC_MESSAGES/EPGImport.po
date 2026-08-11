@@ -1,276 +1,317 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# EPGImport translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-16 06:40+0000\n"
-"PO-Revision-Date: 2025-02-26 06:58+0100\n"
-"Last-Translator: Warder <ciksa@seznam.cz>\n"
-"Language-Team: \n"
+"Project-Id-Version: EPGImport\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cs <ekekaz@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
 
-#: ../plugin.py:739
-
-#: ../plugin.py:739
-msgid " events\n"
-msgstr " dění\n"
-
-#: ../filtersServices.py:153
 msgid "Add Channel"
 msgstr "Přidat kanál"
 
-#: ../filtersServices.py:152
 msgid "Add Provider"
 msgstr "Přidat poskytovatele"
 
-#: ../filtersServices.py:264
 msgid "All services provider"
-msgstr "Všichni poskytovatelé služeb"
+msgstr "Poskytovatel všech služeb"
 
-#: ../plugin.py:1095
+msgid "Also apply \\\\\\\\"
+msgstr "Použít také \\\\\\\\"
+
 msgid "Automated EPG Importer"
-msgstr "Automatizovaný dovozce EPG"
+msgstr "Automatizovaný importér EPG"
 
-#: ../plugin.py:366
 msgid "Automatic import EPG"
 msgstr "Automatický import EPG"
 
-#: ../plugin.py:367
 msgid "Automatic start time"
-msgstr "Čas automatického spuštění"
+msgstr "Čas automatického startu"
 
-#: ../plugin.py:309 ../plugin.py:557 ../plugin.py:637
 msgid "Cancel"
 msgstr "Zrušit"
 
-#: ../plugin.py:371
 msgid "Choice days for start import"
-msgstr "Dny výběru pro zahájení importu"
+msgstr "Vybrané dny pro zahájení importu"
 
-#: ../plugin.py:693
+msgid "Choose Directory:"
+msgstr "Vyberte adresář:"
+
+msgid "Choose directory"
+msgstr "Vyberte adresář"
+
+msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
+msgstr "Vyberte akci, která se má provést, když je box v hlubokém pohotovostním režimu a automatická aktualizace EPG by se měla normálně spustit."
+
 msgid "Clear"
-msgstr "Vymazat"
+msgstr "Jasný"
 
-#: ../plugin.py:382
-msgid "Clearing current EPG before import"
-msgstr "Vymazání aktuálního EPG před importem"
+msgid "Consider setting \\\\\\\\"
+msgstr "Zvažte nastavení \\\\\\\\"
 
-#: ../plugin.py:375
-
-#: ../plugin.py:650
 msgid "Days Profile"
 msgstr "Profil dnů"
 
-#: ../filtersServices.py:231
+msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
+msgstr "Definujte počet dní, po které chcete získat úplná data EPG, snížení tohoto počtu vám může pomoci ušetřit využití paměti na vašem boxu. Omezeni jste ale také dostupnými údaji poskytovatele EPG. Nebudete mít 15denní EPG, pokud poskytuje pouze 7denní data."
+
 msgid "Delete all"
 msgstr "Smazat vše"
 
-#: ../filtersServices.py:230
-msgid "Delete selected"
-msgstr "Odstranit vybrané soubory"
+msgid "Delete current EPG before import"
+msgstr "Před importem smažte aktuální EPG"
 
-#: ../plugin.py:305
+msgid "Delete selected"
+msgstr "Smazat vybrané"
+
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Zobrazit zástupce \\\\\\\\"
+
+msgid "EPG Import"
+msgstr "Import EPG"
+
 msgid "EPG Import Configuration"
 msgstr "Konfigurace importu EPG"
 
-#: ../plugin.py:718
 msgid "EPG Import Log"
 msgstr "Protokol importu EPG"
 
-#: ../plugin.py:592
 msgid "EPG Import Sources"
 msgstr "Zdroje importu EPG"
 
-#: ../plugin.py:790
-#, python-format
 msgid "EPG Import finished, %d events"
-msgstr "Import EPG dokončen, %d události"
+msgstr "Import EPG dokončen, %d událostí"
 
-#: ../plugin.py:1097 ../plugin.py:1098 ../plugin.py:1104 ../plugin.py:1109
-#: ../plugin.py:1114 ../plugin.py:1119 ../plugin.py:1127 ../plugin.py:1137
-msgid "EPG-Importer"
-msgstr "EPG-Importer"
+msgid "EPG import now"
+msgstr "Nyní import EPG"
 
-#: ../plugin.py:483
+msgid "EPGImport"
+msgstr "EPGIimport"
 
-#: ../plugin.py:498
+msgid "Enter shell command name."
+msgstr "Zadejte název příkazu shellu."
 
-#: ../plugin.py:507
+msgid "Execute shell command before import EPG"
+msgstr "Před importem EPG proveďte příkaz shellu"
 
-#: ../plugin.py:105
+msgid "Filtering: %s Please wait!"
+msgstr "Filtrování: %s Čekejte prosím!"
+
 msgid "Friday"
-msgstr "Pátek"
+msgstr "pátek"
 
-#: ../filtersServices.py:168 ../plugin.py:520
+msgid "Hours after which the import is repeated"
+msgstr "Hodiny, po kterých se import opakuje"
+
 msgid "Ignore services list"
-msgstr "Seznam ignorovaných služeb"
+msgstr "Ignorovat seznam služeb"
 
-#: ../plugin.py:580
-msgid "Import current source"
-msgstr "Import aktuálního zdroje"
+msgid "Import"
+msgstr "Importovat"
 
-#: ../plugin.py:330
-#, python-format
+msgid "Import failed with error: {}"
+msgstr "Import se nezdařil s chybou: {}"
 
-#: ../plugin.py:739
-msgid "Last import: "
-msgstr "Poslední import: "
+msgid "Importing: %s %s events"
+msgstr "Import: %s %s událostí"
 
-#: ../plugin.py:478
-#, python-format
+msgid "Last import:"
+msgstr "Poslední import:"
+
+msgid "Last import: %s %s, %d events"
+msgstr "Poslední import: %s %s, %d událostí"
+
 msgid "Last import: %s events"
-msgstr "Poslední import: %s události"
+msgstr "Poslední import: %s událostí"
 
-#: ../plugin.py:473
-#, python-format
-msgid "Last: %s %s, %d events"
-msgstr "Poslední cena: %s %s, %d události"
-
-#: ../plugin.py:374
 msgid "Load EPG only for IPTV channels"
-msgstr "Načíst EPG pouze pro IPTV kanály"
+msgstr "Načíst EPG pouze pro kanály IPTV"
 
-#: ../plugin.py:373
 msgid "Load EPG only services in bouquets"
-msgstr "Načíst služby pouze EPG v kyticích"
+msgstr "Načíst pouze služby EPG v kyticích"
 
-#: ../plugin.py:380
 msgid "Load long descriptions up to X days"
-msgstr "Načtení dlouhých popisů až X dní"
+msgstr "Načíst dlouhé popisy až X dní"
 
-#: ../plugin.py:311
 msgid "Manual"
-msgstr "Manuální"
+msgstr "Manuál"
 
-#: ../plugin.py:101
 msgid "Monday"
-msgstr "Pondělí"
+msgstr "pondělí"
 
-#: ../plugin.py:493
 msgid "No active EPG sources found, nothing to do"
-msgstr "Nebyly nalezeny žádné aktivní zdroje EPG, není co dělat"
+msgstr "Nebyly nalezeny žádné aktivní zdroje EPG, nelze nic dělat"
 
-#: ../plugin.py:88
+msgid "No source file found !"
+msgstr "Nebyl nalezen žádný zdrojový soubor!"
+
+msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
+msgstr "Počet hodin (1–23, nebo 0 pro žádné opakování), po kterých se import opakuje. Tato hodnota se neuloží a po restartu GUI se resetuje."
+
+msgid "Path DB EPG"
+msgstr ""
+
 msgid "Press OK"
 msgstr "Stiskněte OK"
 
-#: ../filtersServices.py:197
 msgid "Really delete all list?"
-msgstr "Opravdu smazat všechny seznamy?"
+msgstr "Opravdu smazat celý seznam?"
 
-#: ../plugin.py:369
 msgid "Return to deep standby after import"
-msgstr "Návrat do hlubokého pohotovostního režimu po importu"
+msgstr "Po importu se vraťte do hlubokého pohotovostního režimu"
 
-#: ../plugin.py:381
 msgid "Run AutoTimer after import"
-msgstr "Spuštění automatického časovače po importu"
+msgstr "Po importu spusťte AutoTimer"
 
-#: ../plugin.py:106
+msgid "SELECT YOUR CHOICE"
+msgstr "VYBERTE SI SVOU VOLBU"
+
 msgid "Saturday"
-msgstr "Sobota"
+msgstr "sobota"
 
-#: ../plugin.py:310 ../plugin.py:558 ../plugin.py:638 ../plugin.py:696
 msgid "Save"
 msgstr "Uložit"
 
-#: ../filtersServices.py:283 ../plugin.py:521
 msgid "Select action"
 msgstr "Vyberte akci"
 
-#: ../filtersServices.py:256
 msgid "Select service to add..."
 msgstr "Vyberte službu, kterou chcete přidat..."
 
-#: ../plugin.py:377
-msgid "Show \"EPGImport\" in extensions"
-msgstr "Zobrazit \"EPGImport\" v rozšířeních"
+msgid "Settings saved successfully !"
+msgstr "Nastavení byla úspěšně uložena!"
 
-#: ../plugin.py:378
-msgid "Show \"EPGImport\" in plugins"
-msgstr "Zobrazit \"EPGImport\" v pluginech"
+msgid "Shell command name"
+msgstr "Název příkazu shellu"
 
-#: ../plugin.py:520
+msgid "Show \\\\\\\\"
+msgstr "Zobrazit \\\\\\\\"
+
 msgid "Show log"
-msgstr "Zobrazit log"
+msgstr "Zobrazit protokol"
 
-#: ../plugin.py:376
 msgid "Skip import on restart GUI"
-msgstr "Přeskočit import při restartování grafického uživatelského rozhraní"
+msgstr "Přeskočit import při restartu GUI"
 
-#: ../plugin.py:312
+msgid "Source EPG"
+msgstr "Zdroj EPG"
+
 msgid "Sources"
 msgstr "Zdroje"
 
-#: ../plugin.py:370
+msgid "Sources saved successfully!"
+msgstr "Zdroje byly úspěšně uloženy!"
+
+msgid "Specify in which case the EPG must be automatically updated after the box has booted."
+msgstr "Určete, v jakém případě se musí EPG po nabootování boxu automaticky aktualizovat."
+
+msgid "Specify the path folder for save EPG.dat file."
+msgstr "Zadejte složku cesty pro uložení souboru EPG.dat."
+
+msgid "Specify the source for EPG."
+msgstr "Určete zdroj pro EPG."
+
+msgid "Specify the time for the automatic EPG update."
+msgstr "Zadejte čas pro automatickou aktualizaci EPG."
+
 msgid "Standby at startup"
 msgstr "Pohotovostní režim při spuštění"
 
-#: ../plugin.py:372
 msgid "Start import after booting up"
-msgstr "Spustit import po spuštění"
+msgstr "Po spuštění spusťte import"
 
-#: ../plugin.py:107
+msgid "Start import after resuming from standby mode."
+msgstr "Spusťte import po obnovení z pohotovostního režimu."
+
+msgid "Start import after standby"
+msgstr "Spusťte import po pohotovostním režimu"
+
 msgid "Sunday"
-msgstr "Neděle"
+msgstr "neděle"
 
-#: ../plugin.py:104
+msgid "The waked up box will be turned into standby after automatic EPG import wake up."
+msgstr "Po automatickém probuzení importem EPG se probudený box přepne do pohotovostního režimu."
+
+msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
+msgstr "Toto je pro pokročilé uživatele, kteří používají funkci filtrování ID kanálu. Pokud je povoleno, pravidla filtrování definovaná v /etc/epgimport/channel_id_filter.conf se použijí také na váš soubor /etc/epgimport/custom.channels.xml."
+
+msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
+msgstr "Tím se vymažou aktuální data EPG v paměti před aktualizací dat EPG. To vám umožní mít vždy čisté nové EPG s nejnovějšími údaji EPG, například v případě změn programu mezi obnovou, jinak se údaje EPG sčítají."
+
+msgid "This will turn back waked up box into deep-standby after automatic EPG import."
+msgstr "Tím se po automatickém importu EPG vrátí probuzený box do hlubokého pohotovostního režimu."
+
 msgid "Thursday"
-msgstr "Čtvrtek"
+msgstr "čtvrtek"
 
-#: ../plugin.py:102
+msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
+msgstr "Chcete-li ušetřit paměť, můžete se rozhodnout načíst data EPG pouze pro kanály IPTV."
+
+msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
+msgstr "Chcete-li ušetřit paměť, můžete se rozhodnout, že budete načítat pouze data EPG pro služby, které máte ve svých souborech kytic."
+
 msgid "Tuesday"
-msgstr "Úterý"
+msgstr "úterý"
 
-#: ../plugin.py:103
+msgid "Update Sources"
+msgstr "Aktualizovat zdroje"
+
 msgid "Wednesday"
-msgstr "Středa"
+msgstr "středa"
 
-#: ../plugin.py:368
+msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
+msgstr "Po aktivaci umožňuje naplánovat automatickou aktualizaci EPG v dané dny a čas."
+
+msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
+msgstr "Je-li povoleno, můžete před zahájením importu spustit požadovaný skript, po kterém se spustí import EPG."
+
 msgid "When in deep standby"
-msgstr "V hlubokém pohotovostním režimu"
+msgstr "Když je v hlubokém pohotovostním režimu"
 
-#: ../plugin.py:724
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Když se rozhodnete importovat EPG po nabootování boxu, uveďte, zda \\\\\\\\"
+
+msgid "When you restart the GUI you can decide to skip or not the EPG data import."
+msgstr "Po restartování GUI se můžete rozhodnout, zda import dat EPG přeskočit či nikoli."
+
 msgid "Write to /tmp/epgimport.log"
 msgstr "Napište do /tmp/epgimport.log"
 
-#: ../plugin.py:660
+msgid "You can select the day(s) when the EPG update must be performed."
+msgstr "Můžete vybrat dny, kdy je třeba provést aktualizaci EPG."
 
-#: ../plugin.py:790
+msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
+msgstr "Po aktualizaci dat EPG můžete automaticky spustit plugin AutoTimer, aby obnovil své plánování po obnovení dat EPG."
 
-#: ../plugin.py:60
 msgid "always"
 msgstr "vždy"
 
-#: ../plugin.py:63
+msgid "events\\\\\\\\n"
+msgstr "události\\\\\\\\n"
+
 msgid "never"
 msgstr "nikdy"
 
-#: ../plugin.py:62
 msgid "only automatic boot"
 msgstr "pouze automatické spouštění"
 
-#: ../plugin.py:61
 msgid "only manual boot"
-msgstr "pouze ruční spuštění"
+msgstr "pouze ruční spouštění"
 
-#: ../filtersServices.py:155
 msgid "press OK to save list"
-msgstr "stisknutím tlačítka OK uložte seznam"
+msgstr "stiskněte OK pro uložení seznamu"
 
-#: ../plugin.py:77
 msgid "skip the import"
 msgstr "přeskočit import"
 
-#: ../plugin.py:76
 msgid "wake up and import"
-msgstr "probuzení a import"
+msgstr "probudit a importovat"
+

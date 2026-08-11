@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Tambah Saluran"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Tambah Pembekal"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Semua penyedia perkhidmatan"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Juga memohon \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Pengimport EPG Automatik"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Import automatik EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Masa mula automatik"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Hari pilihan untuk mula mengimport"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Pilih Direktori:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Pilih direktori"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Pilih tindakan untuk dilakukan apabila kotak berada dalam siap sedia dan kemas kini EPG automatik biasanya akan bermula."
 
 msgid "Clear"
-msgstr ""
+msgstr "Jelas"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Pertimbangkan untuk menetapkan \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Profil Hari"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Tentukan bilangan hari anda ingin mendapatkan data EPG penuh, mengurangkan bilangan ini boleh membantu anda menjimatkan penggunaan memori pada kotak anda. Tetapi anda juga terhad dengan data yang tersedia pembekal EPG. Anda tidak akan mempunyai 15 hari EPG jika ia hanya menyediakan data 7 hari."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Padam semua"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Padamkan EPG semasa sebelum import"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Padam dipilih"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Paparkan pintasan \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Import EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Konfigurasi Import EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Log Import EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Sumber Import EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Import EPG selesai, %d acara"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Import EPG sekarang"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Masukkan nama arahan shell."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Jalankan arahan shell sebelum mengimport EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Penapisan: %s Sila tunggu!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Jumaat"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Jam selepas itu import diulang"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Abaikan senarai perkhidmatan"
 
 msgid "Import"
 msgstr ""
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Import gagal dengan ralat: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Mengimport: %s %s acara"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Import terakhir:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Import terakhir: %s %s, %d acara"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Import terakhir: %s acara"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Muatkan EPG hanya untuk saluran IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Muatkan perkhidmatan EPG sahaja dalam sejambak"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Muatkan huraian panjang sehingga X hari"
 
 msgid "Manual"
 msgstr ""
 
 msgid "Monday"
-msgstr ""
+msgstr "Isnin"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Tiada sumber EPG aktif ditemui, tiada kaitan"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Tiada fail sumber ditemui!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Bilangan jam (1-23, atau 0 untuk tiada ulangan) selepas itu import diulang. Nilai ini tidak disimpan dan akan ditetapkan semula apabila GUI dimulakan semula."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Laluan DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Tekan OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Benar-benar padamkan semua senarai?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Kembali ke siap sedia dalam selepas import"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Jalankan AutoTimer selepas import"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PILIH PILIHAN ANDA"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Sabtu"
 
 msgid "Save"
-msgstr ""
+msgstr "Jimat"
 
 msgid "Select action"
-msgstr ""
+msgstr "Pilih tindakan"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Pilih perkhidmatan untuk ditambahkan..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Tetapan berjaya disimpan!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Nama arahan Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Tunjukkan \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Tunjukkan log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Langkau import semasa memulakan semula GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Sumber EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Sumber"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Sumber berjaya disimpan!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Tentukan dalam kes mana EPG mesti dikemas kini secara automatik selepas kotak telah but."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Tentukan folder laluan untuk menyimpan fail EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Nyatakan sumber untuk EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Tentukan masa untuk kemas kini EPG automatik."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Bersedia semasa permulaan"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Mulakan import selepas boot"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Mulakan import selepas menyambung semula dari mod siap sedia."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Mulakan import selepas bersedia"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Ahad"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Kotak bangun akan bertukar menjadi siap sedia selepas import EPG automatik bangun."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Ini adalah untuk pengguna lanjutan yang menggunakan ciri penapisan id saluran. Jika didayakan, peraturan penapis yang ditakrifkan ke dalam /etc/epgimport/channel_id_filter.conf juga akan digunakan pada fail /etc/epgimport/custom.channels.xml anda."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Ini akan mengosongkan data EPG semasa dalam ingatan sebelum mengemas kini data EPG. Ini membolehkan anda sentiasa mempunyai EPG baharu yang bersih dengan data EPG terkini, contohnya sekiranya berlaku perubahan program antara penyegaran, jika tidak, data EPG adalah terkumpul."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Ini akan mengembalikan kotak yang telah dibangkitkan menjadi siap sedia dalam selepas import EPG automatik."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Khamis"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Untuk menjimatkan memori anda boleh memutuskan untuk memuatkan data EPG hanya untuk saluran IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Untuk menjimatkan memori anda boleh memutuskan untuk memuatkan data EPG sahaja untuk perkhidmatan yang anda ada dalam fail sejambak anda."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Selasa"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Kemas kini Sumber"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Rabu"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Apabila didayakan, ia membolehkan anda menjadualkan kemas kini EPG automatik pada hari dan masa tertentu."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Apabila didayakan, maka anda boleh menjalankan skrip yang dikehendaki sebelum memulakan import, selepas itu import EPG akan bermula."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Apabila dalam keadaan siap sedia"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Apabila anda membuat keputusan untuk mengimport EPG selepas kotak but menyebut jika \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Apabila anda memulakan semula GUI anda boleh memutuskan untuk melangkau atau tidak mengimport data EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Tulis ke /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Anda boleh memilih hari apabila kemas kini EPG mesti dilakukan."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Anda boleh memulakan pemalam AutoTimer secara automatik selepas kemas kini data EPG untuk menyegarkan semula penjadualannya selepas memuat semula data EPG."
 
 msgid "always"
-msgstr ""
+msgstr "sentiasa"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "acara\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "tidak pernah"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "hanya but automatik"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "but manual sahaja"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "tekan OK untuk menyimpan senarai"
 
 msgid "skip the import"
-msgstr ""
+msgstr "langkau import"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "bangun dan import"
+

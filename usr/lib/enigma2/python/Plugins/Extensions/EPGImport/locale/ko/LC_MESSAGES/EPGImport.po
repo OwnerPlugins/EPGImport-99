@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "채널 추가"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "공급자 추가"
 
 msgid "All services provider"
-msgstr ""
+msgstr "모든 서비스 제공자"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "또한 \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "자동화된 EPG 임포터"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG 자동 가져오기"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "자동 시작 시간"
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "수입 시작일 선택"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "디렉토리 선택:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "디렉토리 선택"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "박스가 완전 대기 상태이고 자동 EPG 업데이트가 정상적으로 시작될 때 수행할 작업을 선택하세요."
 
 msgid "Clear"
-msgstr ""
+msgstr "분명한"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "\\\\\\\\ 설정을 고려하세요."
 
 msgid "Days Profile"
-msgstr ""
+msgstr "일 프로필"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "전체 EPG 데이터를 가져오고 싶은 일수를 정의하면 이 일수를 줄이면 상자의 메모리 사용량을 절약하는 데 도움이 될 수 있습니다. 그러나 EPG 제공업체에서 제공하는 데이터도 제한되어 있습니다. 7일 데이터만 제공하는 경우 15일 EPG가 없습니다."
 
 msgid "Delete all"
-msgstr ""
+msgstr "모두 삭제"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "가져오기 전에 현재 EPG 삭제"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "선택 항목 삭제"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "바로가기 표시 \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG 가져오기"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG 가져오기 구성"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG 가져오기 로그"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG 가져오기 소스"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG 가져오기가 완료되었습니다. 이벤트 %d개"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "지금 EPG 가져오기"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPG가져오기"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "쉘 명령 이름을 입력하십시오."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPG를 가져오기 전에 쉘 명령 실행"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "필터링 중: %s 잠시만 기다려 주세요!"
 
 msgid "Friday"
-msgstr ""
+msgstr "금요일"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "가져오기가 반복된 후 몇 시간"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "서비스 목록 무시"
 
 msgid "Import"
-msgstr ""
+msgstr "수입"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "다음 오류로 인해 가져오기에 실패했습니다: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "가져오기: %s %s 이벤트"
 
 msgid "Last import:"
-msgstr ""
+msgstr "마지막 가져오기:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "마지막 가져오기: %s %s, %d개 이벤트"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "마지막 가져오기: %s 이벤트"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "IPTV 채널에 대해서만 EPG 로드"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "부케에 EPG 전용 서비스 로드"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "최대 X일까지 긴 설명 로드"
 
 msgid "Manual"
-msgstr ""
+msgstr "수동"
 
 msgid "Monday"
-msgstr ""
+msgstr "월요일"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "활성 EPG 소스가 없습니다. 할 일이 없습니다."
 
 msgid "No source file found !"
-msgstr ""
+msgstr "소스 파일을 찾을 수 없습니다!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "가져오기가 반복된 후의 시간(1-23 또는 반복하지 않는 경우 0)입니다. 이 값은 저장되지 않으며 GUI가 다시 시작되면 재설정됩니다."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "경로 DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "확인을 누르세요"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "모든 목록을 삭제하시겠습니까?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "가져오기 후 깊은 대기 상태로 복귀"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "가져온 후 자동 타이머 실행"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "원하는 것을 선택하세요"
 
 msgid "Saturday"
-msgstr ""
+msgstr "토요일"
 
 msgid "Save"
-msgstr ""
+msgstr "구하다"
 
 msgid "Select action"
-msgstr ""
+msgstr "작업 선택"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "추가할 서비스를 선택하세요..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "설정이 성공적으로 저장되었습니다!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "쉘 명령 이름"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "보여주다 \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "로그 표시"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUI 재시작 시 가져오기 건너뛰기"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "소스 EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "출처"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "소스가 성공적으로 저장되었습니다!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "박스가 부팅된 후 EPG가 자동으로 업데이트되어야 하는 경우를 지정합니다."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat 파일을 저장할 경로 폴더를 지정합니다."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "EPG의 소스를 지정합니다."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "자동 EPG 업데이트 시간을 지정합니다."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "시작 시 대기"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "부팅 후 가져오기 시작"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "대기 모드에서 재개된 후 가져오기를 시작하세요."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "대기 후 가져오기 시작"
 
 msgid "Sunday"
-msgstr ""
+msgstr "일요일"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "자동 EPG 가져오기가 활성화된 후 깨어난 상자는 대기 상태로 전환됩니다."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "채널 ID 필터링 기능을 사용하는 고급 사용자를 위한 내용입니다. 활성화되면 /etc/epgimport/channel_id_filter.conf에 정의된 필터 규칙이 /etc/epgimport/custom.channels.xml 파일에도 적용됩니다."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "이렇게 하면 EPG 데이터를 업데이트하기 전에 메모리에 있는 현재 EPG 데이터가 지워집니다. 이를 통해 항상 최신 EPG 데이터가 포함된 깨끗한 새 EPG를 가질 수 있습니다. 예를 들어 새로 고침 사이에 프로그램이 변경되는 경우 그렇지 않으면 EPG 데이터가 누적됩니다."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "그러면 자동 EPG 가져오기 후 깨어난 상자가 다시 깊은 대기 상태로 전환됩니다."
 
 msgid "Thursday"
-msgstr ""
+msgstr "목요일"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "메모리를 절약하기 위해 IPTV 채널에 대해서만 EPG 데이터를 로드하도록 결정할 수 있습니다."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "메모리를 절약하기 위해 부케 파일에 있는 서비스에 대한 EPG 데이터만 로드하도록 결정할 수 있습니다."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "화요일"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "소스 업데이트"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "수요일"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "활성화되면 지정된 날짜와 시간에 자동 EPG 업데이트를 예약할 수 있습니다."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "활성화되면 가져오기를 시작하기 전에 원하는 스크립트를 실행할 수 있으며 그 후에 EPG 가져오기가 시작됩니다."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "깊은 대기 상태일 때"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "상자 부팅 후 EPG를 가져오기로 결정한 경우 \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "GUI를 다시 시작할 때 EPG 데이터 가져오기를 건너뛸지 여부를 결정할 수 있습니다."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.log에 쓰기"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "EPG 업데이트를 수행해야 하는 날짜를 선택할 수 있습니다."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "EPG 데이터 업데이트 후 AutoTimer 플러그인을 자동으로 시작하여 EPG 데이터 새로 고침 후 일정을 새로 고칠 수 있습니다."
 
 msgid "always"
-msgstr ""
+msgstr "언제나"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "이벤트\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "절대"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "자동 부팅만 가능"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "수동 부팅만 가능"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "목록을 저장하려면 확인을 누르세요."
 
 msgid "skip the import"
-msgstr ""
+msgstr "가져오기 건너뛰기"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "일어나서 가져오기"
+

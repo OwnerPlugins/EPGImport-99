@@ -1,433 +1,317 @@
+# EPGImport translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: plugins 0.0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-26 14:45+0100\n"
-"PO-Revision-Date: 2025-02-26 14:46+0100\n"
-"Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
-"Language-Team: mosad - مساعد الجعيد\n"
-"Language: ar_SA\n"
+"Project-Id-Version: EPGImport\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ar <ekekaz@gmail.com>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
-"X-Poedit-Basepath: ../../..\n"
-"X-Poedit-SearchPath-0: .\n"
 
-#: filtersServices.py:151
-msgid "Add Provider"
-msgstr ""
-
-#: filtersServices.py:152
 msgid "Add Channel"
-msgstr ""
+msgstr "أضف قناة"
 
-#: filtersServices.py:154
-msgid "press OK to save list"
-msgstr ""
+msgid "Add Provider"
+msgstr "إضافة موفر"
 
-#: filtersServices.py:173 plugin.py:703
-msgid "Ignore services list"
-msgstr ""
-
-#: filtersServices.py:202
-msgid "Really delete all list?"
-msgstr ""
-
-#: filtersServices.py:235
-msgid "Delete selected"
-msgstr ""
-
-#: filtersServices.py:236
-msgid "Delete all"
-msgstr ""
-
-#: filtersServices.py:261
-msgid "Select service to add..."
-msgstr ""
-
-#: filtersServices.py:269
 msgid "All services provider"
-msgstr ""
+msgstr "جميع مقدمي الخدمات"
 
-#: filtersServices.py:288 plugin.py:704
-msgid "Select action"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "تنطبق أيضاً \\\\\\\\"
 
-#: plugin.py:101
-msgid "always"
-msgstr ""
+msgid "Automated EPG Importer"
+msgstr "مستورد EPG الآلي"
 
-#: plugin.py:102
-msgid "only manual boot"
-msgstr ""
+msgid "Automatic import EPG"
+msgstr "استيراد تلقائي لـ EPG"
 
-#: plugin.py:103
-#, fuzzy
-msgid "only automatic boot"
-msgstr "إستيراد يوميا تلقائي"
+msgid "Automatic start time"
+msgstr "وقت البدء التلقائي"
 
-#: plugin.py:104
-msgid "never"
-msgstr ""
-
-#: plugin.py:114
-#, fuzzy
-msgid "wake up and import"
-msgstr "إستيقاظ وإستيراد"
-
-#: plugin.py:115
-#, fuzzy
-msgid "skip the import"
-msgstr "تخطي الإستيراد"
-
-#: plugin.py:121
-msgid "checking service reference(default)"
-msgstr ""
-
-#: plugin.py:122
-msgid "only IPTV channels"
-msgstr ""
-
-#: plugin.py:123
-msgid "all channels"
-msgstr ""
-
-#: plugin.py:139
-msgid "Press OK"
-msgstr ""
-
-#: plugin.py:148
-msgid "Monday"
-msgstr ""
-
-#: plugin.py:149
-msgid "Tuesday"
-msgstr ""
-
-#: plugin.py:150
-msgid "Wednesday"
-msgstr ""
-
-#: plugin.py:151
-msgid "Thursday"
-msgstr ""
-
-#: plugin.py:152
-msgid "Friday"
-msgstr ""
-
-#: plugin.py:153
-msgid "Saturday"
-msgstr ""
-
-#: plugin.py:154
-msgid "Sunday"
-msgstr ""
-
-#: plugin.py:357
-msgid "EPG Import Configuration"
-msgstr "تكوين إستيراد دليل البرامج الإلكترونية"
-
-#: plugin.py:360 plugin.py:653
-#, fuzzy, python-format
-msgid "Last import: %s events"
-msgstr "أخر: %s %s, %d الأحداث"
-
-#: plugin.py:361 plugin.py:751 plugin.py:995
 msgid "Cancel"
-msgstr "إلغاء"
+msgstr "يلغي"
 
-#: plugin.py:362 plugin.py:752 plugin.py:996 plugin.py:1072
-msgid "Save"
-msgstr "حفظ"
+msgid "Choice days for start import"
+msgstr "أيام الاختيار لبدء الاستيراد"
 
-#: plugin.py:363
+msgid "Choose Directory:"
+msgstr "اختر الدليل:"
+
+msgid "Choose directory"
+msgstr "اختر الدليل"
+
+msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
+msgstr "اختر الإجراء الذي تريد تنفيذه عندما يكون الصندوق في وضع الاستعداد العميق ويجب أن يبدأ التحديث التلقائي لدليل البرامج الإلكتروني (EPG) بشكل طبيعي."
+
+msgid "Clear"
+msgstr "واضح"
+
+msgid "Consider setting \\\\\\\\"
+msgstr "خذ بعين الاعتبار الإعداد \\\\\\\\"
+
+msgid "Days Profile"
+msgstr "الملف الشخصي للأيام"
+
+msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
+msgstr "حدد عدد الأيام التي تريد فيها الحصول على بيانات دليل البرامج الإلكتروني (EPG) الكاملة، حيث يمكن أن يساعدك تقليل هذا العدد في توفير استخدام الذاكرة على جهاز الكمبيوتر الخاص بك. لكنك أيضًا مقيد بالبيانات المتاحة لموفر دليل البرامج الإلكتروني (EPG). لن يكون لديك 15 يومًا من دليل البرامج الإلكتروني (EPG) إذا كان يوفر بيانات 7 أيام فقط."
+
+msgid "Delete all"
+msgstr "احذف الكل"
+
+msgid "Delete current EPG before import"
+msgstr "احذف دليل البرامج الإلكتروني (EPG) الحالي قبل الاستيراد"
+
+msgid "Delete selected"
+msgstr "حذف المحدد"
+
+msgid "Display a shortcut \\\\\\\\"
+msgstr "عرض الاختصار \\\\\\\\"
+
+msgid "EPG Import"
+msgstr "استيراد دليل البرامج الإلكتروني"
+
+msgid "EPG Import Configuration"
+msgstr "تكوين استيراد EPG"
+
+msgid "EPG Import Log"
+msgstr "سجل استيراد دليل البرامج الإلكتروني (EPG)."
+
+msgid "EPG Import Sources"
+msgstr "مصادر استيراد EPG"
+
+msgid "EPG Import finished, %d events"
+msgstr "تم الانتهاء من استيراد دليل البرامج الإلكتروني (EPG)، حدث %d"
+
+msgid "EPG import now"
+msgstr "استيراد EPG الآن"
+
+msgid "EPGImport"
+msgstr ""
+
+msgid "Enter shell command name."
+msgstr "أدخل اسم أمر الصدفة."
+
+msgid "Execute shell command before import EPG"
+msgstr "قم بتنفيذ أمر shell قبل استيراد EPG"
+
+msgid "Filtering: %s Please wait!"
+msgstr "التصفية: %s الرجاء الانتظار!"
+
+msgid "Friday"
+msgstr "جمعة"
+
+msgid "Hours after which the import is repeated"
+msgstr "ساعات بعدها يتم تكرار الاستيراد"
+
+msgid "Ignore services list"
+msgstr "تجاهل قائمة الخدمات"
+
+msgid "Import"
+msgstr "يستورد"
+
+msgid "Import failed with error: {}"
+msgstr "فشل الاستيراد بسبب الخطأ: {}"
+
+msgid "Importing: %s %s events"
+msgstr "استيراد: أحداث %s %s"
+
+msgid "Last import:"
+msgstr "آخر استيراد:"
+
+msgid "Last import: %s %s, %d events"
+msgstr "آخر استيراد: %s %s، %d حدث"
+
+msgid "Last import: %s events"
+msgstr "آخر استيراد: أحداث %s"
+
+msgid "Load EPG only for IPTV channels"
+msgstr "قم بتحميل EPG لقنوات IPTV فقط"
+
+msgid "Load EPG only services in bouquets"
+msgstr "قم بتحميل خدمات EPG فقط في الباقات"
+
+msgid "Load long descriptions up to X days"
+msgstr "قم بتحميل أوصاف طويلة تصل إلى X من الأيام"
+
 msgid "Manual"
 msgstr "يدوي"
 
-#: plugin.py:364
-msgid "Sources"
-msgstr "المصادر"
+msgid "Monday"
+msgstr "الاثنين"
 
-#: plugin.py:397
-#, python-format
+msgid "No active EPG sources found, nothing to do"
+msgstr "لم يتم العثور على مصادر نشطة لدليل البرامج الإلكتروني (EPG)، ولا يوجد ما يجب فعله"
 
-#: plugin.py:398
-#, fuzzy, python-format
+msgid "No source file found !"
+msgstr "لم يتم العثور على الملف المصدر!"
 
-#: plugin.py:438
-#, fuzzy
-msgid "Automatic import EPG"
-msgstr "إستيراد يوميا تلقائي"
+msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
+msgstr "عدد الساعات (1-23، أو 0 لعدم التكرار) التي يتم بعدها تكرار الاستيراد. لا يتم حفظ هذه القيمة وسيتم إعادة تعيينها عند إعادة تشغيل واجهة المستخدم الرسومية."
 
-#: plugin.py:438
-
-#: plugin.py:439
 msgid "Path DB EPG"
-msgstr ""
+msgstr "المسار DB EPG"
 
-#: plugin.py:440
-msgid "Automatic start time"
-msgstr "وقت بدء التشغيل التلقائي"
+msgid "Press OK"
+msgstr "اضغط موافق"
 
-#: plugin.py:440
+msgid "Really delete all list?"
+msgstr "هل تريد حقًا حذف كل القائمة؟"
+
+msgid "Return to deep standby after import"
+msgstr "العودة إلى وضع الاستعداد العميق بعد الاستيراد"
+
+msgid "Run AutoTimer after import"
+msgstr "قم بتشغيل AutoTimer بعد الاستيراد"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "حدد اختيارك"
+
+msgid "Saturday"
+msgstr "السبت"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Select action"
+msgstr "حدد الإجراء"
+
+msgid "Select service to add..."
+msgstr "اختر الخدمة المراد إضافتها..."
+
+msgid "Settings saved successfully !"
+msgstr "تم حفظ الإعدادات بنجاح!"
+
+msgid "Shell command name"
+msgstr "اسم أمر شل"
+
+msgid "Show \\\\\\\\"
+msgstr "يعرض \\\\\\\\"
+
+msgid "Show log"
+msgstr "عرض السجل"
+
+msgid "Skip import on restart GUI"
+msgstr "تخطي الاستيراد عند إعادة تشغيل واجهة المستخدم الرسومية"
+
+msgid "Source EPG"
+msgstr "المصدر دليل البرامج الإلكتروني"
+
+msgid "Sources"
+msgstr "مصادر"
+
+msgid "Sources saved successfully!"
+msgstr "تم حفظ المصادر بنجاح!"
+
+msgid "Specify in which case the EPG must be automatically updated after the box has booted."
+msgstr "حدد في هذه الحالة يجب تحديث دليل البرامج الإلكتروني (EPG) تلقائيًا بعد تشغيل الجهاز."
+
+msgid "Specify the path folder for save EPG.dat file."
+msgstr "حدد مجلد المسار لحفظ ملف EPG.dat."
+
+msgid "Specify the source for EPG."
+msgstr "حدد مصدر دليل البرامج الإلكتروني (EPG)."
+
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "حدد وقت التحديث التلقائي لدليل البرامج الإلكتروني (EPG)."
 
-#: plugin.py:441
+msgid "Standby at startup"
+msgstr "الاستعداد عند بدء التشغيل"
+
+msgid "Start import after booting up"
+msgstr "ابدأ الاستيراد بعد بدء التشغيل"
+
+msgid "Start import after resuming from standby mode."
+msgstr "ابدأ الاستيراد بعد الاستئناف من وضع الاستعداد."
+
+msgid "Start import after standby"
+msgstr "بدء الاستيراد بعد وضع الاستعداد"
+
+msgid "Sunday"
+msgstr "الأحد"
+
+msgid "The waked up box will be turned into standby after automatic EPG import wake up."
+msgstr "سيتم تحويل صندوق التنشيط إلى وضع الاستعداد بعد تنشيط استيراد EPG تلقائيًا."
+
+msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
+msgstr "هذا مخصص للمستخدمين المتقدمين الذين يستخدمون ميزة تصفية معرف القناة. إذا تم تمكينه، فسيتم أيضًا تطبيق قواعد التصفية المحددة في /etc/epgimport/channel_id_filter.conf على ملف /etc/epgimport/custom.channels.xml الخاص بك."
+
+msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
+msgstr "سيؤدي هذا إلى مسح بيانات دليل البرامج الإلكتروني (EPG) الحالية في الذاكرة قبل تحديث بيانات دليل البرامج الإلكتروني (EPG). يتيح لك هذا أن يكون لديك دائمًا دليل برامج إلكتروني نظيف وجديد يحتوي على أحدث بيانات دليل البرامج الإلكتروني، على سبيل المثال في حالة حدوث تغييرات في البرنامج بين فترات التحديث، وإلا فإن بيانات دليل البرامج الإلكتروني تكون تراكمية."
+
+msgid "This will turn back waked up box into deep-standby after automatic EPG import."
+msgstr "سيؤدي هذا إلى إعادة تشغيل صندوق الاستيقاظ إلى وضع الاستعداد العميق بعد استيراد دليل البرامج الإلكتروني (EPG) تلقائيًا."
+
+msgid "Thursday"
+msgstr "يوم الخميس"
+
+msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
+msgstr "لتوفير الذاكرة، يمكنك أن تقرر تحميل بيانات EPG فقط لقنوات IPTV."
+
+msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
+msgstr "لتوفير الذاكرة، يمكنك أن تقرر تحميل بيانات دليل البرامج الإلكتروني (EPG) فقط للخدمات الموجودة في ملفات الباقة الخاصة بك."
+
+msgid "Tuesday"
+msgstr "يوم الثلاثاء"
+
+msgid "Update Sources"
+msgstr "تحديث المصادر"
+
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
+msgstr "عند تمكينه، فإنه يسمح لك بجدولة تحديث تلقائي لدليل البرامج الإلكتروني (EPG) في الأيام والوقت المحدد."
+
+msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
+msgstr "عند التمكين، يمكنك تشغيل البرنامج النصي المطلوب قبل بدء الاستيراد، وبعد ذلك سيبدأ استيراد دليل البرامج الإلكتروني (EPG)."
+
 msgid "When in deep standby"
 msgstr "عندما تكون في وضع الاستعداد العميق"
 
-#: plugin.py:441
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "عندما تقرر استيراد دليل البرامج الإلكتروني (EPG) بعد تشغيل المربع، أذكر ما إذا كان \\\\\\\\"
 
-#: plugin.py:442
-msgid "Return to deep standby after import"
-msgstr ""
+msgid "When you restart the GUI you can decide to skip or not the EPG data import."
+msgstr "عند إعادة تشغيل واجهة المستخدم الرسومية، يمكنك أن تقرر تخطي استيراد بيانات دليل البرامج الإلكتروني (EPG) أو عدمه."
 
-#: plugin.py:442
-
-#: plugin.py:443
-msgid "Standby at startup"
-msgstr "وضع الاستعداد عند بدء التشغيل"
-
-#: plugin.py:443
-
-#: plugin.py:444
-msgid "Choice days for start import"
-msgstr ""
-
-#: plugin.py:444
-msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
-
-#: plugin.py:445
-msgid "Start import after booting up"
-msgstr "تشغيل الإستيراد بعد الإقلاع"
-
-#: plugin.py:445
-
-#: plugin.py:446
-msgid "Load EPG only services in bouquets"
-msgstr ""
-
-#: plugin.py:446
-
-#: plugin.py:447
-msgid "Load EPG"
-msgstr ""
-
-#: plugin.py:447
-msgid "Select load EPG mode for services."
-msgstr ""
-
-#: plugin.py:448
-
-#: plugin.py:448
-
-#: plugin.py:449
-msgid "Skip import on restart GUI"
-msgstr ""
-
-#: plugin.py:449
-
-#: plugin.py:450
-#, fuzzy
-msgid "Show \"EPG import now\" in extensions"
-msgstr "عرض الملحقات"
-
-#: plugin.py:450
-
-#: plugin.py:451
-#, fuzzy
-msgid "Show \"EPG import\" in epg menu"
-msgstr "عرض متصفح البلج إنز"
-
-#: plugin.py:451
-
-#: plugin.py:452
-msgid "Load long descriptions up to X days"
-msgstr "تحميل وصف مطول إضغط على عدد الايام"
-
-#: plugin.py:452
-
-#: plugin.py:453
-msgid "Run AutoTimer after import"
-msgstr ""
-
-#: plugin.py:453
-
-#: plugin.py:454
-msgid "Clearing current EPG before import"
-msgstr ""
-
-#: plugin.py:454
-
-#: plugin.py:455
-msgid "Also apply \"channel id\" filtering on custom.channels.xml"
-msgstr ""
-
-#: plugin.py:455
-
-#: plugin.py:456
-msgid "Execute shell command before import EPG"
-msgstr ""
-
-#: plugin.py:456
-
-#: plugin.py:457
-msgid "Shell command name"
-msgstr ""
-
-#: plugin.py:457
-msgid "Enter shell command name."
-msgstr ""
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
-msgid "Start import after standby"
-msgstr "تشغيل الإستيراد بعد الإقلاع"
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
-msgid "Start import after resuming from standby mode."
-msgstr "تشغيل الإستيراد بعد الإقلاع"
-
-#: plugin.py:459
-msgid "Hours after which the import is repeated"
-msgstr ""
-
-#: plugin.py:459
-
-#: plugin.py:538
-msgid "Settings saved successfully !"
-msgstr ""
-
-#: plugin.py:584
-msgid "Choose Directory:"
-msgstr ""
-
-#: plugin.py:585
-msgid "Choose directory"
-msgstr ""
-
-#: plugin.py:615
-msgid "SELECT YOUR CHOICE"
-msgstr ""
-
-#: plugin.py:647
-msgid "unknown"
-msgstr ""
-
-#: plugin.py:648
-#, python-format
-msgid "Last: %s %s, %d events"
-msgstr "أخر: %s %s, %d الأحداث"
-
-#: plugin.py:658
-#, fuzzy
-
-#: plugin.py:669
-msgid "No active EPG sources found, nothing to do"
-msgstr "لا توجد مصادر لدليل البرامج الإلكترونية مفعلة، علىك أن تفعل شيئا"
-
-#: plugin.py:673
-#, fuzzy
-
-#: plugin.py:685
-
-#: plugin.py:701
-msgid "Show log"
-msgstr ""
-
-#: plugin.py:753
-#, fuzzy
-#| msgid "EPG-Importer"
-msgid "Import"
-msgstr "إستيراد دليل البرامج الإلكترونية"
-
-#: plugin.py:754
-msgid "Import from Git"
-msgstr ""
-
-#: plugin.py:795
-msgid "EPG Import Sources"
-msgstr "مصادر إستيراد دليل البرامج الإلكترونية"
-
-#: plugin.py:801
-
-#: plugin.py:830
-msgid "Source files Imported and List Updated!"
-msgstr ""
-
-#: plugin.py:837
-#, python-format
-msgid "Update Failed: %s"
-msgstr ""
-
-#: plugin.py:844
-msgid "Update Aborted!"
-msgstr ""
-
-#: plugin.py:1014
-msgid "Days Profile"
-msgstr ""
-
-#: plugin.py:1020
-
-#: plugin.py:1069
-msgid "Clear"
-msgstr "مسح"
-
-#: plugin.py:1100
-msgid "EPG Import Log"
-msgstr "سجل إستيراد دليل البرامج الإلكترونية"
-
-#: plugin.py:1106
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "اكتب إلى /tmp/epgimport.log"
 
-#: plugin.py:1122
-msgid "Last import: "
-msgstr ""
+msgid "You can select the day(s) when the EPG update must be performed."
+msgstr "يمكنك تحديد اليوم (الأيام) الذي يجب فيه إجراء تحديث دليل البرامج الإلكتروني (EPG)."
 
-#: plugin.py:1122
-msgid " events\n"
-msgstr ""
+msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
+msgstr "يمكنك تشغيل المكون الإضافي AutoTimer تلقائيًا بعد تحديث بيانات EPG لتحديث جدولته بعد تحديث بيانات EPG."
 
-#: plugin.py:1122
-#, fuzzy
+msgid "always"
+msgstr "دائماً"
 
-#: plugin.py:1170
-#, python-format
-msgid "EPG Import finished, %d events"
-msgstr "إنتهاء إستيراد دليل البرامج الإلكترونية, %d والأحداث"
+msgid "events\\\\\\\\n"
+msgstr "الأحداث\\\\\\\\n"
 
-#: plugin.py:1170
+msgid "never"
+msgstr "أبداً"
 
-#: plugin.py:1311
-msgid "No source file found !"
-msgstr ""
+msgid "only automatic boot"
+msgstr "التمهيد التلقائي فقط"
 
-#: plugin.py:1512 plugin.py:1535
-#, fuzzy
-#| msgid "EPG Import Log"
-msgid "EPG Import"
-msgstr "سجل إستيراد دليل البرامج الإلكترونية"
+msgid "only manual boot"
+msgstr "التمهيد اليدوي فقط"
 
-#: plugin.py:1527
-msgid "Automated EPG Importer"
-msgstr "إستيراد دليل البرامج الإلكترونية الآلي"
+msgid "press OK to save list"
+msgstr "اضغط على موافق لحفظ القائمة"
 
-#: plugin.py:1529
-#, fuzzy
-#| msgid "EPG-Importer"
-msgid "EPG-Importer Now"
-msgstr "إستيراد دليل البرامج الإلكترونية"
+msgid "skip the import"
+msgstr "تخطي الاستيراد"
 
-#, fuzzy
-#~ msgid "Import current source"
-#~ msgstr "مصادر إستيراد دليل البرامج الإلكترونية"
+msgid "wake up and import"
+msgstr "استيقظ واستورد"
+

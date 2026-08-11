@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "არხის დამატება"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "პროვაიდერის დამატება"
 
 msgid "All services provider"
-msgstr ""
+msgstr "ყველა სერვისის მიმწოდებელი"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "ასევე ვრცელდება \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "ავტომატური EPG იმპორტიორი"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "ავტომატური იმპორტი EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "ავტომატური დაწყების დრო"
 
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "არჩევანის დღეები იმპორტის დაწყებისთვის"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "აირჩიეთ დირექტორია:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "აირჩიეთ დირექტორია"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "აირჩიეთ მოქმედება, რომელიც უნდა შესრულდეს, როდესაც ყუთი ღრმა მოლოდინის რეჟიმშია და ჩვეულებრივ უნდა დაიწყოს EPG-ის ავტომატური განახლება."
 
 msgid "Clear"
-msgstr ""
+msgstr "წმინდა"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "განიხილეთ პარამეტრი \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "დღეების პროფილი"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "განსაზღვრეთ დღეების რაოდენობა, რომლითაც გსურთ მიიღოთ სრული EPG მონაცემები, ამ რიცხვის შემცირება დაგეხმარებათ დაზოგოთ მეხსიერების გამოყენება თქვენს ყუთში. მაგრამ თქვენ ასევე შეზღუდული ხართ EPG პროვაიდერის ხელმისაწვდომი მონაცემებით. თქვენ არ გექნებათ 15 დღიანი EPG, თუ ის მხოლოდ 7 დღის მონაცემებს მოგცემთ."
 
 msgid "Delete all"
-msgstr ""
+msgstr "წაშალე ყველა"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "წაშალეთ მიმდინარე EPG იმპორტამდე"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "არჩეული წაშლა"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "მალსახმობის ჩვენება \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG იმპორტი"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG იმპორტის კონფიგურაცია"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG იმპორტის ჟურნალი"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG იმპორტის წყაროები"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG იმპორტი დასრულდა, %d მოვლენა"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG იმპორტი ახლა"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGიმპორტი"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "შეიყვანეთ shell ბრძანების სახელი."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "შეასრულეთ shell ბრძანება EPG იმპორტამდე"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "ფილტრაცია: %s გთხოვთ დაელოდოთ!"
 
 msgid "Friday"
-msgstr ""
+msgstr "პარასკევი"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "საათები, რის შემდეგაც იმპორტი მეორდება"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "სერვისების სიის იგნორირება"
 
 msgid "Import"
-msgstr ""
+msgstr "იმპორტი"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "იმპორტი ვერ მოხერხდა შეცდომით: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "მიმდინარეობს იმპორტი: %s %s მოვლენები"
 
 msgid "Last import:"
-msgstr ""
+msgstr "ბოლო იმპორტი:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "ბოლო იმპორტი: %s %s, %d მოვლენა"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "ბოლო იმპორტი: %s მოვლენები"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "ჩატვირთეთ EPG მხოლოდ IPTV არხებისთვის"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "ჩატვირთეთ მხოლოდ EPG სერვისები თაიგულებში"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "ჩატვირთეთ გრძელი აღწერილობები X დღემდე"
 
 msgid "Manual"
-msgstr ""
+msgstr "სახელმძღვანელო"
 
 msgid "Monday"
-msgstr ""
+msgstr "ორშაბათი"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "აქტიური EPG წყაროები არ მოიძებნა, არაფერია გასაკეთებელი"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "წყარო ფაილი ვერ მოიძებნა!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "საათების რაოდენობა (1-23, ან 0 გამეორებისთვის), რის შემდეგაც იმპორტი მეორდება. ეს მნიშვნელობა არ არის შენახული და გადაყენდება GUI-ის გადატვირთვისას."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "ბილიკი DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "დააჭირეთ OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "მართლა წაშალოთ მთელი სია?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "იმპორტის შემდეგ დაუბრუნდით ღრმა მოლოდინს"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "იმპორტის შემდეგ გაუშვით AutoTimer"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "აირჩიეთ თქვენი არჩევანი"
 
 msgid "Saturday"
-msgstr ""
+msgstr "შაბათი"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Select action"
-msgstr ""
+msgstr "აირჩიეთ მოქმედება"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "აირჩიეთ სერვისი დასამატებლად..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "პარამეტრები წარმატებით შენახულია!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell ბრძანების სახელი"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "ჩვენება \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ჟურნალის ჩვენება"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "იმპორტის გამოტოვება GUI-ს გადატვირთვისას"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "წყარო EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "წყაროები"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "წყაროები წარმატებით შენახულია!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "მიუთითეთ, რომელ შემთხვევაში უნდა განახლდეს EPG ავტომატურად ველში ჩატვირთვის შემდეგ."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "მიუთითეთ ბილიკის საქაღალდე EPG.dat ფაილის შესანახად."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "მიუთითეთ წყარო EPG-სთვის."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "მიუთითეთ დრო EPG ავტომატური განახლებისთვის."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "ლოდინის რეჟიმში გაშვებისას"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "დაიწყეთ იმპორტი ჩატვირთვის შემდეგ"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "დაიწყეთ იმპორტი ლოდინის რეჟიმიდან განახლების შემდეგ."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "დაიწყეთ იმპორტი ლოდინის შემდეგ"
 
 msgid "Sunday"
-msgstr ""
+msgstr "კვირა"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "გაღვიძებული ყუთი გადაიქცევა ლოდინის რეჟიმში EPG იმპორტის ავტომატური გაღვიძების შემდეგ."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "ეს არის მოწინავე მომხმარებლებისთვის, რომლებიც იყენებენ არხის ID ფილტრაციის ფუნქციას. თუ ჩართულია, /etc/epgimport/channel_id_filter.conf-ში განსაზღვრული ფილტრის წესები ასევე გამოყენებული იქნება თქვენს /etc/epgimport/custom.channels.xml ფაილზე."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "ეს გაასუფთავებს მიმდინარე EPG მონაცემებს მეხსიერებაში EPG მონაცემების განახლებამდე. ეს საშუალებას გაძლევთ ყოველთვის გქონდეთ სუფთა ახალი EPG უახლესი EPG მონაცემებით, მაგალითად, პროგრამის ცვლილების შემთხვევაში განახლებას შორის, წინააღმდეგ შემთხვევაში EPG მონაცემები კუმულაციურია."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "ეს დააბრუნებს გაღვიძებულ ყუთს ღრმა ლოდინის რეჟიმში EPG ავტომატური იმპორტის შემდეგ."
 
 msgid "Thursday"
-msgstr ""
+msgstr "ხუთშაბათი"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "მეხსიერების შესანახად შეგიძლიათ გადაწყვიტოთ ჩატვირთოთ EPG მონაცემები მხოლოდ IPTV არხებისთვის."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "მეხსიერების შესანახად შეგიძლიათ გადაწყვიტოთ ჩატვირთოთ მხოლოდ EPG მონაცემები იმ სერვისებისთვის, რომლებიც გაქვთ თქვენს ბუკეტის ფაილებში."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "სამშაბათი"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "წყაროების განახლება"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "ოთხშაბათი"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "როდესაც ჩართულია, ის საშუალებას გაძლევთ დაგეგმოთ ავტომატური EPG განახლება მოცემულ დღეებსა და დროს."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "როდესაც ჩართულია, მაშინ იმპორტის დაწყებამდე შეგიძლიათ გაუშვათ სასურველი სკრიპტი, რის შემდეგაც დაიწყება EPG-ის იმპორტი."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "ღრმა ლოდინის დროს"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "როდესაც გადაწყვეტთ EPG-ის იმპორტს ყუთის ჩატვირთვის შემდეგ, მიუთითეთ თუ \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "როდესაც თქვენ გადატვირთავთ GUI-ს, შეგიძლიათ გადაწყვიტოთ გამოტოვოთ თუ არა EPG მონაცემთა იმპორტი."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "ჩაწერეთ /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "თქვენ შეგიძლიათ აირჩიოთ დღე(ები), როდესაც უნდა შესრულდეს EPG განახლება."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "შეგიძლიათ ავტომატურად დაიწყოთ მოდული AutoTimer EPG მონაცემების განახლების შემდეგ, რათა განაახლოს მისი გრაფიკი EPG მონაცემების განახლების შემდეგ."
 
 msgid "always"
-msgstr ""
+msgstr "ყოველთვის"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "მოვლენები\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "არასოდეს"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "მხოლოდ ავტომატური ჩატვირთვა"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "მხოლოდ ხელით ჩატვირთვა"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "დააჭირეთ OK სიის შესანახად"
 
 msgid "skip the import"
-msgstr ""
+msgstr "გამოტოვეთ იმპორტი"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "გაიღვიძე და შემოიტანე"
+

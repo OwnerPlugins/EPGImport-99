@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Ychwanegu Sianel"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Ychwanegu Darparwr"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Pob darparwr gwasanaethau"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Gwnewch gais hefyd \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Mewnforiwr EPG awtomataidd"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Mewnforio EPG yn awtomatig"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Amser cychwyn awtomatig"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canslo"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Diwrnodau dewis ar gyfer dechrau mewnforio"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Dewiswch Cyfeiriadur:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Dewiswch gyfeiriadur"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Dewiswch y camau gweithredu i'w cyflawni pan fydd y blwch yn y modd segur dwfn a dylai'r diweddariad EPG awtomatig ddechrau fel arfer."
 
 msgid "Clear"
-msgstr ""
+msgstr "Clir"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Ystyriwch osod \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Proffil Dyddiau"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Diffiniwch nifer y dyddiau yr ydych am gael y data EPG llawn, gall lleihau'r nifer hwn eich helpu i arbed defnydd cof ar eich blwch. Ond rydych hefyd yn gyfyngedig gyda'r data sydd ar gael gan y darparwr EPG. Ni fydd gennych 15 diwrnod EPG os mai dim ond 7 diwrnod o ddata y bydd yn ei ddarparu."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Dileu popeth"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Dileu EPG cyfredol cyn mewnforio"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Dileu a ddewiswyd"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Dangos llwybr byr \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Mewnforio EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Cyfluniad Mewnforio EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Log Mewnforio EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Ffynonellau Mewnforio EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Mewnforio EPG wedi gorffen, %d o ddigwyddiadau"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Mewnforio EPG nawr"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "Mewnforio EPGI"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Rhowch enw gorchymyn cragen."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Gweithredu gorchymyn cragen cyn mewnforio EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Hidlo: %s Arhoswch!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Gwener"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Oriau ar ôl hynny mae'r mewnforio yn cael ei ailadrodd"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Anwybyddu rhestr gwasanaethau"
 
 msgid "Import"
-msgstr ""
+msgstr "Mewnforio"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Methodd y mewnforio gyda gwall: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Mewnforio: %s %s o ddigwyddiadau"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Mewnforio diwethaf:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Mewnforio diwethaf: %s %s, %d digwyddiad"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Mewnforio diwethaf: %s o ddigwyddiadau"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Llwythwch EPG ar gyfer sianeli IPTV yn unig"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Llwytho gwasanaethau EPG yn unig mewn tuswau"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Llwytho disgrifiadau hir hyd at X diwrnod"
 
 msgid "Manual"
-msgstr ""
+msgstr "Llawlyfr"
 
 msgid "Monday"
-msgstr ""
+msgstr "Dydd Llun"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Dim ffynonellau EPG gweithredol wedi'u canfod, dim byd i'w wneud"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Heb ganfod ffeil ffynhonnell!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Nifer yr oriau (1-23, neu 0 am ddim ailadrodd) ac ar ôl hynny mae'r mewnforio yn cael ei ailadrodd. Nid yw'r gwerth hwn yn cael ei gadw a bydd yn cael ei ailosod pan fydd y GUI yn ailgychwyn."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Llwybr DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Pwyswch OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Wir dileu pob rhestr?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Dychwelyd i wrth gefn dwfn ar ôl mewnforio"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Rhedeg AutoTimer ar ôl mewnforio"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "DEWISWCH EICH DEWIS"
 
 msgid "Saturday"
-msgstr ""
+msgstr "dydd Sadwrn"
 
 msgid "Save"
-msgstr ""
+msgstr "Arbed"
 
 msgid "Select action"
-msgstr ""
+msgstr "Dewiswch weithred"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Dewiswch wasanaeth i'w ychwanegu..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Gosodiadau wedi'u cadw'n llwyddiannus !"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Enw gorchymyn cragen"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Dangos \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Dangos log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Hepgor mewnforio ar ailgychwyn GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Ffynhonnell EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Ffynonellau"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Ffynonellau wedi'u cadw'n llwyddiannus!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Nodwch os felly rhaid diweddaru'r EPG yn awtomatig ar ôl i'r blwch gychwyn."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Nodwch y ffolder llwybr ar gyfer arbed ffeil EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Nodwch y ffynhonnell ar gyfer EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Nodwch yr amser ar gyfer y diweddariad EPG awtomatig."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Wrth gefn wrth gychwyn"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Dechreuwch fewnforio ar ôl cychwyn"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Dechreuwch fewnforio ar ôl ailddechrau o'r modd segur."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Dechrau mewnforio ar ôl wrth gefn"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Sul"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Bydd y blwch deffro yn cael ei droi'n wrth gefn ar ôl i fewnforio EPG awtomatig ddeffro."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Mae hyn ar gyfer defnyddwyr uwch sy'n defnyddio'r nodwedd hidlo ID sianel. Os caiff ei alluogi, bydd y rheolau hidlo a ddiffinnir yn /etc/epgimport/channel_id_filter.conf hefyd yn cael eu cymhwyso ar eich ffeil /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Bydd hyn yn clirio'r data EPG cyfredol yn y cof cyn diweddaru'r data EPG. Mae hyn yn caniatáu ichi gael EPG newydd glân bob amser gyda'r data EPG diweddaraf, er enghraifft rhag ofn y bydd newidiadau i'r rhaglen rhwng adnewyddu, fel arall mae data EPG yn gronnus."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Bydd hyn yn troi blwch deffro yn ôl yn wrth gefn dwfn ar ôl mewnforio EPG yn awtomatig."
 
 msgid "Thursday"
-msgstr ""
+msgstr "dydd Iau"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "I arbed cof gallwch benderfynu llwytho data EPG yn unig ar gyfer y sianeli IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Er mwyn arbed cof gallwch benderfynu llwytho data EPG yn unig ar gyfer y gwasanaethau sydd gennych yn eich ffeiliau tusw."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Dydd Mawrth"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Diweddaru Ffynonellau"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Mercher"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Pan fydd wedi'i alluogi, mae'n caniatáu ichi drefnu diweddariad EPG awtomatig ar y dyddiau a'r amser penodol."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Pan fydd wedi'i alluogi, gallwch redeg y sgript a ddymunir cyn dechrau'r mewnforio, ac ar ôl hynny bydd mewnforio'r EPG yn dechrau."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Pan yn ddwfn wrth gefn"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Pan fyddwch chi'n penderfynu mewnforio'r EPG ar ôl i'r blwch gychwyn sôn am y \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Pan fyddwch yn ailgychwyn y GUI gallwch benderfynu hepgor neu beidio â mewnforio data EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Ysgrifennwch at /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Gallwch ddewis y diwrnod(au) pan fydd yn rhaid i'r diweddariad EPG gael ei berfformio."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Gallwch chi gychwyn yr ategyn AutoTimer yn awtomatig ar ôl y diweddariad data EPG i'w gael i adnewyddu ei amserlennu ar ôl adnewyddu data EPG."
 
 msgid "always"
-msgstr ""
+msgstr "bob amser"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "digwyddiadau\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "byth"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "dim ond cist awtomatig"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "cist llaw yn unig"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "pwyswch OK i gadw'r rhestr"
 
 msgid "skip the import"
-msgstr ""
+msgstr "hepgor y mewnforio"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "deffro a mewnforio"
+

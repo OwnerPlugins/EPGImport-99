@@ -24,7 +24,7 @@ msgstr ""
 msgid "All services provider"
 msgstr ""
 
-msgid "Also apply \"
+msgid "Also apply \\\\\\\\"
 msgstr ""
 
 msgid "Automated EPG Importer"
@@ -54,7 +54,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-msgid "Consider setting \"
+msgid "Consider setting \\\\\\\\"
 msgstr ""
 
 msgid "Days Profile"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Delete selected"
 msgstr ""
 
-msgid "Display a shortcut \"
+msgid "Display a shortcut \\\\\\\\"
 msgstr ""
 
 msgid "EPG Import"
@@ -192,7 +192,7 @@ msgstr ""
 msgid "Shell command name"
 msgstr ""
 
-msgid "Show \"
+msgid "Show \\\\\\\\"
 msgstr ""
 
 msgid "Show log"
@@ -253,7 +253,7 @@ msgid "Thursday"
 msgstr ""
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "To save memory you can decide to load EPG data only for theIPTV channels."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
 msgstr ""
@@ -276,7 +276,7 @@ msgstr ""
 msgid "When in deep standby"
 msgstr ""
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
 msgstr ""
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
@@ -294,7 +294,7 @@ msgstr ""
 msgid "always"
 msgstr ""
 
-msgid "events\n"
+msgid "events\\\\\\\\n"
 msgstr ""
 
 msgid "never"
@@ -314,3 +314,4 @@ msgstr ""
 
 msgid "wake up and import"
 msgstr ""
+

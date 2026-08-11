@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Tilføj kanal"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Tilføj udbyder"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Alle tjenesteudbydere"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Anvend også \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Automatiseret EPG-importør"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Automatisk import EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Automatisk starttidspunkt"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ophæve"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Valgdage for start af import"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Vælg bibliotek:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Vælg bibliotek"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Vælg den handling, der skal udføres, når boksen er i dyb standby, og den automatiske EPG-opdatering skal normalt starte."
 
 msgid "Clear"
-msgstr ""
+msgstr "Klar"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Overvej at indstille \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Dage profil"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Definer det antal dage, du ønsker at få de fulde EPG-data. Reduktion af dette tal kan hjælpe dig med at spare hukommelsesforbrug på din boks. Men du er også begrænset med EPG-udbyderens tilgængelige data. Du vil ikke have 15 dages EPG, hvis den kun giver 7 dages data."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Slet alle"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Slet den aktuelle EPG før import"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Slet valgte"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Vis en genvej \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG import"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG-importkonfiguration"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG-importlog"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG-importkilder"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG-import afsluttet, %d begivenheder"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG-import nu"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Indtast shell-kommandonavn."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Udfør shell-kommando før import af EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Filtrering: %s Vent venligst!"
 
 msgid "Friday"
-msgstr ""
+msgstr "fredag"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Timer, hvorefter importen gentages"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Ignorer servicelisten"
 
 msgid "Import"
-msgstr ""
+msgstr "Importere"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Import mislykkedes med fejl: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Importerer: %s %s begivenheder"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Sidste import:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Sidste import: %s %s, %d begivenheder"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Sidste import: %s begivenheder"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Indlæs kun EPG for IPTV-kanaler"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Indlæs kun EPG-tjenester i buketter"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Indlæs lange beskrivelser op til X dage"
 
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 msgid "Monday"
-msgstr ""
+msgstr "mandag"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Ingen aktive EPG-kilder fundet, intet at gøre"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Ingen kildefil fundet!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Antal timer (1-23, eller 0 for ingen gentagelse), hvorefter importen gentages. Denne værdi er ikke gemt og vil blive nulstillet, når GUI genstarter."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Sti DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Tryk på OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Vil du virkelig slette alle listen?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Vend tilbage til dyb standby efter import"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Kør AutoTimer efter import"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VÆLG DIT VALG"
 
 msgid "Saturday"
-msgstr ""
+msgstr "lørdag"
 
 msgid "Save"
-msgstr ""
+msgstr "Spare"
 
 msgid "Select action"
-msgstr ""
+msgstr "Vælg handling"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Vælg tjeneste for at tilføje..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Indstillinger blev gemt!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell kommando navn"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Vis \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Vis log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Spring over import ved genstart af GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Kilde EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Kilder"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Kilder blev gemt!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Angiv i hvilket tilfælde EPG'en skal opdateres automatisk, efter at boksen er startet."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Angiv sti-mappen for save EPG.dat-filen."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Angiv kilden til EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Angiv tidspunktet for den automatiske EPG-opdatering."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Standby ved opstart"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Start import efter opstart"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Start import efter genoptagelse fra standbytilstand."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Start import efter standby"
 
 msgid "Sunday"
-msgstr ""
+msgstr "søndag"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Den vækkede boks vil blive sat på standby efter automatisk EPG-importvågning."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Dette er for avancerede brugere, der bruger kanal-id-filtreringsfunktionen. Hvis det er aktiveret, vil filterreglerne defineret i /etc/epgimport/channel_id_filter.conf også blive anvendt på din /etc/epgimport/custom.channels.xml fil."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Dette sletter de aktuelle EPG-data i hukommelsen, før EPG-dataene opdateres. Dette giver dig mulighed for altid at have en ren ny EPG med de seneste EPG-data, for eksempel i tilfælde af programskift mellem opdateringer, ellers er EPG-data kumulative."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Dette vil sætte den vækkede boks tilbage til dyb standby efter automatisk EPG-import."
 
 msgid "Thursday"
-msgstr ""
+msgstr "torsdag"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "For at spare hukommelse kan du beslutte kun at indlæse EPG-data for IPTV-kanalerne."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "For at spare hukommelse kan du beslutte kun at indlæse EPG-data for de tjenester, du har i dine buketfiler."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "tirsdag"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Opdater kilder"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "onsdag"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Når den er aktiveret, giver den dig mulighed for at planlægge en automatisk EPG-opdatering på de givne dage og tidspunkter."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Når det er aktiveret, så kan du køre det ønskede script før du starter importen, hvorefter importen af ​​EPG'en begynder."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Når du er i dyb standby"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Når du beslutter dig for at importere EPG'en efter at boksen er startet, skal du nævne, om \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Når du genstarter GUI'en, kan du beslutte at springe EPG-dataimporten over eller ej."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Skriv til /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Du kan vælge dagen(e), hvor EPG-opdateringen skal udføres."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Du kan automatisk starte plugin'et AutoTimer efter EPG-dataopdateringen for at få det til at opdatere sin planlægning efter EPG-dataopdatering."
 
 msgid "always"
-msgstr ""
+msgstr "altid"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "begivenheder\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "aldrig"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "kun automatisk boot"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "kun manuel opstart"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "tryk på OK for at gemme listen"
 
 msgid "skip the import"
-msgstr ""
+msgstr "springe importen over"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "vågne op og importere"
+

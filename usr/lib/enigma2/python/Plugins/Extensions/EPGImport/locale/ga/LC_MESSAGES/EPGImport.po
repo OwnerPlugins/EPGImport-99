@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Cuir Cainéal leis"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Cuir Soláthraí leis"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Gach soláthraí seirbhíse"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Cuir i bhfeidhm freisin \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Allmhaireoir EPG Uathoibrithe"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG allmhairithe uathoibríoch"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Am tosaithe uathoibríoch"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Laethanta rogha le haghaidh allmhairiú tosaithe"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Roghnaigh Eolaire:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Roghnaigh eolaire"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Roghnaigh an gníomh atá le déanamh nuair a bhíonn an bosca faoi dhíon fuireachas agus ba chóir go dtosódh an nuashonrú uathoibríoch EPG de ghnáth."
 
 msgid "Clear"
-msgstr ""
+msgstr "Glan"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Smaoinigh ar \\\\\\\\ a shocrú"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Próifíl Laethanta"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Sainmhínigh líon na laethanta ar mhaith leat na sonraí EPG iomlána a fháil, agus má laghdaítear an uimhir seo is féidir cabhrú leat úsáid chuimhne a shábháil ar do bhosca. Ach tá tú teoranta freisin leis an soláthraí EPG sonraí atá ar fáil. Ní bheidh 15 lá EPG agat mura soláthraíonn sé ach sonraí 7 lá."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Scrios go léir"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Scrios an EPG reatha roimh iompórtáil"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Scrios roghnaithe"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Taispeáin aicearra \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Iompórtáil EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Cumraíocht Iompórtála EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Logchomhad Iompórtála EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Foinsí Iompórtála EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Iompórtáil EPG críochnaithe, %d imeacht"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Iompórtáil EPG anois"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "Iompórtáil EPGI"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Cuir isteach ainm an ordaithe bhlaosc."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Rith an t-ordú bhlaosc roimh allmhairiú EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Scagadh: %s Fan go fóill!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Dé hAoine"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Uaireanta ina dhiaidh sin déantar an t-allmhairiú arís agus arís eile"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Déan neamhaird de liosta seirbhísí"
 
 msgid "Import"
-msgstr ""
+msgstr "Iompórtáil"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Theip ar an iompórtáil le hearráid: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Á iompórtáil: %s %s imeacht"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Iompórtáil dheireanach:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Iompórtáil is déanaí: %s %s, %d imeacht"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Iompórtáil is déanaí: %s imeacht"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Luchtaigh EPG do chainéil IPTV amháin"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Luchtaigh seirbhísí EPG i bouquets amháin"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Lódáil cur síos fada suas le X lá"
 
 msgid "Manual"
-msgstr ""
+msgstr "Lámhleabhar"
 
 msgid "Monday"
-msgstr ""
+msgstr "Dé Luain"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Níor aimsíodh aon fhoinsí gníomhacha EPG, níl aon rud le déanamh"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Níor aimsíodh aon chomhad foinse!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Líon na n-uaireanta (1-23, nó 0 gan athrá) a ndéantar an t-allmhairiú arís agus arís eile ina dhiaidh sin. Ní shábháiltear an luach seo agus athshocrófar é nuair a atosóidh an GUI."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Conair DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Brúigh OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "An bhfuil fonn ort an liosta ar fad a scriosadh?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Fill ar fuireachas domhain tar éis allmhairithe"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Rith AutoTimer tar éis iompórtáil"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ROGHNAIGH DO ROGHA"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Dé Sathairn"
 
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 msgid "Select action"
-msgstr ""
+msgstr "Roghnaigh gníomh"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Roghnaigh seirbhís le cur leis..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "D'éirigh le socruithe a shábháil !"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Ainm ordú Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Taispeáin \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Taispeáin logáil"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Léim ar allmhairiú ar atosú GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Foinse EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Foinsí"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "D'éirigh le foinsí a shábháil!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Sonraigh sa chás sin nach mór an EPG a nuashonrú go huathoibríoch tar éis don bhosca a bheith tosaithe."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Sonraigh an fillteán cosáin le haghaidh comhad EPG.dat a shábháil."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Sonraigh an fhoinse le haghaidh EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Sonraigh an t-am don nuashonrú uathoibríoch EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Fuireachas ag am tosaithe"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Tosaigh allmhairiú tar éis booting suas"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Tosaigh an t-iompórtáil tar éis duit tosú arís ón mód fuireachais."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Tosaigh allmhairiú tar éis fuireachas"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Domhnach"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Déanfar an bosca dúisithe a iompú isteach i fuireachas tar éis dúiseacht allmhairiú uathoibríoch EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Tá sé seo le haghaidh úsáideoirí ardleibhéil atá ag baint úsáide as an ngné scagtha aitheantais cainéal. Má tá sé cumasaithe, cuirfear na rialacha scagaire atá sainmhínithe i /etc/epgimport/channel_id_filter.conf i bhfeidhm freisin ar do chomhad /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Glanfaidh sé seo na sonraí EPG reatha sa chuimhne sula nuashonrófar na sonraí EPG. Ligeann sé seo duit EPG nua glan a bheith agat i gcónaí leis na sonraí EPG is déanaí, mar shampla i gcás athruithe clár idir athnuachan, nó beidh sonraí EPG carnach."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Cuirfidh sé seo an bosca dúisithe ar ais go cúltaca domhain tar éis allmhairiú uathoibríoch EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "Déardaoin"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Chun cuimhne a shábháil, is féidir leat cinneadh a dhéanamh sonraí EPG a lódáil do na cainéil IPTV amháin."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Chun cuimhne a shábháil is féidir leat cinneadh a dhéanamh gan ach sonraí EPG a luchtú le haghaidh na seirbhísí atá agat i do chomhaid bouquet."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Dé Máirt"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Foinsí Nuashonraithe"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Dé Céadaoin"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Nuair a bheidh sé cumasaithe, ceadaíonn sé duit nuashonrú uathoibríoch EPG a sceidealú ag na laethanta agus an t-am ar leith."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Nuair a bheidh tú cumasaithe, ansin is féidir leat an script atá ag teastáil a rith sula dtosaíonn tú ar an allmhairiú, agus ina dhiaidh sin cuirfear tús le hallmhairiú an EPG."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Nuair a bheidh i fuireachas domhain"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Nuair a shocraíonn tú a allmhairiú an EPG tar éis an bosca booted lua má tá an \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Nuair a atosóidh tú an GUI is féidir leat cinneadh a dhéanamh iompórtáil sonraí EPG a scipeáil nó gan é."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Scríobh chuig /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Is féidir leat an lá nó na laethanta a roghnú a gcaithfear an nuashonrú EPG a dhéanamh."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Is féidir leat an breiseán AutoTimer a thosú go huathoibríoch tar éis nuashonrú sonraí EPG chun go mbeidh sé ag athnuachan a sceidealaithe tar éis athnuachan sonraí EPG."
 
 msgid "always"
-msgstr ""
+msgstr "i gcónaí"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "imeachtaí\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "riamh"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "tosaithe uathoibríoch amháin"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "tosaithe láimhe amháin"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "brúigh OK chun an liosta a shábháil"
 
 msgid "skip the import"
-msgstr ""
+msgstr "skip an allmhairiú"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "múscail agus allmhairiú"
+

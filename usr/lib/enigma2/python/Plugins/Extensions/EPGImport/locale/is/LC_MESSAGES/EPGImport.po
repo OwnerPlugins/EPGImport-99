@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Bæta við rás"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Bæta við veitanda"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Allur þjónustuaðili"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Notaðu einnig \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Sjálfvirkur EPG innflytjandi"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Sjálfvirkur innflutningur EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Sjálfvirkur upphafstími"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Valdagar fyrir upphafsinnflutning"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Veldu möppu:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Veldu möppu"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Veldu aðgerðina sem á að framkvæma þegar kassinn er í djúpum biðstöðu og sjálfvirka EPG uppfærslan ætti venjulega að byrja."
 
 msgid "Clear"
-msgstr ""
+msgstr "Hreinsa"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Íhugaðu að setja \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Daga prófíl"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Tilgreindu fjölda daga sem þú vilt fá öll EPG gögnin, með því að lækka þennan fjölda getur það hjálpað þér að spara minnisnotkun á kassanum þínum. En þú ert líka takmörkuð með tiltækum gögnum EPG veitunnar. Þú munt ekki hafa 15 daga EPG ef það veitir aðeins 7 daga gögn."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Eyða öllum"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Eyddu núverandi EPG fyrir innflutning"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Eyða völdum"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Birta flýtileið \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG innflutningur"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG innflutningsstillingar"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG innflutningsskrá"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG innflutningsheimildir"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG innflutningi lokið, %d viðburðir"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG innflutningur núna"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Sláðu inn nafn skeljaskipunar."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Framkvæmdu skel skipun áður en þú flytur inn EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Sía: %s Vinsamlegast bíddu!"
 
 msgid "Friday"
-msgstr ""
+msgstr "föstudag"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Klukkutímar eftir að innflutningur er endurtekinn"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Hunsa þjónustulista"
 
 msgid "Import"
-msgstr ""
+msgstr "Innflutningur"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Innflutningur mistókst með villu: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Flytur inn: %s %s viðburðir"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Síðasti innflutningur:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Síðasti innflutningur: %s %s, %d viðburðir"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Síðasti innflutningur: %s viðburðir"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Hlaða aðeins EPG fyrir IPTV rásir"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Hlaða aðeins EPG þjónustu í kransa"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Hlaða langar lýsingar allt að X daga"
 
 msgid "Manual"
-msgstr ""
+msgstr "Handbók"
 
 msgid "Monday"
-msgstr ""
+msgstr "mánudag"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Engar virkar EPG heimildir fundust, ekkert að gera"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Engin frumskrá fannst!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Fjöldi klukkustunda (1-23, eða 0 fyrir enga endurtekningu) eftir að innflutningur er endurtekinn. Þetta gildi er ekki vistað og verður endurstillt þegar GUI endurræsir."
 
 msgid "Path DB EPG"
 msgstr ""
 
 msgid "Press OK"
-msgstr ""
+msgstr "Ýttu á OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Í alvöru eyða öllum listanum?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Fara aftur í djúpan biðstöðu eftir innflutning"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Keyra AutoTimer eftir innflutning"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VELDU ÞITT VAL"
 
 msgid "Saturday"
-msgstr ""
+msgstr "laugardag"
 
 msgid "Save"
-msgstr ""
+msgstr "Vista"
 
 msgid "Select action"
-msgstr ""
+msgstr "Veldu aðgerð"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Veldu þjónustu til að bæta við..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Stillingar vistaðar!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Shell skipunarheiti"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Sýna \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Sýna log"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Slepptu innflutningi við endurræsingu GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Heimild EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Heimildir"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Heimildir vistaðar!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Tilgreindu í hvaða tilviki EPG verður að uppfæra sjálfkrafa eftir að kassinn hefur ræst."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Tilgreindu slóðarmöppuna fyrir vista EPG.dat skrána."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Tilgreindu uppruna EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Tilgreindu tíma fyrir sjálfvirka EPG uppfærslu."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Biðstaða við gangsetningu"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Byrjaðu innflutning eftir ræsingu"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Byrjaðu innflutning eftir að hafa haldið áfram úr biðham."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Byrjaðu innflutning eftir biðstöðu"
 
 msgid "Sunday"
-msgstr ""
+msgstr "sunnudag"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Vaknaði kassi verður settur í biðstöðu eftir sjálfvirka EPG innflutningsvöknun."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Þetta er fyrir háþróaða notendur sem nota síunareiginleikann fyrir rásauðkenni. Ef það er virkt, verða síureglurnar sem skilgreindar eru í /etc/epgimport/channel_id_filter.conf einnig notaðar á /etc/epgimport/custom.channels.xml skránni þinni."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Þetta mun hreinsa núverandi EPG gögn í minni áður en EPG gögnin eru uppfærð. Þetta gerir þér kleift að vera alltaf með hreinan nýjan EPG með nýjustu EPG gögnunum, til dæmis ef kerfisbreytingar eru á milli endurnýjunar, annars eru EPG gögn uppsöfnuð."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Þetta mun snúa vaknaði kassanum aftur í djúpan biðstöðu eftir sjálfvirkan EPG innflutning."
 
 msgid "Thursday"
-msgstr ""
+msgstr "fimmtudag"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Til að spara minni geturðu ákveðið að hlaða EPG gögnum eingöngu fyrir IPTV rásirnar."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Til að spara minni geturðu ákveðið að hlaða aðeins EPG gögnum fyrir þá þjónustu sem þú ert með í vöndaskránum þínum."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "þriðjudag"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Uppfæra heimildir"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "miðvikudag"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Þegar það er virkt gerir það þér kleift að skipuleggja sjálfvirka EPG uppfærslu á tilteknum dögum og tíma."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Þegar það er virkt geturðu keyrt skriftuna sem þú vilt áður en innflutningurinn hefst, eftir það mun innflutningur á EPG hefjast."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Þegar í djúpum biðstöðu"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Þegar þú ákveður að flytja inn EPG eftir að kassinn var ræstur skaltu nefna hvort \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Þegar þú endurræsir GUI geturðu ákveðið að sleppa EPG gagnainnflutningi eða ekki."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Skrifaðu á /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Þú getur valið dag(a) þegar EPG uppfærslu verður að fara fram."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Þú getur sjálfkrafa ræst viðbótina AutoTimer eftir EPG gagnauppfærsluna til að láta það endurnýja tímasetningu sína eftir EPG gagnauppfærslu."
 
 msgid "always"
-msgstr ""
+msgstr "alltaf"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "viðburðir\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "aldrei"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "aðeins sjálfvirk ræsing"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "aðeins handvirkt ræsingu"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "ýttu á OK til að vista listann"
 
 msgid "skip the import"
-msgstr ""
+msgstr "sleppa innflutningnum"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "vakna og flytja inn"
+

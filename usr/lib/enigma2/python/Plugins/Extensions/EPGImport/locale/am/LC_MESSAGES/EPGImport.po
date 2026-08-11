@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "ቻናል አክል"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "አቅራቢን ያክሉ"
 
 msgid "All services provider"
-msgstr ""
+msgstr "ሁሉም አገልግሎት አቅራቢ"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "እንዲሁም ተግብር \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "ራስ-ሰር EPG አስመጪ"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "ኢፒጂ በራስ-ሰር አስመጣ"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "ራስ-ሰር የመጀመሪያ ጊዜ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "የማስመጣት የመጀመሪያ ቀናት"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "ማውጫ ይምረጡ፡-"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "ማውጫ ይምረጡ"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "ሳጥኑ በጥልቅ ተጠባባቂ ውስጥ ሲሆን እና አውቶማቲክ የ EPG ዝማኔ በመደበኛነት መጀመር ሲኖርበት የሚከናወኑትን ተግባር ይምረጡ።"
 
 msgid "Clear"
-msgstr ""
+msgstr "ግልጽ"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "ማዋቀርን አስቡበት \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "የቀናት መገለጫ"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "ሙሉውን የ EPG መረጃ ለማግኘት የሚፈልጓቸውን የቀኖች ብዛት ይግለጹ፣ ይህን ቁጥር መቀነስ በሣጥንዎ ላይ የማስታወሻ አጠቃቀምን ለመቆጠብ ይረዳዎታል። ነገር ግን በEPG አቅራቢው ባለው መረጃ የተገደበ ነው። የ7 ቀናት መረጃ ብቻ የሚያቀርብ ከሆነ የ15 ቀናት EPG አይኖርዎትም።"
 
 msgid "Delete all"
-msgstr ""
+msgstr "ሁሉንም ሰርዝ"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "ከማስመጣትዎ በፊት የአሁኑን EPG ሰርዝ"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "ሰርዝ ተመርጧል"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "አቋራጭ አሳይ"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG ማስመጣት።"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG የማስመጣት ውቅረት"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG የማስመጣት መዝገብ"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "EPG አስመጪ ምንጮች"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG ማስመጣት አልቋል፣ %d ክስተቶች"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG አሁን አስመጣ"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGI አስመጣ"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "የሼል ትዕዛዝ ስም አስገባ."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPG ከማስመጣትዎ በፊት የሼል ትዕዛዙን ያስፈጽሙ"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "ማጣራት፡ %s እባክዎ ይጠብቁ!"
 
 msgid "Friday"
-msgstr ""
+msgstr "አርብ"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "ከሰዓታት በኋላ ማስመጣቱ ይደገማል"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "የአገልግሎቶች ዝርዝርን ችላ ይበሉ"
 
 msgid "Import"
-msgstr ""
+msgstr "አስመጣ"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "ማስመጣት በስህተት አልተሳካም፦ {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "በማስመጣት ላይ፡ %s %s ክስተቶች"
 
 msgid "Last import:"
-msgstr ""
+msgstr "የመጨረሻ ማስመጣት፡"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "የመጨረሻው ማስመጣት፡ %s %s፣ %d ክስተቶች"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "የመጨረሻ ማስመጣት፡ %s ክስተቶች"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "ለIPTV ቻናሎች EPGን ብቻ ይጫኑ"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "በእቅፍ አበባዎች ውስጥ የ EPG አገልግሎቶችን ብቻ ይጫኑ"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "ረጅም መግለጫዎችን እስከ X ቀናት ድረስ ይጫኑ"
 
 msgid "Manual"
-msgstr ""
+msgstr "መመሪያ"
 
 msgid "Monday"
-msgstr ""
+msgstr "ሰኞ"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "ምንም ንቁ የ EPG ምንጮች አልተገኙም፣ ምንም የሚሠራ የለም።"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "ምንም ምንጭ ፋይል አልተገኘም!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "የሰዓታት ብዛት (1-23 ወይም 0 ያለ ተደጋጋሚነት) ከዚያ በኋላ ማስመጣቱ ይደገማል። ይህ ዋጋ አልተቀመጠም እና GUI ዳግም ሲጀምር ዳግም ይጀመራል።"
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "መንገድ DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "እሺን ይጫኑ"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "በእርግጥ ሁሉንም ዝርዝር ይሰርዙ?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "ከውጭ ከገቡ በኋላ ወደ ጥልቅ ተጠባባቂ ይመለሱ"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "ከመጣ በኋላ AutoTimer ን ያሂዱ"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ምርጫዎን ይምረጡ"
 
 msgid "Saturday"
-msgstr ""
+msgstr "ቅዳሜ"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Select action"
-msgstr ""
+msgstr "እርምጃ ይምረጡ"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "የሚጨምሩትን አገልግሎት ይምረጡ..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "የሼል ትዕዛዝ ስም"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "አሳይ"
 
 msgid "Show log"
-msgstr ""
+msgstr "ምዝግብ ማስታወሻን አሳይ"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUI እንደገና ሲጀመር ማስመጣትን ይዝለሉ"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "ምንጭ ኢ.ፒ.ጂ"
 
 msgid "Sources"
-msgstr ""
+msgstr "ምንጮች"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "ምንጮች በተሳካ ሁኔታ ተቀምጠዋል!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "ሣጥኑ ከተነሳ በኋላ EPG በየትኛው ሁኔታ መዘመን እንዳለበት ይግለጹ."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat ፋይል ለማስቀመጥ የዱካ አቃፊውን ይግለጹ።"
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "የ EPG ምንጭን ይግለጹ."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ለራስ-ሰር የ EPG ዝመና ጊዜን ይግለጹ።"
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "ጅምር ላይ ተጠባባቂ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "ከተነሳ በኋላ ማስመጣት ይጀምሩ"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "ከተጠባባቂ ሞድ ከቆመበት ማስመጣት ይጀምሩ።"
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "ከተጠባባቂ በኋላ ማስመጣት ይጀምሩ"
 
 msgid "Sunday"
-msgstr ""
+msgstr "እሁድ"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "የነቃው ሳጥን አውቶማቲክ የ EPG ማስመጣት ከተነሳ በኋላ ወደ ተጠባባቂነት ይቀየራል።"
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "ይህ የሰርጥ መታወቂያ ማጣሪያ ባህሪን ለሚጠቀሙ የላቀ ተጠቃሚዎች ነው። ከነቃ፣ በ /etc/epgimport/channel_id_filter.conf ውስጥ የተገለጹት የማጣሪያ ህጎች እንዲሁ በእርስዎ /etc/epgimport/custom.channels.xml ፋይል ላይ ይተገበራሉ።"
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "ይህ የ EPG ውሂቡን ከማዘመንዎ በፊት አሁን ያለውን የ EPG ውሂብ በማህደረ ትውስታ ውስጥ ያጸዳል። ይህ ሁልጊዜ ንፁህ አዲስ EPG እንዲኖርዎት የቅርብ ጊዜውን የ EPG ውሂብን ለምሳሌ በማደስ መካከል የፕሮግራም ለውጦች ሲኖሩ ፣ ያለበለዚያ የ EPG መረጃ ድምር ነው።"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "ይህ በራስ-ሰር EPG ከመጣ በኋላ የተቀሰቀሰውን ሳጥን ወደ ጥልቅ ተጠባባቂነት ይለውጠዋል።"
 
 msgid "Thursday"
-msgstr ""
+msgstr "ሐሙስ"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "ማህደረ ትውስታን ለመቆጠብ የኢፒጂ መረጃን ለIPTV ቻናሎች ብቻ ለመጫን መወሰን ይችላሉ ።"
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "ማህደረ ትውስታን ለመቆጠብ በእቅፍ ፋይሎችዎ ውስጥ ላሉት አገልግሎቶች የ EPG ውሂብን ብቻ ለመጫን መወሰን ይችላሉ።"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "ማክሰኞ"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "ምንጮችን አዘምን"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "እሮብ"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "ሲነቃ በተሰጡት ቀናት እና ሰዓት ላይ አውቶማቲክ የ EPG ዝማኔን እንዲያዘጋጁ ይፈቅድልዎታል።"
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "ሲነቃ, ማስመጣቱን ከመጀመርዎ በፊት የተፈለገውን ስክሪፕት ማሄድ ይችላሉ, ከዚያ በኋላ የ EPG ማስመጣት ይጀምራል."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "በጥልቅ ተጠባባቂ ውስጥ ሲሆኑ"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "ሳጥኑ ከተነሳ በኋላ EPGን ለማስመጣት ሲወስኑ \\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "GUI ን እንደገና ሲጀምሩ የ EPG ውሂብ ማስመጣትን ለመዝለል መወሰን ይችላሉ ።"
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "ወደ /tmp/epgimport.log ይፃፉ"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "የ EPG ዝማኔ መከናወን ያለበትን ቀን(ዎች) መምረጥ ትችላለህ።"
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "ፕለጊኑን AutoTimer ከ EPG ውሂብ ማሻሻያ በኋላ በራስ-ሰር መጀመር ይችላሉ ከ EPG ውሂብ አድስ በኋላ መርሐ ግብሩን እንዲያድስ።"
 
 msgid "always"
-msgstr ""
+msgstr "ሁልጊዜ"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "ክስተቶች\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "በፍጹም"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "አውቶማቲክ ማስነሻ ብቻ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "በእጅ ቡት ብቻ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "ዝርዝር ለማስቀመጥ እሺን ይጫኑ"
 
 msgid "skip the import"
-msgstr ""
+msgstr "አስመጪውን መዝለል"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "ተነሱ እና አስመጪ"
+

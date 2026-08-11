@@ -1,15 +1,21 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
 
-
-
-
-
-
+# EPGImport translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
 msgid "Add Channel"
 msgstr ""
 
@@ -19,7 +25,7 @@ msgstr ""
 msgid "All services provider"
 msgstr ""
 
-msgid "Also apply \"
+msgid "Also apply \\"
 msgstr ""
 
 msgid "Automated EPG Importer"
@@ -49,7 +55,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-msgid "Consider setting \"
+msgid "Consider setting \\"
 msgstr ""
 
 msgid "Days Profile"
@@ -67,7 +73,7 @@ msgstr ""
 msgid "Delete selected"
 msgstr ""
 
-msgid "Display a shortcut \"
+msgid "Display a shortcut \\"
 msgstr ""
 
 msgid "EPG Import"
@@ -187,7 +193,7 @@ msgstr ""
 msgid "Shell command name"
 msgstr ""
 
-msgid "Show \"
+msgid "Show \\"
 msgstr ""
 
 msgid "Show log"
@@ -271,7 +277,7 @@ msgstr ""
 msgid "When in deep standby"
 msgstr ""
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
+msgid "When you decide to import the EPG after the box booted mention if the \\"
 msgstr ""
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
@@ -289,7 +295,7 @@ msgstr ""
 msgid "always"
 msgstr ""
 
-msgid "events\n"
+msgid "events\\n"
 msgstr ""
 
 msgid "never"

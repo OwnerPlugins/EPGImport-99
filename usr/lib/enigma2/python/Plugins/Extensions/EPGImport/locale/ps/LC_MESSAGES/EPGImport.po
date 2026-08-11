@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "چینل اضافه کړئ"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "چمتو کوونکی اضافه کړئ"
 
 msgid "All services provider"
-msgstr ""
+msgstr "د ټولو خدماتو چمتو کونکي"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "هم درخواست وکړئ \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "د اتوماتیک EPG واردونکي"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "د اتوماتیک واردولو EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "د اتوماتیک پیل وخت"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغوه کړئ"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "د واردولو د پیل لپاره غوره ورځې"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "لارښود غوره کړئ:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "لارښود غوره کړئ"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "د ترسره کولو لپاره عمل غوره کړئ کله چې بکس ژور سټینډ بای کې وي او د EPG اتوماتیک تازه کول باید په نورمال ډول پیل شي."
 
 msgid "Clear"
-msgstr ""
+msgstr "روښانه"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "ترتیب ته پام وکړئ \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "د ورځو پروفایل"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "د هغو ورځو شمیره تعریف کړئ چې تاسو غواړئ د EPG بشپړ ډیټا ترلاسه کړئ، د دې شمیرې کمول کولی شي تاسو سره ستاسو په بکس کې د حافظې کارولو خوندي کولو کې مرسته وکړي. مګر تاسو د EPG چمتو کونکي موجود ډیټا سره هم محدود یاست. تاسو به د 15 ورځو EPG نلرئ که چیرې دا یوازې د 7 ورځو ډاټا چمتو کړي."
 
 msgid "Delete all"
-msgstr ""
+msgstr "ټول ړنګ کړئ"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "د واردولو دمخه اوسنی EPG ړنګ کړئ"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "غوره شوی ړنګول"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "یو شارټ کټ ښکاره کړئ \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "د EPG واردول"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "د EPG واردولو ترتیب"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "د EPG واردولو لاګ"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "د EPG وارداتو سرچینې"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "د EPG واردات پای ته ورسیدل، %d پیښې"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "د EPG واردول اوس"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "د شیل کمانډ نوم دننه کړئ."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "د EPG واردولو دمخه د شیل کمانډ اجرا کړئ"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "فلټر کول: %s مهرباني وکړئ انتظار وکړئ!"
 
 msgid "Friday"
-msgstr ""
+msgstr "جمعه"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "ساعتونه وروسته چې واردات تکرار کیږي"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "د خدماتو لیست له پامه غورځول"
 
 msgid "Import"
-msgstr ""
+msgstr "واردول"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "واردول د تېروتنې سره ناکام شول: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "واردول: %s %s پیښې"
 
 msgid "Last import:"
-msgstr ""
+msgstr "وروستی واردول:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "وروستی وارد: %s %s، %d پیښې"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "وروستی وارد: %s پیښې"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "یوازې د IPTV چینلونو لپاره EPG پورته کړئ"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "یوازې په ګلدانونو کې د EPG خدمتونه پورته کړئ"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "تر X ورځو پورې اوږد توضیحات پورته کړئ"
 
 msgid "Manual"
-msgstr ""
+msgstr "لارښود"
 
 msgid "Monday"
-msgstr ""
+msgstr "دوشنبه"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "د EPG هیڅ فعاله سرچینه ونه موندل شوه، د کولو لپاره هیڅ شی"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "د سرچینې فایل ونه موندل شو!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "د ساعتونو شمیر (1-23، یا د نه تکرار لپاره 0) وروسته له دې چې واردات تکرار شي. دا ارزښت خوندي شوی نه دی او بیا به بیا تنظیم شي کله چې GUI بیا پیل شي."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "لاره DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "OK فشار ورکړئ"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "واقعیا ټول لیست حذف کړئ؟"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "د واردولو وروسته ژور سټینډ بای ته راستون شئ"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "د واردولو وروسته آٹو ټایمر چل کړئ"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "خپل انتخاب وټاکئ"
 
 msgid "Saturday"
-msgstr ""
+msgstr "شنبه"
 
 msgid "Save"
-msgstr ""
+msgstr "خوندي کړئ"
 
 msgid "Select action"
-msgstr ""
+msgstr "عمل غوره کړئ"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "د اضافه کولو لپاره خدمت غوره کړئ ..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ترتیبات په بریالیتوب سره خوندي شول!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "د شیل کمانډ نوم"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "ښودل \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ننوت ښکاره کړئ"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "د GUI په بیا پیلولو کې واردات پریږدئ"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "سرچینه EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "سرچینې"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "سرچینې په بریالیتوب سره خوندي شوې!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "مشخص کړئ چې په کوم حالت کې EPG باید په اوتومات ډول تازه شي وروسته له دې چې بکس بوټ شو."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "د EPG.dat فایل خوندي کولو لپاره د لارې فولډر مشخص کړئ."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "د EPG لپاره سرچینه مشخص کړئ."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "د اتوماتیک EPG تازه کولو لپاره وخت مشخص کړئ."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "په پیل کې سټینډبای"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "د بوټ کولو وروسته واردات پیل کړئ"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "د سټینډ بای حالت څخه بیا پیل کولو وروسته واردات پیل کړئ."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "د سټینډ بای وروسته واردات پیل کړئ"
 
 msgid "Sunday"
-msgstr ""
+msgstr "یک شنبه"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "بیدار شوی بکس به د اتوماتیک EPG وارداتو بیدار کیدو وروسته په سټینډ بای بدل شي."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "دا د پرمختللي کاروونکو لپاره دی چې د چینل ID فلټر کولو خصوصیت کاروي. که فعال شي، د فلټر قواعد چې په /etc/epgimport/channel_id_filter.conf کې تعریف شوي ستاسو په /etc/epgimport/custom.channels.xml فایل کې به هم پلي شي."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "دا به د EPG ډیټا تازه کولو دمخه په حافظه کې اوسني EPG ډیټا پاک کړي. دا تاسو ته اجازه درکوي چې تل د وروستي EPG ډیټا سره پاک نوی EPG ولرئ ، د مثال په توګه د ریفریش ترمینځ د برنامې بدلونونو په صورت کې ، که نه نو د EPG ډیټا مجموعي وي."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "دا به د اتوماتیک EPG واردولو وروسته بیرته بیدار شوي بکس ژور سټینډ بای ته واړوي."
 
 msgid "Thursday"
-msgstr ""
+msgstr "پنجشنبه"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "د حافظې خوندي کولو لپاره تاسو کولی شئ یوازې د IPTV چینلونو لپاره د EPG ډیټا پورته کولو پریکړه وکړئ."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "د حافظې خوندي کولو لپاره تاسو کولی شئ پریکړه وکړئ چې یوازې د هغه خدماتو لپاره د EPG ډیټا پورته کړئ چې تاسو یې د ګلدوز فایلونو کې لرئ."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "سه شنبه"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "تازه سرچینې"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "چهارشنبه"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "کله چې فعال شي، دا تاسو ته اجازه درکوي چې په ورکړل شویو ورځو او وخت کې د اتوماتیک EPG تازه کولو مهالویش وکړئ."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "کله چې فعال شي، نو تاسو کولی شئ د وارداتو پیل کولو دمخه مطلوب سکریپټ چل کړئ، وروسته له دې چې د EPG واردات پیل شي."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "کله چې په ژور موقف کې وي"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "کله چې تاسو پریکړه وکړئ چې EPG وارد کړئ وروسته له دې چې د بکس بوټ شوی یادونه وکړئ که \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "کله چې تاسو GUI بیا پیل کړئ تاسو کولی شئ پریکړه وکړئ چې د EPG ډیټا واردات پریږدئ یا نه."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.log ته ولیکئ"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "تاسو کولی شئ هغه ورځې وټاکئ کله چې د EPG تازه کول باید ترسره شي."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "تاسو کولی شئ د EPG ډیټا تازه کولو وروسته پلگ ان آټو ټایمر په اوتومات ډول پیل کړئ ترڅو دا د EPG ډیټا ریفریش وروسته خپل مهالویش تازه کړي."
 
 msgid "always"
-msgstr ""
+msgstr "تل"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "پیښې\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "هیڅکله"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "یوازې اتومات بوټ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "یوازې لاسي بوټ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "د لیست خوندي کولو لپاره OK فشار ورکړئ"
 
 msgid "skip the import"
-msgstr ""
+msgstr "واردات پریږدئ"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "ویښ شئ او وارد کړئ"
+

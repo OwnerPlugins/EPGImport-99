@@ -1,445 +1,317 @@
-# Finnish translations for plugins package.
-# Copyright (C) 2015 THE plugins'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the plugins package.
-# Automatically generated, 2015.
+# EPGImport translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2025-02-26 14:56+0100\n"
+"Project-Id-Version: EPGImport\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
-"Language-Team: \n"
+"Last-Translator: \n"
+"Language-Team: nl <ekekaz@gmail.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.4\n"
-"X-Poedit-Basepath: ../../..\n"
-"X-Poedit-SearchPath-0: .\n"
 
-#: filtersServices.py:151
-msgid "Add Provider"
-msgstr "Provider toevoegen"
-
-#: filtersServices.py:152
 msgid "Add Channel"
-msgstr "Zender toevoegen"
+msgstr "Kanaal toevoegen"
 
-#: filtersServices.py:154
-msgid "press OK to save list"
-msgstr ""
+msgid "Add Provider"
+msgstr "Aanbieder toevoegen"
 
-#: filtersServices.py:173 plugin.py:703
-msgid "Ignore services list"
-msgstr "Negeer zenderlijst"
+msgid "All services provider"
+msgstr "Alle dienstverleners"
 
-#: filtersServices.py:202
-msgid "Really delete all list?"
-msgstr "Alle lijsten wissen?"
+msgid "Also apply \\\\\\\\"
+msgstr "Ook solliciteren \\\\\\\\"
 
-#: filtersServices.py:235
-msgid "Delete selected"
-msgstr "Geselecteerde verwijderen"
+msgid "Automated EPG Importer"
+msgstr "Geautomatiseerde EPG-importeur"
 
-#: filtersServices.py:236
+msgid "Automatic import EPG"
+msgstr "Automatische import-EPG"
+
+msgid "Automatic start time"
+msgstr "Automatische starttijd"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Choice days for start import"
+msgstr "Keuzedagen voor start import"
+
+msgid "Choose Directory:"
+msgstr "Kies map:"
+
+msgid "Choose directory"
+msgstr "Kies map"
+
+msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
+msgstr "Kies de actie die moet worden uitgevoerd wanneer de box zich in diepe stand-by bevindt en de automatische EPG-update normaal gesproken zou moeten starten."
+
+msgid "Clear"
+msgstr "Duidelijk"
+
+msgid "Consider setting \\\\\\\\"
+msgstr "Overweeg instelling \\\\\\\\"
+
+msgid "Days Profile"
+msgstr "Dagen profiel"
+
+msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
+msgstr "Definieer het aantal dagen waarop u de volledige EPG-gegevens wilt ontvangen. Als u dit aantal verlaagt, kunt u geheugengebruik op uw box besparen. Maar je bent ook beperkt met de beschikbare gegevens van de EPG-provider. U heeft geen 15 dagen EPG als deze slechts 7 dagen gegevens levert."
+
 msgid "Delete all"
 msgstr "Alles verwijderen"
 
-#: filtersServices.py:261
-msgid "Select service to add..."
-msgstr ""
+msgid "Delete current EPG before import"
+msgstr "Verwijder de huidige EPG vóór het importeren"
 
-#: filtersServices.py:269
-msgid "All services provider"
-msgstr "Alle zender providers"
+msgid "Delete selected"
+msgstr "Geselecteerde verwijderen"
 
-#: filtersServices.py:288 plugin.py:704
-msgid "Select action"
-msgstr "Kies actie"
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Een snelkoppeling weergeven \\\\\\\\"
 
-#: plugin.py:101
-msgid "always"
-msgstr "atijd"
+msgid "EPG Import"
+msgstr "EPG-import"
 
-#: plugin.py:102
-msgid "only manual boot"
-msgstr "alleen na handmatige boot"
+msgid "EPG Import Configuration"
+msgstr "EPG-importconfiguratie"
 
-#: plugin.py:103
-msgid "only automatic boot"
-msgstr "alleen na automatische boot"
+msgid "EPG Import Log"
+msgstr "EPG-importlogboek"
 
-#: plugin.py:104
-msgid "never"
-msgstr "nooit"
+msgid "EPG Import Sources"
+msgstr "EPG-importbronnen"
 
-#: plugin.py:114
-msgid "wake up and import"
-msgstr "wordt wakker en importeer"
+msgid "EPG Import finished, %d events"
+msgstr "EPG-import voltooid, %d gebeurtenissen"
 
-#: plugin.py:115
-msgid "skip the import"
-msgstr "sla import over"
+msgid "EPG import now"
+msgstr "EPG importeer nu"
 
-#: plugin.py:121
-msgid "checking service reference(default)"
-msgstr ""
+msgid "EPGImport"
+msgstr "EPGImporteren"
 
-#: plugin.py:122
-msgid "only IPTV channels"
-msgstr ""
+msgid "Enter shell command name."
+msgstr "Voer de naam van de shell-opdracht in."
 
-#: plugin.py:123
-#, fuzzy
-#| msgid "Add Channel"
-msgid "all channels"
-msgstr "Zender toevoegen"
+msgid "Execute shell command before import EPG"
+msgstr "Voer de shell-opdracht uit voordat u de EPG importeert"
 
-#: plugin.py:139
-msgid "Press OK"
-msgstr "Druk op OK"
+msgid "Filtering: %s Please wait!"
+msgstr "Filteren: %s Even geduld a.u.b.!"
 
-#: plugin.py:148
-msgid "Monday"
-msgstr "Maandag"
-
-#: plugin.py:149
-msgid "Tuesday"
-msgstr "Dinsdag"
-
-#: plugin.py:150
-msgid "Wednesday"
-msgstr "Woensdag"
-
-#: plugin.py:151
-msgid "Thursday"
-msgstr "Donderdag"
-
-#: plugin.py:152
 msgid "Friday"
 msgstr "Vrijdag"
 
-#: plugin.py:153
-msgid "Saturday"
-msgstr "Zaterdag"
+msgid "Hours after which the import is repeated"
+msgstr "Uren waarna de import wordt herhaald"
 
-#: plugin.py:154
-msgid "Sunday"
-msgstr "Zondag"
+msgid "Ignore services list"
+msgstr "Negeer de dienstenlijst"
 
-#: plugin.py:357
-msgid "EPG Import Configuration"
-msgstr "EPG import configuratie"
+msgid "Import"
+msgstr "Importeren"
 
-#: plugin.py:360 plugin.py:653
-#, python-format
+msgid "Import failed with error: {}"
+msgstr "Importeren mislukt met fout: {}"
+
+msgid "Importing: %s %s events"
+msgstr "Importeren: %s %s gebeurtenissen"
+
+msgid "Last import:"
+msgstr "Laatste import:"
+
+msgid "Last import: %s %s, %d events"
+msgstr "Laatste import: %s %s, %d gebeurtenissen"
+
 msgid "Last import: %s events"
-msgstr "Laatste import: %s programma's"
+msgstr "Laatste import: %s gebeurtenissen"
 
-#: plugin.py:361 plugin.py:751 plugin.py:995
-msgid "Cancel"
-msgstr "Annuleer"
+msgid "Load EPG only for IPTV channels"
+msgstr "Laad EPG alleen voor IPTV-kanalen"
 
-#: plugin.py:362 plugin.py:752 plugin.py:996 plugin.py:1072
-msgid "Save"
-msgstr "Sla op"
+msgid "Load EPG only services in bouquets"
+msgstr "Laad alleen EPG-services in boeketten"
 
-#: plugin.py:363
+msgid "Load long descriptions up to X days"
+msgstr "Laad lange beschrijvingen tot X dagen"
+
 msgid "Manual"
 msgstr "Handmatig"
 
-#: plugin.py:364
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "No active EPG sources found, nothing to do"
+msgstr "Geen actieve EPG-bronnen gevonden, niets te doen"
+
+msgid "No source file found !"
+msgstr "Geen bronbestand gevonden!"
+
+msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
+msgstr "Aantal uren (1-23, of 0 voor geen herhaling) waarna de import wordt herhaald. Deze waarde wordt niet opgeslagen en wordt gereset wanneer de GUI opnieuw opstart."
+
+msgid "Path DB EPG"
+msgstr "Pad DB EPG"
+
+msgid "Press OK"
+msgstr "Druk op OK"
+
+msgid "Really delete all list?"
+msgstr "Echt de hele lijst verwijderen?"
+
+msgid "Return to deep standby after import"
+msgstr "Keer terug naar diepe stand-by na het importeren"
+
+msgid "Run AutoTimer after import"
+msgstr "Voer AutoTimer uit na het importeren"
+
+msgid "SELECT YOUR CHOICE"
+msgstr "SELECTEER UW KEUZE"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Save"
+msgstr "Redden"
+
+msgid "Select action"
+msgstr "Selecteer actie"
+
+msgid "Select service to add..."
+msgstr "Selecteer een dienst om toe te voegen..."
+
+msgid "Settings saved successfully !"
+msgstr "Instellingen succesvol opgeslagen!"
+
+msgid "Shell command name"
+msgstr "Shell-opdrachtnaam"
+
+msgid "Show \\\\\\\\"
+msgstr ""
+
+msgid "Show log"
+msgstr "Logboek tonen"
+
+msgid "Skip import on restart GUI"
+msgstr "Importeren overslaan bij herstart GUI"
+
+msgid "Source EPG"
+msgstr "Bron-EPG"
+
 msgid "Sources"
 msgstr "Bronnen"
 
-#: plugin.py:397
-#, python-format
+msgid "Sources saved successfully!"
+msgstr "Bronnen succesvol opgeslagen!"
 
-#: plugin.py:398
-#, fuzzy, python-format
-#| msgid ""
-#| "Importing: %s\n"
-#| "%s events"
+msgid "Specify in which case the EPG must be automatically updated after the box has booted."
+msgstr "Geef aan in welk geval de EPG automatisch moet worden bijgewerkt nadat de box is opgestart."
 
-#: plugin.py:438
-msgid "Automatic import EPG"
-msgstr "Automatische EPG import"
+msgid "Specify the path folder for save EPG.dat file."
+msgstr "Geef de padmap op voor het opgeslagen EPG.dat-bestand."
 
-#: plugin.py:438
+msgid "Specify the source for EPG."
+msgstr "Geef de bron voor EPG op."
 
-#: plugin.py:439
-msgid "Path DB EPG"
-msgstr ""
-
-#: plugin.py:440
-msgid "Automatic start time"
-msgstr "Automatische start tijd"
-
-#: plugin.py:440
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Geef het tijdstip op voor de automatische EPG-update."
 
-#: plugin.py:441
-msgid "When in deep standby"
-msgstr "Indien in deep sleep"
-
-#: plugin.py:441
-
-#: plugin.py:442
-msgid "Return to deep standby after import"
-msgstr "Ga naar deep sleep na de import"
-
-#: plugin.py:442
-
-#: plugin.py:443
 msgid "Standby at startup"
-msgstr "Stand-by na opstarten"
+msgstr "Stand-by bij opstarten"
 
-#: plugin.py:443
-
-#: plugin.py:444
-msgid "Choice days for start import"
-msgstr "Kies dagen voor importeren"
-
-#: plugin.py:444
-msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
-
-#: plugin.py:445
 msgid "Start import after booting up"
-msgstr "Start import na booten."
+msgstr "Start het importeren na het opstarten"
 
-#: plugin.py:445
-
-#: plugin.py:446
-msgid "Load EPG only services in bouquets"
-msgstr "Laad alleen EPG van kanalen in boeketten"
-
-#: plugin.py:446
-
-#: plugin.py:447
-msgid "Load EPG"
-msgstr ""
-
-#: plugin.py:447
-msgid "Select load EPG mode for services."
-msgstr ""
-
-#: plugin.py:448
-
-#: plugin.py:448
-
-#: plugin.py:449
-msgid "Skip import on restart GUI"
-msgstr "Sla import over na herstarten GUI"
-
-#: plugin.py:449
-
-#: plugin.py:450
-#, fuzzy
-#| msgid "Show \"EPGImport\" in extensions"
-msgid "Show \"EPG import now\" in extensions"
-msgstr "Toon \"EPG importeur\" in extensions"
-
-#: plugin.py:450
-
-#: plugin.py:451
-#, fuzzy
-#| msgid "Show \"EPG Importer\" in main menu"
-msgid "Show \"EPG import\" in epg menu"
-msgstr "Toon \"EPG importeur\" in hoofdmenu"
-
-#: plugin.py:451
-
-#: plugin.py:452
-msgid "Load long descriptions up to X days"
-msgstr "Laad lange beschrijvingen voor x dagen"
-
-#: plugin.py:452
-
-#: plugin.py:453
-msgid "Run AutoTimer after import"
-msgstr "Activeer AutoTimer na de import"
-
-#: plugin.py:453
-
-#: plugin.py:454
-msgid "Clearing current EPG before import"
-msgstr "Verwijder EPG voor de import"
-
-#: plugin.py:454
-
-#: plugin.py:455
-msgid "Also apply \"channel id\" filtering on custom.channels.xml"
-msgstr ""
-
-#: plugin.py:455
-
-#: plugin.py:456
-msgid "Execute shell command before import EPG"
-msgstr ""
-
-#: plugin.py:456
-
-#: plugin.py:457
-msgid "Shell command name"
-msgstr ""
-
-#: plugin.py:457
-msgid "Enter shell command name."
-msgstr ""
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
-msgid "Start import after standby"
-msgstr "Start import na booten."
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
 msgid "Start import after resuming from standby mode."
-msgstr "Start import na booten."
+msgstr "Start het importeren nadat u bent hervat vanuit de standby-modus."
 
-#: plugin.py:459
-msgid "Hours after which the import is repeated"
-msgstr ""
+msgid "Start import after standby"
+msgstr "Start het importeren na stand-by"
 
-#: plugin.py:459
+msgid "Sunday"
+msgstr "Zondag"
 
-#: plugin.py:538
-msgid "Settings saved successfully !"
-msgstr ""
+msgid "The waked up box will be turned into standby after automatic EPG import wake up."
+msgstr "De ontwaakte box wordt in stand-by gezet na het automatisch ontwaken van de EPG-import."
 
-#: plugin.py:584
-msgid "Choose Directory:"
-msgstr ""
+msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
+msgstr "Dit is voor gevorderde gebruikers die de kanaal-id-filterfunctie gebruiken. Indien ingeschakeld, zullen de filterregels die zijn gedefinieerd in /etc/epgimport/channel_id_filter.conf ook worden toegepast op uw /etc/epgimport/custom.channels.xml bestand."
 
-#: plugin.py:585
-msgid "Choose directory"
-msgstr ""
+msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
+msgstr "Hierdoor worden de huidige EPG-gegevens in het geheugen gewist voordat de EPG-gegevens worden bijgewerkt. Hierdoor beschikt u altijd over een schone nieuwe EPG met de nieuwste EPG-gegevens, bijvoorbeeld bij programmawijzigingen tussen vernieuwingen, anders zijn EPG-gegevens cumulatief."
 
-#: plugin.py:615
-msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgid "This will turn back waked up box into deep-standby after automatic EPG import."
+msgstr "Hierdoor wordt de ontwaakte box na automatische EPG-import terug in diepe stand-by gezet."
 
-#: plugin.py:647
-msgid "unknown"
-msgstr ""
+msgid "Thursday"
+msgstr "Donderdag"
 
-#: plugin.py:648
-#, python-format
-msgid "Last: %s %s, %d events"
-msgstr "Laatste: %s %s, %d programma's"
+msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
+msgstr "Om geheugen te besparen kunt u ervoor kiezen om alleen EPG-gegevens voor de IPTV-kanalen te laden."
 
-#: plugin.py:658
+msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
+msgstr "Om geheugen te besparen kunt u ervoor kiezen om alleen EPG-gegevens te laden voor de diensten die u in uw boeketbestanden heeft staan."
 
-#: plugin.py:669
-msgid "No active EPG sources found, nothing to do"
-msgstr "Geen actieve bronnen gevonden; niets te doen."
+msgid "Tuesday"
+msgstr "Dinsdag"
 
-#: plugin.py:673
+msgid "Update Sources"
+msgstr "Bronnen bijwerken"
 
-#: plugin.py:685
+msgid "Wednesday"
+msgstr "Woensdag"
 
-#: plugin.py:701
-msgid "Show log"
-msgstr "Toon log"
+msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
+msgstr "Indien ingeschakeld, kunt u een automatische EPG-update plannen op de opgegeven dagen en tijd."
 
-#: plugin.py:753
-#, fuzzy
-#| msgid "EPG Importer"
-msgid "Import"
-msgstr "EPG importeur"
+msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
+msgstr "Indien ingeschakeld, kunt u het gewenste script uitvoeren voordat u met het importeren begint, waarna het importeren van de EPG begint."
 
-#: plugin.py:754
-msgid "Import from Git"
-msgstr ""
+msgid "When in deep standby"
+msgstr "In diepe stand-by"
 
-#: plugin.py:795
-msgid "EPG Import Sources"
-msgstr "EPG Import bronnen"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Wanneer u besluit de EPG te importeren nadat de box is opgestart, vermeld dan of de \\\\\\\\"
 
-#: plugin.py:801
+msgid "When you restart the GUI you can decide to skip or not the EPG data import."
+msgstr "Wanneer u de GUI opnieuw start, kunt u beslissen om de EPG-gegevensimport al dan niet over te slaan."
 
-#: plugin.py:830
-msgid "Source files Imported and List Updated!"
-msgstr ""
-
-#: plugin.py:837
-#, python-format
-msgid "Update Failed: %s"
-msgstr ""
-
-#: plugin.py:844
-msgid "Update Aborted!"
-msgstr ""
-
-#: plugin.py:1014
-msgid "Days Profile"
-msgstr "Dagenprofiel"
-
-#: plugin.py:1020
-
-#: plugin.py:1069
-msgid "Clear"
-msgstr "Verwijder"
-
-#: plugin.py:1100
-msgid "EPG Import Log"
-msgstr "EPG Import log"
-
-#: plugin.py:1106
 msgid "Write to /tmp/epgimport.log"
-msgstr "Schrijf naar /tmp/EPGimport.log"
+msgstr "Schrijf naar /tmp/epgimport.log"
 
-#: plugin.py:1122
-msgid "Last import: "
-msgstr "Laatste import: "
+msgid "You can select the day(s) when the EPG update must be performed."
+msgstr "U kunt de dag(en) selecteren waarop de EPG-update moet worden uitgevoerd."
 
-#: plugin.py:1122
-msgid " events\n"
-msgstr " programma's\n"
+msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
+msgstr "U kunt de plug-in AutoTimer automatisch starten na de update van de EPG-gegevens, zodat de planning wordt vernieuwd nadat de EPG-gegevens zijn vernieuwd."
 
-#: plugin.py:1122
+msgid "always"
+msgstr "altijd"
 
-#: plugin.py:1170
-#, python-format
-msgid "EPG Import finished, %d events"
-msgstr "EPG Import gereed, %d programma's"
+msgid "events\\\\\\\\n"
+msgstr "evenementen\\\\\\\\n"
 
-#: plugin.py:1170
+msgid "never"
+msgstr "nooit"
 
-#: plugin.py:1311
-msgid "No source file found !"
-msgstr ""
+msgid "only automatic boot"
+msgstr "alleen automatisch opstarten"
 
-#: plugin.py:1512 plugin.py:1535
-#, fuzzy
-#| msgid "EPG Importer"
-msgid "EPG Import"
-msgstr "EPG importeur"
+msgid "only manual boot"
+msgstr "alleen handmatig opstarten"
 
-#: plugin.py:1527
-msgid "Automated EPG Importer"
-msgstr "Automatische EPG Importeur"
+msgid "press OK to save list"
+msgstr "druk op OK om de lijst op te slaan"
 
-#: plugin.py:1529
-#, fuzzy
-#| msgid "EPG-Importer"
-msgid "EPG-Importer Now"
-msgstr "EPG importeur"
+msgid "skip the import"
+msgstr "sla het importeren over"
 
-#~ msgid "Ignore services list(press OK to save)"
-#~ msgstr "Negeer zenderlijst ( druk OK voor opslaan)"
+msgid "wake up and import"
+msgstr "wakker worden en importeren"
 
-#~ msgid "Channel Selection"
-#~ msgstr "Zender keuze"
-
-#~ msgid "Import current source"
-#~ msgstr "Importeer huidige bron"
-
-#~ msgid "none"
-#~ msgstr "geen"

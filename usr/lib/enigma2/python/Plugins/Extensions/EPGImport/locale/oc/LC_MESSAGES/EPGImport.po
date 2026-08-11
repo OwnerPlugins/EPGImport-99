@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Ajustar de canal"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Apondre un provesidor"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Totes los provesidors de servicis"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Aplicar tanben \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Importator d'EPG automatizat"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG d'importacion automatica"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Ora de començament automatic"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Jorns de causida per començar l'importacion"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Causissètz Repertòri :"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Causissètz lo repertòri"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Causissètz l'accion a realizar quand la bóstia es en espèra prigonda e que la mesa a jorn automatica de l'EPG deuriá normalament començar."
 
 msgid "Clear"
-msgstr ""
+msgstr "Clar"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Pensatz a definir \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Perfil de jorns"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Definissètz lo nombre de jorns que volètz obténer las donadas EPG completas, reduire aqueste nombre pòt vos ajudar a estalviar l'utilizacion de memòria sus vòstra bóstia. Mas sètz tanben limitat amb las donadas disponiblas del provesidor EPG. Aurètz pas 15 jorns d'EPG se provesís pas que de donadas de 7 jorns."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Suprimir tot"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Suprimir l'EPG actual abans l'importacion"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Suprimir seleccionat"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Afichar un acorchi \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Importacion EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Configuracion d'importacion EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Jornal d'importacion EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Fonts d'importacion EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Importacion EPG acabada, %d eveniments"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Importar EPG ara"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Picatz lo nom de la comanda de shell."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Executatz la comanda shell abans l'importacion d'EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Filtratge : %s Esperatz !"
 
 msgid "Friday"
-msgstr ""
+msgstr "Divendres"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Oras après que l'importacion es repetida"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Ignorar la lista dels servicis"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "L'importacion a fracassat amb una error : {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Importacion : %s %s eveniments"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Darrièra importacion :"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Darrièra importacion : %s %s, %d eveniments"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Darrièra importacion : %s eveniments"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Cargar EPG sonque pels canals IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Cargar los servicis EPG sonque en rams"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Cargar de descripcions longas fins a X jorns"
 
 msgid "Manual"
 msgstr ""
 
 msgid "Monday"
-msgstr ""
+msgstr "Diluns"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Cap de font EPG activa trobada, pas res a far"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Pas cap de fichièr font trobat !"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Nombre d'oras (1-23, o 0 per pas cap de repeticion) après que l'importacion es repetida. Aquesta valor es pas enregistrada e serà reïnicializada quand l'interfaci grafica reaviada."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Camin DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Quichatz sus D'acòrdi"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Suprimir vertadièrament tota la lista?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Tornar a l'espèra prigonda après l'importacion"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Executatz lo temporizator automatic après l'importacion"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SELECCIONATZ VÒSTRA CHOIX"
 
 msgid "Saturday"
-msgstr ""
+msgstr "dissabte"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Select action"
-msgstr ""
+msgstr "Seleccionar l'accion"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Seleccionatz lo servici per apondre..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Los paramètres enregistrats amb succès !"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Nom de comanda de shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Mostrar \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Mostrar lo jornal"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Sautar l'importacion al reaviada de l'interfaci grafica"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Font EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Fonts"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Las fonts enregistradas amb succès!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Especificatz dins quin cas l'EPG deu èsser mes a jorn automaticament après que la bóstia s'es aviada."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Especificatz lo dorsièr de camin per l'enregistrament del fichièr EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Especificatz la font per EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Especificatz l'ora per la mesa a jorn automatica de l'EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "En espèra a l'aviada"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Començar l'importacion après l'aviada"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Aviar l'importacion après la represa del mòde d'espèra."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Començar l'importacion après l'espèra"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Dimenge"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "La bóstia desrevelhada serà convertida en espera après lo desvelh automatic de l'importacion EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Aquò es pels utilizaires avançats qu'utilizan la foncionalitat de filtratge de l'id de canal. Se activat, las règlas de filtre definidas dins /etc/epgimport/channel_id_filter.conf seràn tanben aplicadas sus vòstre fichièr /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Aquò escafarà las donadas EPG actualas dins la memòria abans de metre a jorn las donadas EPG. Aquò vos permet d'aver totjorn un EPG novèl net amb las donadas EPG mai recentas, per exemple en cas de cambiaments de programa entre l'actualizacion, autrament las donadas EPG son acumulativas."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Aquò transformarà la bóstia desrevelhada en espèra prigonda après l'importacion automatica d'EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "dijòus"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Per estalviar de memòria podètz decidir de cargar de donadas EPG sonque pels canals IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Per estalviar de memòria podètz decidir de cargar pas que de donadas EPG pels servicis qu'avètz dins vòstres fichièrs de bouquet."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "dimars"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Fonts de mesa a jorn"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "dimècres"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Quand es activat, vos permet de programar una mesa a jorn automatica EPG als jorns e a l'ora donadas."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Quand activat, podètz alara executar l'escript desirat abans de començar l'importacion, après que l'importacion de l'EPG començarà."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Quand es en espèra prigonda"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Quand decidissètz d'importar l'EPG après que la bóstia s'es aviada mencionatz se lo \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Quand reaviatz l'interfaci grafica podètz decidir de sautar o pas l'importacion de donadas EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Escriure sus /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Podètz seleccionar lo(s) jorn(s) ont la mesa a jorn EPG deu èsser efectuada."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Podètz aviar automaticament l'ensamblador AutoTimer après la mesa a jorn de donadas EPG per lo far actualizar son programacion après l'actualizacion de donadas EPG."
 
 msgid "always"
-msgstr ""
+msgstr "totjorn"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "eveniments\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "jamai"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "sonque arrenjament automatic"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "sonque arrenjament manual"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "quichatz sus D'acòrdi per enregistrar la lista"
 
 msgid "skip the import"
-msgstr ""
+msgstr "sautar l'importacion"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "desrevelhar e importar"
+

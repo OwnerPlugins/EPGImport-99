@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "ਚੈਨਲ ਸ਼ਾਮਲ ਕਰੋ"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "ਪ੍ਰਦਾਤਾ ਸ਼ਾਮਲ ਕਰੋ"
 
 msgid "All services provider"
-msgstr ""
+msgstr "ਸਾਰੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "ਵੀ ਲਾਗੂ ਕਰੋ \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "ਆਟੋਮੇਟਿਡ EPG ਆਯਾਤਕ"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "ਆਟੋਮੈਟਿਕ ਆਯਾਤ EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "ਆਟੋਮੈਟਿਕ ਸ਼ੁਰੂਆਤੀ ਸਮਾਂ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "ਆਯਾਤ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਚੋਣ ਦਿਨ"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "ਬਾਕਸ ਡੂੰਘੇ ਸਟੈਂਡਬਾਏ ਵਿੱਚ ਹੋਣ ਅਤੇ ਸਵੈਚਲਿਤ EPG ਅੱਪਡੇਟ ਆਮ ਤੌਰ 'ਤੇ ਸ਼ੁਰੂ ਹੋਣ 'ਤੇ ਕਰਨ ਲਈ ਕਾਰਵਾਈ ਚੁਣੋ।"
 
 msgid "Clear"
-msgstr ""
+msgstr "ਸਾਫ਼"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "ਸੈਟਿੰਗ 'ਤੇ ਵਿਚਾਰ ਕਰੋ \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "ਦਿਨ ਪ੍ਰੋਫ਼ਾਈਲ"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "ਉਹਨਾਂ ਦਿਨਾਂ ਦੀ ਸੰਖਿਆ ਨੂੰ ਪਰਿਭਾਸ਼ਿਤ ਕਰੋ ਜਦੋਂ ਤੁਸੀਂ ਪੂਰਾ EPG ਡੇਟਾ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਇਸ ਸੰਖਿਆ ਨੂੰ ਘਟਾਉਣ ਨਾਲ ਤੁਹਾਨੂੰ ਆਪਣੇ ਬਾਕਸ 'ਤੇ ਮੈਮੋਰੀ ਵਰਤੋਂ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਮਿਲ ਸਕਦੀ ਹੈ। ਪਰ ਤੁਸੀਂ EPG ਪ੍ਰਦਾਤਾ ਉਪਲਬਧ ਡੇਟਾ ਨਾਲ ਵੀ ਸੀਮਿਤ ਹੋ। ਤੁਹਾਡੇ ਕੋਲ 15 ਦਿਨਾਂ ਦਾ EPG ਨਹੀਂ ਹੋਵੇਗਾ ਜੇਕਰ ਇਹ ਸਿਰਫ਼ 7 ਦਿਨਾਂ ਦਾ ਡਾਟਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ।"
 
 msgid "Delete all"
-msgstr ""
+msgstr "ਸਭ ਨੂੰ ਮਿਟਾਓ"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "ਆਯਾਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ EPG ਮਿਟਾਓ"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "ਚੁਣਿਆ ਮਿਟਾਓ"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਦਿਖਾਓ \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "EPG ਆਯਾਤ"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "EPG ਆਯਾਤ ਸੰਰਚਨਾ"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "EPG ਆਯਾਤ ਲੌਗ"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "ਈਪੀਜੀ ਆਯਾਤ ਸਰੋਤ"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "EPG ਆਯਾਤ ਸਮਾਪਤ, %d ਇਵੈਂਟ"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "EPG ਹੁਣੇ ਆਯਾਤ ਕਰੋ"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "ਸ਼ੈੱਲ ਕਮਾਂਡ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ।"
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "EPG ਆਯਾਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸ਼ੈੱਲ ਕਮਾਂਡ ਚਲਾਓ"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "ਫਿਲਟਰਿੰਗ: %s ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ!"
 
 msgid "Friday"
-msgstr ""
+msgstr "ਸ਼ੁੱਕਰਵਾਰ"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "ਘੰਟਿਆਂ ਬਾਅਦ ਆਯਾਤ ਦੁਹਰਾਇਆ ਜਾਂਦਾ ਹੈ"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "ਸੇਵਾਵਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ"
 
 msgid "Import"
-msgstr ""
+msgstr "ਆਯਾਤ ਕਰੋ"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "ਗਲਤੀ ਨਾਲ ਆਯਾਤ ਅਸਫਲ ਹੋਇਆ: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "ਆਯਾਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ: %s %s ਸਮਾਗਮ"
 
 msgid "Last import:"
-msgstr ""
+msgstr "ਆਖਰੀ ਆਯਾਤ:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "ਆਖਰੀ ਆਯਾਤ: %s %s, %d ਇਵੈਂਟ"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "ਆਖਰੀ ਆਯਾਤ: %s ਇਵੈਂਟ"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "ਸਿਰਫ਼ IPTV ਚੈਨਲਾਂ ਲਈ EPG ਲੋਡ ਕਰੋ"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "ਸਿਰਫ਼ EPG ਸੇਵਾਵਾਂ ਨੂੰ ਗੁਲਦਸਤੇ ਵਿੱਚ ਲੋਡ ਕਰੋ"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "X ਦਿਨਾਂ ਤੱਕ ਲੰਬੇ ਵੇਰਵੇ ਲੋਡ ਕਰੋ"
 
 msgid "Manual"
-msgstr ""
+msgstr "ਮੈਨੁਅਲ"
 
 msgid "Monday"
-msgstr ""
+msgstr "ਸੋਮਵਾਰ"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "ਕੋਈ ਸਰਗਰਮ EPG ਸਰੋਤ ਨਹੀਂ ਮਿਲੇ, ਕਰਨ ਲਈ ਕੁਝ ਨਹੀਂ"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "ਕੋਈ ਸਰੋਤ ਫਾਈਲ ਨਹੀਂ ਮਿਲੀ!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "ਘੰਟਿਆਂ ਦੀ ਸੰਖਿਆ (1-23, ਜਾਂ ਦੁਹਰਾਉਣ ਲਈ 0) ਜਿਸ ਤੋਂ ਬਾਅਦ ਆਯਾਤ ਦੁਹਰਾਇਆ ਜਾਂਦਾ ਹੈ। ਇਹ ਮੁੱਲ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ GUI ਮੁੜ ਚਾਲੂ ਹੋਣ 'ਤੇ ਰੀਸੈਟ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "ਪਾਥ DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "OK ਦਬਾਓ"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "ਕੀ ਸੱਚਮੁੱਚ ਸਾਰੀ ਸੂਚੀ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "ਆਯਾਤ ਕਰਨ ਤੋਂ ਬਾਅਦ ਡੂੰਘੇ ਸਟੈਂਡਬਾਏ 'ਤੇ ਵਾਪਸ ਜਾਓ"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "ਆਯਾਤ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਟੋਟਾਈਮਰ ਚਲਾਓ"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ਆਪਣੀ ਚੋਣ ਚੁਣੋ"
 
 msgid "Saturday"
-msgstr ""
+msgstr "ਸ਼ਨੀਵਾਰ"
 
 msgid "Save"
-msgstr ""
+msgstr "ਸੇਵ ਕਰੋ"
 
 msgid "Select action"
-msgstr ""
+msgstr "ਕਾਰਵਾਈ ਚੁਣੋ"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਸੇਵਾ ਚੁਣੋ..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ਸੈਟਿੰਗਾਂ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਗਈਆਂ!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "ਸ਼ੈੱਲ ਕਮਾਂਡ ਦਾ ਨਾਮ"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "ਦਿਖਾਓ \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "ਲੌਗ ਦਿਖਾਓ"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "GUI ਰੀਸਟਾਰਟ ਕਰਨ 'ਤੇ ਆਯਾਤ ਛੱਡੋ"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "ਸਰੋਤ EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "ਸਰੋਤ"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "ਸਰੋਤ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਗਏ!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "ਦੱਸੋ ਕਿ ਕਿਸ ਸਥਿਤੀ ਵਿੱਚ ਬਾਕਸ ਦੇ ਬੂਟ ਹੋਣ ਤੋਂ ਬਾਅਦ EPG ਨੂੰ ਆਪਣੇ ਆਪ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "EPG.dat ਫਾਈਲ ਨੂੰ ਸੇਵ ਕਰਨ ਲਈ ਪਾਥ ਫੋਲਡਰ ਦਿਓ।"
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "EPG ਲਈ ਸਰੋਤ ਦਿਓ।"
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ਆਟੋਮੈਟਿਕ EPG ਅੱਪਡੇਟ ਲਈ ਸਮਾਂ ਦੱਸੋ।"
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "ਸਟਾਰਟਅੱਪ 'ਤੇ ਸਟੈਂਡਬਾਏ"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "ਬੂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਯਾਤ ਸ਼ੁਰੂ ਕਰੋ"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "ਸਟੈਂਡਬਾਏ ਮੋਡ ਤੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਯਾਤ ਸ਼ੁਰੂ ਕਰੋ।"
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "ਸਟੈਂਡਬਾਏ ਤੋਂ ਬਾਅਦ ਆਯਾਤ ਸ਼ੁਰੂ ਕਰੋ"
 
 msgid "Sunday"
-msgstr ""
+msgstr "ਐਤਵਾਰ"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "ਆਟੋਮੈਟਿਕ EPG ਇੰਪੋਰਟ ਵੇਕ ਅੱਪ ਹੋਣ ਤੋਂ ਬਾਅਦ ਵੇਕ ਅੱਪ ਬਾਕਸ ਨੂੰ ਸਟੈਂਡਬਾਏ ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਜਾਵੇਗਾ।"
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "ਇਹ ਉੱਨਤ ਉਪਭੋਗਤਾਵਾਂ ਲਈ ਹੈ ਜੋ ਚੈਨਲ ਆਈਡੀ ਫਿਲਟਰਿੰਗ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹਨ। ਜੇਕਰ ਸਮਰਥਿਤ ਹੈ, ਤਾਂ /etc/epgimport/channel_id_filter.conf ਵਿੱਚ ਪਰਿਭਾਸ਼ਿਤ ਫਿਲਟਰ ਨਿਯਮ ਤੁਹਾਡੀ /etc/epgimport/custom.channels.xml ਫਾਈਲ 'ਤੇ ਵੀ ਲਾਗੂ ਕੀਤੇ ਜਾਣਗੇ।"
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "ਇਹ EPG ਡੇਟਾ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੈਮੋਰੀ ਵਿੱਚ ਮੌਜੂਦਾ EPG ਡੇਟਾ ਨੂੰ ਸਾਫ਼ ਕਰੇਗਾ। ਇਹ ਤੁਹਾਨੂੰ ਨਵੀਨਤਮ EPG ਡੇਟਾ ਦੇ ਨਾਲ ਹਮੇਸ਼ਾਂ ਇੱਕ ਸਾਫ਼ ਨਵਾਂ EPG ਰੱਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ, ਉਦਾਹਰਨ ਲਈ ਰਿਫ੍ਰੈਸ਼ ਦੇ ਵਿਚਕਾਰ ਪ੍ਰੋਗਰਾਮ ਵਿੱਚ ਤਬਦੀਲੀਆਂ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਨਹੀਂ ਤਾਂ EPG ਡੇਟਾ ਸੰਚਤ ਹੁੰਦਾ ਹੈ।"
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "ਇਹ ਸਵੈਚਲਿਤ EPG ਆਯਾਤ ਤੋਂ ਬਾਅਦ ਵਾਪਿਸ ਵੇਕਡ ਬਾਕਸ ਨੂੰ ਡੂੰਘੇ ਸਟੈਂਡਬਾਏ ਵਿੱਚ ਬਦਲ ਦੇਵੇਗਾ।"
 
 msgid "Thursday"
-msgstr ""
+msgstr "ਵੀਰਵਾਰ"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "ਮੈਮੋਰੀ ਬਚਾਉਣ ਲਈ ਤੁਸੀਂ ਸਿਰਫ ਆਈਪੀਟੀਵੀ ਚੈਨਲਾਂ ਲਈ ਈਪੀਜੀ ਡੇਟਾ ਲੋਡ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕਰ ਸਕਦੇ ਹੋ।"
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "ਮੈਮੋਰੀ ਬਚਾਉਣ ਲਈ ਤੁਸੀਂ ਸਿਰਫ਼ ਉਹਨਾਂ ਸੇਵਾਵਾਂ ਲਈ ਈਪੀਜੀ ਡੇਟਾ ਲੋਡ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਹਾਡੀਆਂ ਗੁਲਦਸਤੇ ਫਾਈਲਾਂ ਵਿੱਚ ਹਨ।"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "ਮੰਗਲਵਾਰ"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "ਸਰੋਤ ਅੱਪਡੇਟ ਕਰੋ"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "ਬੁੱਧਵਾਰ"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "ਜਦੋਂ ਸਮਰਥਿਤ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਇਹ ਤੁਹਾਨੂੰ ਦਿੱਤੇ ਗਏ ਦਿਨਾਂ ਅਤੇ ਸਮੇਂ 'ਤੇ ਇੱਕ ਆਟੋਮੈਟਿਕ EPG ਅੱਪਡੇਟ ਨਿਯਤ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।"
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "ਜਦੋਂ ਯੋਗ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਆਯਾਤ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਲੋੜੀਂਦੀ ਸਕ੍ਰਿਪਟ ਚਲਾ ਸਕਦੇ ਹੋ, ਜਿਸ ਤੋਂ ਬਾਅਦ EPG ਦਾ ਆਯਾਤ ਸ਼ੁਰੂ ਹੋ ਜਾਵੇਗਾ।"
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "ਜਦੋਂ ਡੂੰਘੇ ਸਟੈਂਡਬਾਏ ਵਿੱਚ ਹੋਵੇ"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "ਜਦੋਂ ਤੁਸੀਂ ਬਾਕਸ ਬੂਟ ਹੋਣ ਤੋਂ ਬਾਅਦ EPG ਨੂੰ ਆਯਾਤ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕਰਦੇ ਹੋ ਤਾਂ ਜ਼ਿਕਰ ਕਰੋ ਜੇਕਰ \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "ਜਦੋਂ ਤੁਸੀਂ GUI ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ EPG ਡੇਟਾ ਆਯਾਤ ਨੂੰ ਛੱਡਣ ਜਾਂ ਨਾ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕਰ ਸਕਦੇ ਹੋ।"
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "/tmp/epgimport.log 'ਤੇ ਲਿਖੋ"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "ਤੁਸੀਂ ਉਹ ਦਿਨ ਚੁਣ ਸਕਦੇ ਹੋ ਜਦੋਂ EPG ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "ਤੁਸੀਂ ਈਪੀਜੀ ਡੇਟਾ ਅਪਡੇਟ ਤੋਂ ਬਾਅਦ ਪਲੱਗਇਨ ਆਟੋਟਾਈਮਰ ਨੂੰ ਆਪਣੇ ਆਪ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਜੋ ਇਹ ਈਪੀਜੀ ਡੇਟਾ ਰਿਫ੍ਰੈਸ਼ ਤੋਂ ਬਾਅਦ ਇਸਦੀ ਸਮਾਂ-ਸੂਚੀ ਨੂੰ ਤਾਜ਼ਾ ਕਰ ਸਕੇ।"
 
 msgid "always"
-msgstr ""
+msgstr "ਹਮੇਸ਼ਾ"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "ਘਟਨਾਵਾਂ\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "ਕਦੇ ਨਹੀਂ"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "ਸਿਰਫ ਆਟੋਮੈਟਿਕ ਬੂਟ"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "ਸਿਰਫ਼ ਦਸਤੀ ਬੂਟ"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "ਸੂਚੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਠੀਕ ਦਬਾਓ"
 
 msgid "skip the import"
-msgstr ""
+msgstr "ਆਯਾਤ ਛੱਡੋ"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "ਜਾਗੋ ਅਤੇ ਆਯਾਤ ਕਰੋ"
+

@@ -1,430 +1,317 @@
+# EPGImport translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: EPG Import\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-26 14:47+0100\n"
+"Project-Id-Version: EPGImport\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: MCelliot_g <mcelliot_g@hotmail.com>\n"
-"Language-Team: \n"
+"Last-Translator: \n"
+"Language-Team: el <ekekaz@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
-"X-Poedit-Basepath: ../../..\n"
-"X-Poedit-SearchPath-0: .\n"
 
-#: filtersServices.py:151
+msgid "Add Channel"
+msgstr "Προσθήκη καναλιού"
+
 msgid "Add Provider"
 msgstr "Προσθήκη παρόχου"
 
-#: filtersServices.py:152
-msgid "Add Channel"
-msgstr "Προσθήκη Καναλιού"
-
-#: filtersServices.py:154
-msgid "press OK to save list"
-msgstr ""
-
-#: filtersServices.py:173 plugin.py:703
-msgid "Ignore services list"
-msgstr "Αγνόηση λίστας υπηρεσιών"
-
-#: filtersServices.py:202
-msgid "Really delete all list?"
-msgstr "Σίγουρα να διαγραφούν όλες οι λίστες;"
-
-#: filtersServices.py:235
-msgid "Delete selected"
-msgstr "Διαγραφή επιλεγμένου"
-
-#: filtersServices.py:236
-msgid "Delete all"
-msgstr "Διαγραφή όλων"
-
-#: filtersServices.py:261
-msgid "Select service to add..."
-msgstr ""
-
-#: filtersServices.py:269
 msgid "All services provider"
 msgstr "Πάροχος όλων των υπηρεσιών"
 
-#: filtersServices.py:288 plugin.py:704
-msgid "Select action"
-msgstr "Επιλογή ενέργειας"
+msgid "Also apply \\\\\\\\"
+msgstr "Εφαρμόστε επίσης \\\\\\\\"
 
-#: plugin.py:101
-msgid "always"
-msgstr "πάντα"
+msgid "Automated EPG Importer"
+msgstr "Αυτοματοποιημένος εισαγωγέας EPG"
 
-#: plugin.py:102
-msgid "only manual boot"
-msgstr "μόνο χειροκίνητη εκκίνηση"
-
-#: plugin.py:103
-msgid "only automatic boot"
-msgstr "μόνο αυτόματη εκκίνηση"
-
-#: plugin.py:104
-msgid "never"
-msgstr "ποτέ"
-
-#: plugin.py:114
-msgid "wake up and import"
-msgstr "αφύπνιση και εισαγωγή"
-
-#: plugin.py:115
-msgid "skip the import"
-msgstr "παράκαμψη εισαγωγής"
-
-#: plugin.py:121
-msgid "checking service reference(default)"
-msgstr ""
-
-#: plugin.py:122
-msgid "only IPTV channels"
-msgstr ""
-
-#: plugin.py:123
-#, fuzzy
-#| msgid "Add Channel"
-msgid "all channels"
-msgstr "Προσθήκη Καναλιού"
-
-#: plugin.py:139
-msgid "Press OK"
-msgstr "Πιέστε ΟΚ"
-
-#: plugin.py:148
-msgid "Monday"
-msgstr "Δευτέρα"
-
-#: plugin.py:149
-msgid "Tuesday"
-msgstr "Τρίτη"
-
-#: plugin.py:150
-msgid "Wednesday"
-msgstr "Τετάρτη"
-
-#: plugin.py:151
-msgid "Thursday"
-msgstr "Πέμπτη"
-
-#: plugin.py:152
-msgid "Friday"
-msgstr "Παρασκευή"
-
-#: plugin.py:153
-msgid "Saturday"
-msgstr "Σάββατο"
-
-#: plugin.py:154
-msgid "Sunday"
-msgstr "Κυριακή"
-
-#: plugin.py:357
-msgid "EPG Import Configuration"
-msgstr "Ρυθμίσεις Εισαγωγής EPG"
-
-#: plugin.py:360 plugin.py:653
-#, python-format
-msgid "Last import: %s events"
-msgstr "Τελευταία εισαγωγή: %s προγράμματα"
-
-#: plugin.py:361 plugin.py:751 plugin.py:995
-msgid "Cancel"
-msgstr "Ακύρωση"
-
-#: plugin.py:362 plugin.py:752 plugin.py:996 plugin.py:1072
-msgid "Save"
-msgstr "Αποθήκευση"
-
-#: plugin.py:363
-msgid "Manual"
-msgstr "Χειροκίνητα"
-
-#: plugin.py:364
-msgid "Sources"
-msgstr "Πηγές"
-
-#: plugin.py:397
-#, python-format
-
-#: plugin.py:398
-#, fuzzy, python-format
-#| msgid ""
-#| "Importing: %s\n"
-#| "%s events"
-
-#: plugin.py:438
 msgid "Automatic import EPG"
 msgstr "Αυτόματη εισαγωγή EPG"
 
-#: plugin.py:438
-
-#: plugin.py:439
-msgid "Path DB EPG"
-msgstr ""
-
-#: plugin.py:440
 msgid "Automatic start time"
 msgstr "Αυτόματη ώρα έναρξης"
 
-#: plugin.py:440
-msgid "Specify the time for the automatic EPG update."
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+msgid "Choice days for start import"
+msgstr "Ημέρες επιλογής για έναρξη εισαγωγής"
+
+msgid "Choose Directory:"
+msgstr "Επιλέξτε Κατάλογο:"
+
+msgid "Choose directory"
+msgstr "Επιλέξτε κατάλογο"
+
+msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
+msgstr "Επιλέξτε την ενέργεια που θα εκτελεστεί όταν το πλαίσιο βρίσκεται σε βαθιά αναμονή και η αυτόματη ενημέρωση EPG θα πρέπει κανονικά να ξεκινήσει."
+
+msgid "Clear"
+msgstr "Σαφής"
+
+msgid "Consider setting \\\\\\\\"
+msgstr "Εξετάστε το ενδεχόμενο ρύθμισης \\\\\\\\"
+
+msgid "Days Profile"
+msgstr "Προφίλ ημερών"
+
+msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
+msgstr "Καθορίστε τον αριθμό των ημερών που θέλετε να λαμβάνετε τα πλήρη δεδομένα EPG, η μείωση αυτού του αριθμού μπορεί να σας βοηθήσει να εξοικονομήσετε τη χρήση μνήμης στο κουτί σας. Αλλά είστε επίσης περιορισμένοι με τα διαθέσιμα δεδομένα του παρόχου EPG. Δεν θα έχετε EPG 15 ημερών εάν παρέχει δεδομένα μόνο 7 ημερών."
+
+msgid "Delete all"
+msgstr "Διαγραφή όλων"
+
+msgid "Delete current EPG before import"
+msgstr "Διαγράψτε το τρέχον EPG πριν από την εισαγωγή"
+
+msgid "Delete selected"
+msgstr "Διαγραφή επιλεγμένων"
+
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Εμφάνιση συντόμευσης \\\\\\\\"
+
+msgid "EPG Import"
+msgstr "Εισαγωγή EPG"
+
+msgid "EPG Import Configuration"
+msgstr "Διαμόρφωση εισαγωγής EPG"
+
+msgid "EPG Import Log"
+msgstr "Μητρώο εισαγωγής EPG"
+
+msgid "EPG Import Sources"
+msgstr "Πηγές εισαγωγής EPG"
+
+msgid "EPG Import finished, %d events"
+msgstr "Η εισαγωγή EPG ολοκληρώθηκε, %d συμβάντα"
+
+msgid "EPG import now"
+msgstr "Εισαγωγή EPG τώρα"
+
+msgid "EPGImport"
 msgstr ""
 
-#: plugin.py:441
-msgid "When in deep standby"
-msgstr "Σε βαθιά αναμονή"
+msgid "Enter shell command name."
+msgstr "Εισαγάγετε το όνομα της εντολής φλοιού."
 
-#: plugin.py:441
+msgid "Execute shell command before import EPG"
+msgstr "Εκτελέστε την εντολή φλοιού πριν την εισαγωγή του EPG"
 
-#: plugin.py:442
+msgid "Filtering: %s Please wait!"
+msgstr "Φιλτράρισμα: %s Περιμένετε!"
+
+msgid "Friday"
+msgstr "Παρασκευή"
+
+msgid "Hours after which the import is repeated"
+msgstr "Ώρες μετά τις οποίες επαναλαμβάνεται η εισαγωγή"
+
+msgid "Ignore services list"
+msgstr "Παράβλεψη λίστας υπηρεσιών"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Import failed with error: {}"
+msgstr "Η εισαγωγή απέτυχε με σφάλμα: {}"
+
+msgid "Importing: %s %s events"
+msgstr "Εισαγωγή: %s %s συμβάντων"
+
+msgid "Last import:"
+msgstr "Τελευταία εισαγωγή:"
+
+msgid "Last import: %s %s, %d events"
+msgstr "Τελευταία εισαγωγή: %s %s, %d συμβάντα"
+
+msgid "Last import: %s events"
+msgstr "Τελευταία εισαγωγή: %s συμβάντα"
+
+msgid "Load EPG only for IPTV channels"
+msgstr "Φόρτωση EPG μόνο για κανάλια IPTV"
+
+msgid "Load EPG only services in bouquets"
+msgstr "Τοποθετήστε μόνο υπηρεσίες EPG σε μπουκέτα"
+
+msgid "Load long descriptions up to X days"
+msgstr "Φορτώστε μεγάλες περιγραφές έως και X ημέρες"
+
+msgid "Manual"
+msgstr "Εγχειρίδιο"
+
+msgid "Monday"
+msgstr "Δευτέρα"
+
+msgid "No active EPG sources found, nothing to do"
+msgstr "Δεν βρέθηκαν ενεργές πηγές EPG, καμία σχέση"
+
+msgid "No source file found !"
+msgstr "Δεν βρέθηκε αρχείο πηγής!"
+
+msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
+msgstr "Αριθμός ωρών (1-23, ή 0 για μη επανάληψη) μετά τις οποίες επαναλαμβάνεται η εισαγωγή. Αυτή η τιμή δεν αποθηκεύεται και θα επαναφερθεί κατά την επανεκκίνηση του GUI."
+
+msgid "Path DB EPG"
+msgstr "Μονοπάτι DB EPG"
+
+msgid "Press OK"
+msgstr "Πατήστε OK"
+
+msgid "Really delete all list?"
+msgstr "Αλήθεια να διαγραφεί όλη η λίστα;"
+
 msgid "Return to deep standby after import"
 msgstr "Επιστροφή σε βαθιά αναμονή μετά την εισαγωγή"
 
-#: plugin.py:442
+msgid "Run AutoTimer after import"
+msgstr "Εκτελέστε το AutoTimer μετά την εισαγωγή"
 
-#: plugin.py:443
+msgid "SELECT YOUR CHOICE"
+msgstr "ΕΠΙΛΕΞΤΕ ΤΗΝ ΕΠΙΛΟΓΗ ΣΑΣ"
+
+msgid "Saturday"
+msgstr "Σάββατο"
+
+msgid "Save"
+msgstr "Εκτός"
+
+msgid "Select action"
+msgstr "Επιλέξτε δράση"
+
+msgid "Select service to add..."
+msgstr "Επιλέξτε υπηρεσία για προσθήκη..."
+
+msgid "Settings saved successfully !"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία!"
+
+msgid "Shell command name"
+msgstr "Όνομα εντολής Shell"
+
+msgid "Show \\\\\\\\"
+msgstr "Εμφάνιση \\\\\\\\"
+
+msgid "Show log"
+msgstr "Εμφάνιση αρχείου καταγραφής"
+
+msgid "Skip import on restart GUI"
+msgstr "Παράλειψη εισαγωγής κατά την επανεκκίνηση του GUI"
+
+msgid "Source EPG"
+msgstr "Πηγή EPG"
+
+msgid "Sources"
+msgstr "Πηγές"
+
+msgid "Sources saved successfully!"
+msgstr "Οι πηγές αποθηκεύτηκαν με επιτυχία!"
+
+msgid "Specify in which case the EPG must be automatically updated after the box has booted."
+msgstr "Καθορίστε σε ποια περίπτωση το EPG πρέπει να ενημερώνεται αυτόματα μετά την εκκίνηση του πλαισίου."
+
+msgid "Specify the path folder for save EPG.dat file."
+msgstr "Καθορίστε το φάκελο διαδρομής για την αποθήκευση του αρχείου EPG.dat."
+
+msgid "Specify the source for EPG."
+msgstr "Καθορίστε την πηγή για το EPG."
+
+msgid "Specify the time for the automatic EPG update."
+msgstr "Καθορίστε την ώρα για την αυτόματη ενημέρωση EPG."
+
 msgid "Standby at startup"
 msgstr "Αναμονή κατά την εκκίνηση"
 
-#: plugin.py:443
-
-#: plugin.py:444
-msgid "Choice days for start import"
-msgstr "Επιλογή ημερών για εκκίνηση εισαγωγής"
-
-#: plugin.py:444
-msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
-
-#: plugin.py:445
 msgid "Start import after booting up"
-msgstr "Έναρξη εισαγωγής μετά την εκκίνηση"
+msgstr "Ξεκινήστε την εισαγωγή μετά την εκκίνηση"
 
-#: plugin.py:445
-
-#: plugin.py:446
-msgid "Load EPG only services in bouquets"
-msgstr "Φόρτωση μόνο υπηρεσιών με EPG στα μπουκέτα"
-
-#: plugin.py:446
-
-#: plugin.py:447
-msgid "Load EPG"
-msgstr ""
-
-#: plugin.py:447
-msgid "Select load EPG mode for services."
-msgstr ""
-
-#: plugin.py:448
-
-#: plugin.py:448
-
-#: plugin.py:449
-msgid "Skip import on restart GUI"
-msgstr "Παράκαμψη εισαγωγής κατά την επανεκκίνηση του GUI"
-
-#: plugin.py:449
-
-#: plugin.py:450
-#, fuzzy
-#| msgid "Show \"EPGImport\" in extensions"
-msgid "Show \"EPG import now\" in extensions"
-msgstr "Εμφάνιση της \"Εισαγωγής EPG\" στις επεκτάσεις"
-
-#: plugin.py:450
-
-#: plugin.py:451
-#, fuzzy
-msgid "Show \"EPG import\" in epg menu"
-msgstr "Εμφάνιση της \"Εισαγωγής EPG\" στις επεκτάσεις"
-
-#: plugin.py:451
-
-#: plugin.py:452
-msgid "Load long descriptions up to X days"
-msgstr "Φόρτωση εκτεταμένων περιγραφών έως και Χ ημέρες"
-
-#: plugin.py:452
-
-#: plugin.py:453
-msgid "Run AutoTimer after import"
-msgstr "Εκτέλεση Αυτόματου Χρονοδιακόπτη μετά την εισαγωγή"
-
-#: plugin.py:453
-
-#: plugin.py:454
-msgid "Clearing current EPG before import"
-msgstr "Καθαρισμός τρέχοντος EPG πριν την εισαγωγή"
-
-#: plugin.py:454
-
-#: plugin.py:455
-msgid "Also apply \"channel id\" filtering on custom.channels.xml"
-msgstr ""
-
-#: plugin.py:455
-
-#: plugin.py:456
-msgid "Execute shell command before import EPG"
-msgstr ""
-
-#: plugin.py:456
-
-#: plugin.py:457
-msgid "Shell command name"
-msgstr ""
-
-#: plugin.py:457
-msgid "Enter shell command name."
-msgstr ""
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
-msgid "Start import after standby"
-msgstr "Έναρξη εισαγωγής μετά την εκκίνηση"
-
-#: plugin.py:458
-#, fuzzy
-#| msgid "Start import after booting up"
 msgid "Start import after resuming from standby mode."
-msgstr "Έναρξη εισαγωγής μετά την εκκίνηση"
+msgstr "Ξεκινήστε την εισαγωγή αφού συνεχίσετε από την κατάσταση αναμονής."
 
-#: plugin.py:459
-msgid "Hours after which the import is repeated"
-msgstr ""
+msgid "Start import after standby"
+msgstr "Ξεκινήστε την εισαγωγή μετά την αναμονή"
 
-#: plugin.py:459
+msgid "Sunday"
+msgstr "Κυριακή"
 
-#: plugin.py:538
-msgid "Settings saved successfully !"
-msgstr ""
+msgid "The waked up box will be turned into standby after automatic EPG import wake up."
+msgstr "Το πλαίσιο αφύπνισης θα μετατραπεί σε κατάσταση αναμονής μετά την αυτόματη αφύπνιση εισαγωγής EPG."
 
-#: plugin.py:584
-msgid "Choose Directory:"
-msgstr ""
+msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
+msgstr "Αυτό είναι για προχωρημένους χρήστες που χρησιμοποιούν τη λειτουργία φιλτραρίσματος αναγνωριστικού καναλιού. Εάν είναι ενεργοποιημένοι, οι κανόνες φίλτρου που ορίζονται στο /etc/epgimport/channel_id_filter.conf θα εφαρμοστούν επίσης στο αρχείο σας /etc/epgimport/custom.channels.xml."
 
-#: plugin.py:585
-msgid "Choose directory"
-msgstr ""
+msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
+msgstr "Αυτό θα διαγράψει τα τρέχοντα δεδομένα EPG στη μνήμη πριν από την ενημέρωση των δεδομένων EPG. Αυτό σας επιτρέπει να έχετε πάντα ένα καθαρό νέο EPG με τα πιο πρόσφατα δεδομένα EPG, για παράδειγμα σε περίπτωση αλλαγής προγράμματος μεταξύ ανανέωσης, διαφορετικά τα δεδομένα EPG είναι αθροιστικά."
 
-#: plugin.py:615
-msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgid "This will turn back waked up box into deep-standby after automatic EPG import."
+msgstr "Αυτό θα επαναφέρει το wake up box σε βαθιά αναμονή μετά την αυτόματη εισαγωγή EPG."
 
-#: plugin.py:647
-msgid "unknown"
-msgstr ""
+msgid "Thursday"
+msgstr "Πέμπτη"
 
-#: plugin.py:648
-#, python-format
-msgid "Last: %s %s, %d events"
-msgstr "Τελευταίο: %s %s, %d προγράμματα"
+msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
+msgstr "Για να εξοικονομήσετε μνήμη, μπορείτε να αποφασίσετε να φορτώσετε δεδομένα EPG μόνο για τα κανάλια IPTV."
 
-#: plugin.py:658
+msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
+msgstr "Για να εξοικονομήσετε μνήμη, μπορείτε να αποφασίσετε να φορτώσετε δεδομένα EPG μόνο για τις υπηρεσίες που έχετε στα αρχεία ανθοδέσμης σας."
 
-#: plugin.py:669
-msgid "No active EPG sources found, nothing to do"
-msgstr "Δεν βρέθηκαν ενεργές πηγές EPG, καμία ενέργεια"
+msgid "Tuesday"
+msgstr "Τρίτη"
 
-#: plugin.py:673
+msgid "Update Sources"
+msgstr "Ενημέρωση πηγών"
 
-#: plugin.py:685
+msgid "Wednesday"
+msgstr "Τετάρτη"
 
-#: plugin.py:701
-msgid "Show log"
-msgstr "Εμφάνιση καταγραφής"
+msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
+msgstr "Όταν είναι ενεργοποιημένο, σας επιτρέπει να προγραμματίσετε μια αυτόματη ενημέρωση EPG τις δεδομένες ημέρες και ώρα."
 
-#: plugin.py:753
-#, fuzzy
-#| msgid "EPG-Importer"
-msgid "Import"
-msgstr "Εισαγωγή-EPG"
+msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
+msgstr "Όταν είναι ενεργοποιημένο, τότε μπορείτε να εκτελέσετε το επιθυμητό σενάριο πριν ξεκινήσετε την εισαγωγή και μετά θα ξεκινήσει η εισαγωγή του EPG."
 
-#: plugin.py:754
-msgid "Import from Git"
-msgstr ""
+msgid "When in deep standby"
+msgstr "Όταν βρίσκεται σε βαθιά αναμονή"
 
-#: plugin.py:795
-msgid "EPG Import Sources"
-msgstr "Πηγές Εισαγωγής EPG"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Όταν αποφασίσετε να εισαγάγετε το EPG μετά την εκκίνηση του πλαισίου αναφέρετε εάν το \\\\\\\\"
 
-#: plugin.py:801
+msgid "When you restart the GUI you can decide to skip or not the EPG data import."
+msgstr "Όταν κάνετε επανεκκίνηση του GUI, μπορείτε να αποφασίσετε να παραλείψετε ή όχι την εισαγωγή δεδομένων EPG."
 
-#: plugin.py:830
-msgid "Source files Imported and List Updated!"
-msgstr ""
-
-#: plugin.py:837
-#, python-format
-msgid "Update Failed: %s"
-msgstr ""
-
-#: plugin.py:844
-msgid "Update Aborted!"
-msgstr ""
-
-#: plugin.py:1014
-msgid "Days Profile"
-msgstr "Προφίλ Ημερών"
-
-#: plugin.py:1020
-
-#: plugin.py:1069
-msgid "Clear"
-msgstr "Καθαρισμός"
-
-#: plugin.py:1100
-msgid "EPG Import Log"
-msgstr "Καταγραφή Εισαγωγής EPG"
-
-#: plugin.py:1106
 msgid "Write to /tmp/epgimport.log"
-msgstr "Εγγραφή στο /tmp/EPGimport.log"
+msgstr "Γράψτε στο /tmp/epgimport.log"
 
-#: plugin.py:1122
-msgid "Last import: "
-msgstr "Τελευταία εισαγωγή: "
+msgid "You can select the day(s) when the EPG update must be performed."
+msgstr "Μπορείτε να επιλέξετε τις ημέρες κατά τις οποίες πρέπει να εκτελεστεί η ενημέρωση EPG."
 
-#: plugin.py:1122
-msgid " events\n"
-msgstr " προγράμματα\n"
+msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
+msgstr "Μπορείτε να ξεκινήσετε αυτόματα το πρόσθετο AutoTimer μετά την ενημέρωση δεδομένων EPG για να ανανεώσει τον προγραμματισμό του μετά την ανανέωση δεδομένων EPG."
 
-#: plugin.py:1122
+msgid "always"
+msgstr "πάντοτε"
 
-#: plugin.py:1170
-#, python-format
-msgid "EPG Import finished, %d events"
-msgstr "Η εισαγωγή EPG ολοκληρώθηκε, %d προγράμματα"
+msgid "events\\\\\\\\n"
+msgstr "εκδηλώσεις\\\\\\\\n"
 
-#: plugin.py:1170
+msgid "never"
+msgstr "ποτέ"
 
-#: plugin.py:1311
-msgid "No source file found !"
-msgstr ""
+msgid "only automatic boot"
+msgstr "μόνο αυτόματη εκκίνηση"
 
-#: plugin.py:1512 plugin.py:1535
-#, fuzzy
-#| msgid "EPG Import Log"
-msgid "EPG Import"
-msgstr "Καταγραφή Εισαγωγής EPG"
+msgid "only manual boot"
+msgstr "μόνο χειροκίνητη εκκίνηση"
 
-#: plugin.py:1527
-msgid "Automated EPG Importer"
-msgstr "Αυτοματοποιημένη Eισαγωγή EPG"
+msgid "press OK to save list"
+msgstr "πατήστε OK για αποθήκευση της λίστας"
 
-#: plugin.py:1529
-#, fuzzy
-#| msgid "EPG-Importer"
-msgid "EPG-Importer Now"
-msgstr "Εισαγωγή-EPG"
+msgid "skip the import"
+msgstr "παραλείψτε την εισαγωγή"
 
-#~ msgid "Import current source"
-#~ msgstr "Εισαγωγή τρέχουσας πηγής"
+msgid "wake up and import"
+msgstr "ξυπνήστε και εισάγετε"
+

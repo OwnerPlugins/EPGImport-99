@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "افزودن کانال"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "ارائه دهنده را اضافه کنید"
 
 msgid "All services provider"
-msgstr ""
+msgstr "ارائه دهنده کلیه خدمات"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "همچنین اعمال کنید \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "وارد کننده خودکار EPG"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG واردات خودکار"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "زمان شروع خودکار"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغو کنید"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "روزهای انتخابی برای شروع واردات"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "دایرکتوری را انتخاب کنید:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "دایرکتوری را انتخاب کنید"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "زمانی که جعبه در حالت آماده به کار عمیق است و به‌روزرسانی خودکار EPG معمولاً باید شروع شود، اقدامی را انتخاب کنید."
 
 msgid "Clear"
-msgstr ""
+msgstr "پاک کردن"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "تنظیم \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "نمایه روزهای"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "تعداد روزهایی را که می‌خواهید اطلاعات کامل EPG را دریافت کنید، مشخص کنید، کاهش این تعداد می‌تواند به شما کمک کند مصرف حافظه را در جعبه خود ذخیره کنید. اما شما با داده های موجود ارائه دهنده EPG نیز محدود هستید. اگر فقط داده های 7 روزه را ارائه دهد، 15 روز EPG نخواهید داشت."
 
 msgid "Delete all"
-msgstr ""
+msgstr "همه را حذف کنید"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "EPG فعلی را قبل از وارد کردن حذف کنید"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "حذف انتخاب شده"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "نمایش میانبر \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "واردات EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "پیکربندی واردات EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "گزارش واردات EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "منابع واردات EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "واردات EPG تمام شد، %d رویداد"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "واردات EPG در حال حاضر"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGIimport"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "نام فرمان پوسته را وارد کنید."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "دستور shell را قبل از وارد کردن EPG اجرا کنید"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "فیلتر کردن: %s لطفا صبر کنید!"
 
 msgid "Friday"
-msgstr ""
+msgstr "جمعه"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "ساعاتی پس از آن واردات تکرار می شود"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "نادیده گرفتن لیست خدمات"
 
 msgid "Import"
-msgstr ""
+msgstr "واردات"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "وارد کردن با خطا انجام نشد: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "در حال وارد کردن: %s %s رویداد"
 
 msgid "Last import:"
-msgstr ""
+msgstr "آخرین واردات:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "آخرین وارد کردن: %s %s، %d رویداد"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "آخرین وارد کردن: %s رویداد"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "بارگذاری EPG فقط برای کانال های IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "خدمات فقط EPG را در دسته‌های گل بارگیری کنید"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "توضیحات طولانی را تا X روز بارگیری کنید"
 
 msgid "Manual"
-msgstr ""
+msgstr "دستی"
 
 msgid "Monday"
-msgstr ""
+msgstr "دوشنبه"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "هیچ منبع فعال EPG یافت نشد، کاری برای انجام دادن ندارد"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "هیچ فایل منبعی پیدا نشد!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "تعداد ساعات (1-23، یا 0 برای عدم تکرار) که پس از آن واردات تکرار می شود. این مقدار ذخیره نمی شود و با راه اندازی مجدد رابط کاربری گرافیکی بازنشانی می شود."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "مسیر DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "OK را فشار دهید"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "واقعاً همه فهرست حذف شود؟"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "پس از وارد کردن به حالت آماده به کار عمیق برگردید"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "AutoTimer را پس از وارد کردن اجرا کنید"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "انتخاب خود را انتخاب کنید"
 
 msgid "Saturday"
-msgstr ""
+msgstr "شنبه"
 
 msgid "Save"
-msgstr ""
+msgstr "ذخیره کنید"
 
 msgid "Select action"
-msgstr ""
+msgstr "اقدام را انتخاب کنید"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "انتخاب سرویس برای افزودن..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "تنظیمات با موفقیت ذخیره شد!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "نام فرمان Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "نمایش \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "نمایش گزارش"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "هنگام راه اندازی مجدد رابط کاربری گرافیکی، وارد کردن را رد کنید"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "منبع EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "منابع"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "منابع با موفقیت ذخیره شدند!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "مشخص کنید که در چه صورت باید EPG پس از بوت شدن جعبه به طور خودکار به روز شود."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "پوشه مسیر را برای ذخیره فایل EPG.dat مشخص کنید."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "منبع EPG را مشخص کنید."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "زمان به روز رسانی خودکار EPG را مشخص کنید."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "آماده به کار هنگام راه اندازی"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "پس از بوت کردن، وارد کردن را شروع کنید"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "پس از شروع مجدد از حالت آماده به کار، وارد کردن را شروع کنید."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "بعد از آماده به کار وارد کردن را شروع کنید"
 
 msgid "Sunday"
-msgstr ""
+msgstr "یکشنبه"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "جعبه بیدار شده پس از بیدار شدن خودکار واردات EPG به حالت آماده به کار تبدیل می شود."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "این برای کاربران پیشرفته ای است که از ویژگی فیلتر شناسه کانال استفاده می کنند. اگر فعال باشد، قوانین فیلتر تعریف شده در /etc/epgimport/channel_id_filter.conf نیز در فایل /etc/epgimport/custom.channels.xml شما اعمال خواهد شد."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "با این کار داده های EPG فعلی در حافظه قبل از به روز رسانی داده های EPG پاک می شود. این به شما امکان می‌دهد همیشه یک EPG جدید تمیز با آخرین داده‌های EPG داشته باشید، برای مثال در صورت تغییر برنامه بین تازه‌سازی، در غیر این صورت داده‌های EPG تجمعی هستند."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "این جعبه بیدار شده را پس از وارد کردن خودکار EPG به حالت آماده باش عمیق تبدیل می کند."
 
 msgid "Thursday"
-msgstr ""
+msgstr "پنج شنبه"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "برای صرفه جویی در حافظه می توانید تصمیم بگیرید که داده های EPG را فقط برای کانال های IPTV بارگیری کنید."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "برای صرفه جویی در حافظه، می توانید تصمیم بگیرید که داده های EPG را فقط برای سرویس هایی که در فایل های دسته گل خود دارید بارگیری کنید."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "سه شنبه"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "به روز رسانی منابع"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "چهارشنبه"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "هنگامی که فعال باشد، به شما امکان می دهد یک به روز رسانی خودکار EPG را در روزها و زمان معین برنامه ریزی کنید."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "هنگامی که فعال است، می توانید اسکریپت مورد نظر را قبل از شروع وارد کردن اجرا کنید و پس از آن وارد کردن EPG آغاز می شود."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "در حالت آماده باش عمیق"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "وقتی تصمیم به وارد کردن EPG بعد از بوت شدن کادر"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "هنگامی که رابط کاربری گرافیکی را مجددا راه اندازی می کنید، می توانید تصمیم بگیرید که از وارد کردن داده های EPG صرفنظر کنید یا خیر."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "در /tmp/epgimport.log بنویسید"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "می توانید روز(های) زمانی که باید به روز رسانی EPG انجام شود را انتخاب کنید."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "می‌توانید پس از به‌روزرسانی داده‌های EPG، افزونه AutoTimer را به‌طور خودکار راه‌اندازی کنید تا برنامه‌ریزی خود را پس از به‌روزرسانی داده‌های EPG به‌روزرسانی کند."
 
 msgid "always"
-msgstr ""
+msgstr "همیشه"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "رویدادها\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "هرگز"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "فقط بوت اتوماتیک"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "فقط بوت دستی"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "برای ذخیره لیست، OK را فشار دهید"
 
 msgid "skip the import"
-msgstr ""
+msgstr "از واردات صرف نظر کنید"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "بیدار شوید و وارد کنید"
+

@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Dodaj kanal"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Dodaj ponudnika"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Vsi ponudniki storitev"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Uporabi tudi \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Samodejni uvoznik EPG"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "Samodejni uvoz EPG"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Samodejni začetni čas"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Dnevi izbire za začetek uvoza"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Izberite imenik:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Izberite imenik"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Izberite dejanje, ki naj se izvede, ko je škatla v stanju globoke pripravljenosti in se samodejno zažene posodobitev EPG."
 
 msgid "Clear"
-msgstr ""
+msgstr "jasno"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Razmislite o nastavitvi \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Dnevi Profil"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Določite število dni, ko želite prejeti celotne podatke EPG, zmanjšanje tega števila vam lahko pomaga prihraniti porabo pomnilnika v vašem predalu. Omejeni pa ste tudi pri razpoložljivih podatkih ponudnika EPG. Ne boste imeli 15-dnevnega EPG-ja, če zagotavlja le podatke za 7 dni."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Izbriši vse"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Izbrišite trenutni EPG pred uvozom"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Izbriši izbrano"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Prikaži bližnjico \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Uvoz EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Konfiguracija uvoza EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Dnevnik uvoza EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Uvozni viri EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Uvoz EPG končan, %d dogodkov"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Uvoz EPG zdaj"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Vnesite ime ukaza lupine."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Pred uvozom EPG izvedite ukaz lupine"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Filtriranje: %s Počakajte!"
 
 msgid "Friday"
-msgstr ""
+msgstr "Petek"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Ure, po katerih se uvoz ponovi"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Prezri seznam storitev"
 
 msgid "Import"
-msgstr ""
+msgstr "Uvozi"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Uvoz ni uspel z napako: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Uvažanje: %s %s dogodkov"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Zadnji uvoz:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Zadnji uvoz: %s %s, %d dogodkov"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Zadnji uvoz: %s dogodkov"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Naloži EPG samo za kanale IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Naloži samo storitve EPG v šopke"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Naloži dolge opise do X dni"
 
 msgid "Manual"
-msgstr ""
+msgstr "Priročnik"
 
 msgid "Monday"
-msgstr ""
+msgstr "ponedeljek"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Ni aktivnih virov EPG, ni treba storiti"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Ni izvorne datoteke!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Število ur (1–23 ali 0, če ni ponovitve), po katerem se uvoz ponovi. Ta vrednost ni shranjena in bo ponastavljena ob ponovnem zagonu GUI."
 
 msgid "Path DB EPG"
 msgstr ""
 
 msgid "Press OK"
-msgstr ""
+msgstr "Pritisnite OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Res želite izbrisati ves seznam?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Vrnitev v globoko pripravljenost po uvozu"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Po uvozu zaženite AutoTimer"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "IZBERITE SVOJO IZBIRO"
 
 msgid "Saturday"
-msgstr ""
+msgstr "sobota"
 
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 msgid "Select action"
-msgstr ""
+msgstr "Izberite dejanje"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Izberite storitev za dodajanje ..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Nastavitve uspešno shranjene!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Ime ukaza lupine"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Prikaži \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Prikaži dnevnik"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Preskoči uvoz ob ponovnem zagonu GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Vir EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Viri"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Viri so uspešno shranjeni!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Določite, v katerem primeru se mora EPG samodejno posodobiti po zagonu škatle."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Določite mapo poti za shranjevanje datoteke EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Določite vir za EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Določite čas za samodejno posodobitev EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Pripravljenost ob zagonu"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Zaženite uvoz po zagonu"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Zaženite uvoz po nadaljevanju iz stanja pripravljenosti."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Zaženi uvoz po stanju pripravljenosti"
 
 msgid "Sunday"
-msgstr ""
+msgstr "nedelja"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Prebujeno polje bo po prebujanju samodejnega uvoza EPG prešlo v stanje pripravljenosti."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "To je za napredne uporabnike, ki uporabljajo funkcijo filtriranja ID-ja kanala. Če je omogočeno, bodo pravila filtra, definirana v /etc/epgimport/channel_id_filter.conf, uporabljena tudi v vaši datoteki /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "To bo izbrisalo trenutne podatke EPG v pomnilniku pred posodobitvijo podatkov EPG. To vam omogoča, da imate vedno čist nov EPG z najnovejšimi podatki EPG, na primer v primeru sprememb programa med osveževanjem, sicer so podatki EPG kumulativni."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "To bo po samodejnem uvozu EPG ponovno preklopilo prebujeno škatlo v globoko pripravljenost."
 
 msgid "Thursday"
-msgstr ""
+msgstr "četrtek"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Da prihranite pomnilnik, se lahko odločite za nalaganje podatkov EPG samo za kanale IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Da prihranite pomnilnik, se lahko odločite, da naložite samo podatke EPG za storitve, ki jih imate v svojih datotekah šopkov."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "torek"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Posodobi vire"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "sreda"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Ko je omogočeno, vam omogoča načrtovanje samodejne posodobitve EPG ob danih dnevih in urah."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Ko je omogočeno, lahko pred začetkom uvoza zaženete želeni skript, po katerem se začne uvoz EPG."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Ko je v globoki pripravljenosti"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Ko se odločite uvoziti EPG po zagonu škatle, omenite, če \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Ko znova zaženete GUI, se lahko odločite, ali želite preskočiti uvoz podatkov EPG ali ne."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Pišite v /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Izberete lahko dan(-e), ko je treba posodobiti EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Po posodobitvi podatkov EPG lahko samodejno zaženete vtičnik AutoTimer, da osveži svoj razpored po osvežitvi podatkov EPG."
 
 msgid "always"
-msgstr ""
+msgstr "vedno"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "dogodki\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "nikoli"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "samo samodejni zagon"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "samo ročni zagon"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "pritisnite OK, da shranite seznam"
 
 msgid "skip the import"
-msgstr ""
+msgstr "preskoči uvoz"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "zbudi in uvozi"
+

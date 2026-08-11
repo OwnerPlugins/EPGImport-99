@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "Adăugați un canal"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "Adăugați furnizorul"
 
 msgid "All services provider"
-msgstr ""
+msgstr "Furnizorul tuturor serviciilor"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "Aplică și \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "Importator EPG automat"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG de import automat"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "Ora de pornire automată"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anula"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "Alegeți zile pentru începerea importului"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Alegeți directorul:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Alegeți directorul"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "Alegeți acțiunea de efectuat când caseta este în standby profund și actualizarea automată a EPG ar trebui să înceapă în mod normal."
 
 msgid "Clear"
-msgstr ""
+msgstr "Clar"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "Luați în considerare setarea \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "Profilul zilelor"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "Definiți numărul de zile în care doriți să obțineți datele EPG complete, reducerea acestui număr vă poate ajuta să economisiți utilizarea memoriei pe cutia dvs. Dar sunteți, de asemenea, limitat cu datele disponibile ale furnizorului EPG. Nu veți avea EPG de 15 zile dacă oferă doar date de 7 zile."
 
 msgid "Delete all"
-msgstr ""
+msgstr "Ștergeți tot"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "Ștergeți EPG-ul curent înainte de import"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "Ștergeți selectat"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "Afișează o comandă rapidă \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "Import EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "Configurare import EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "Jurnal de import EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "Surse de import EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "Importul EPG s-a încheiat, %d evenimente"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "Import EPG acum"
 
 msgid "EPGImport"
 msgstr ""
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "Introduceți numele comenzii shell."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "Executați comanda shell înainte de a importa EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "Filtrare: %s Vă rugăm să așteptați!"
 
 msgid "Friday"
-msgstr ""
+msgstr "vineri"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "Ore după care se repetă importul"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "Ignorați lista de servicii"
 
 msgid "Import"
 msgstr ""
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "Importul a eșuat cu eroare: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "Se importă: %s %s evenimente"
 
 msgid "Last import:"
-msgstr ""
+msgstr "Ultimul import:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "Ultimul import: %s %s, %d evenimente"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "Ultimul import: %s evenimente"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "Încărcați EPG numai pentru canalele IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "Încărcați numai servicii EPG în buchete"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "Încărcați descrieri lungi de până la X zile"
 
 msgid "Manual"
 msgstr ""
 
 msgid "Monday"
-msgstr ""
+msgstr "luni"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "Nu au fost găsite surse EPG active, nimic de făcut"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "Nu a fost găsit niciun fișier sursă!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "Numărul de ore (1-23 sau 0 pentru fără repetare) după care se repetă importul. Această valoare nu este salvată și va fi resetată la repornirea GUI."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "Calea DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "Apăsați OK"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "Ștergeți cu adevărat toată lista?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "Reveniți la standby profund după import"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "Rulați AutoTimer după import"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SELECTAȚI ALEGEREA DVS"
 
 msgid "Saturday"
-msgstr ""
+msgstr "sâmbătă"
 
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Select action"
-msgstr ""
+msgstr "Selectați acțiunea"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "Selectați serviciul pentru a adăuga..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Setările au fost salvate cu succes!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "Numele comenzii Shell"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "Arată \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "Afișează jurnalul"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "Omiteți importul la repornirea GUI"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "Sursa EPG"
 
 msgid "Sources"
-msgstr ""
+msgstr "Surse"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "Surse salvate cu succes!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "Specificați în ce caz EPG-ul trebuie actualizat automat după ce caseta a pornit."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "Specificați folderul de cale pentru salvarea fișierului EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "Specificați sursa pentru EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "Specificați ora pentru actualizarea automată a EPG."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "Standby la pornire"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "Începeți importul după pornire"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "Începeți importul după reluarea din modul de așteptare."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "Începeți importul după standby"
 
 msgid "Sunday"
-msgstr ""
+msgstr "duminică"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "Caseta de trezire va fi transformată în standby după activarea automată a importului EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "Acesta este pentru utilizatorii avansați care folosesc funcția de filtrare a ID-ului canalului. Dacă sunt activate, regulile de filtrare definite în /etc/epgimport/channel_id_filter.conf vor fi aplicate și pe fișierul dvs. /etc/epgimport/custom.channels.xml."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "Aceasta va șterge datele EPG curente din memorie înainte de a actualiza datele EPG. Acest lucru vă permite să aveți întotdeauna un nou EPG curat, cu cele mai recente date EPG, de exemplu în cazul schimbărilor de program între reîmprospătare, altfel datele EPG sunt cumulative."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "Aceasta va transforma cutia trezită înapoi în starea de așteptare profundă după importul automat EPG."
 
 msgid "Thursday"
-msgstr ""
+msgstr "joi"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "Pentru a economisi memorie, puteți decide să încărcați date EPG numai pentru canalele IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "Pentru a economisi memorie, puteți decide să încărcați numai date EPG pentru serviciile pe care le aveți în fișierele buchet."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "marţi"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "Surse de actualizare"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "miercuri"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "Când este activat, vă permite să programați o actualizare automată EPG la zilele și la ora dată."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "Când este activat, puteți rula scriptul dorit înainte de a începe importul, după care va începe importul EPG."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "Când se află în standby profund"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "Când decideți să importați EPG-ul după pornirea casetei, menționați dacă \\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "Când reporniți GUI, puteți decide să omiteți sau nu importarea datelor EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "Scrieți în /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "Puteți selecta ziua (zile) în care trebuie efectuată actualizarea EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "Puteți porni automat pluginul AutoTimer după actualizarea datelor EPG pentru a-l reîmprospăta programarea după reîmprospătarea datelor EPG."
 
 msgid "always"
-msgstr ""
+msgstr "întotdeauna"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "evenimente\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "nu"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "doar boot automat"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "doar boot manual"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "apăsați OK pentru a salva lista"
 
 msgid "skip the import"
-msgstr ""
+msgstr "sări peste import"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "trezeste-te si import"
+

@@ -16,301 +16,302 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Add Channel"
-msgstr ""
+msgstr "הוסף ערוץ"
 
 msgid "Add Provider"
-msgstr ""
+msgstr "הוסף ספק"
 
 msgid "All services provider"
-msgstr ""
+msgstr "כל ספק השירותים"
 
-msgid "Also apply \"
-msgstr ""
+msgid "Also apply \\\\\\\\"
+msgstr "החל גם \\\\\\\\"
 
 msgid "Automated EPG Importer"
-msgstr ""
+msgstr "יבואן EPG אוטומטי"
 
 msgid "Automatic import EPG"
-msgstr ""
+msgstr "EPG ייבוא ​​אוטומטי"
 
 msgid "Automatic start time"
-msgstr ""
+msgstr "זמן התחלה אוטומטי"
 
 msgid "Cancel"
-msgstr ""
+msgstr "לְבַטֵל"
 
 msgid "Choice days for start import"
-msgstr ""
+msgstr "ימי בחירה לתחילת היבוא"
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "בחר ספרייה:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "בחר ספרייה"
 
 msgid "Choose the action to perform when the box is in deep standby and the automatic EPG update should normally start."
-msgstr ""
+msgstr "בחר את הפעולה לביצוע כאשר התיבה נמצאת במצב המתנה עמוק ועדכון ה-EPG האוטומטי אמור להתחיל בדרך כלל."
 
 msgid "Clear"
-msgstr ""
+msgstr "בָּרוּר"
 
-msgid "Consider setting \"
-msgstr ""
+msgid "Consider setting \\\\\\\\"
+msgstr "שקול להגדיר \\\\\\\\"
 
 msgid "Days Profile"
-msgstr ""
+msgstr "פרופיל ימים"
 
 msgid "Define the number of days that you want to get the full EPG data, reducing this number can help you to save memory usage on your box. But you are also limited with the EPG provider available data. You will not have 15 days EPG if it only provide 7 days data."
-msgstr ""
+msgstr "הגדר את מספר הימים שברצונך לקבל את נתוני ה-EPG המלאים, הפחתת מספר זה יכולה לעזור לך לחסוך בשימוש בזיכרון בקופסה שלך. אבל אתה גם מוגבל עם הנתונים הזמינים של ספק ה-EPG. לא יהיה לך EPG של 15 ימים אם הוא מספק נתונים של 7 ימים בלבד."
 
 msgid "Delete all"
-msgstr ""
+msgstr "מחק הכל"
 
 msgid "Delete current EPG before import"
-msgstr ""
+msgstr "מחק את ה-EPG הנוכחי לפני הייבוא"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "מחק את הבחירה"
 
-msgid "Display a shortcut \"
-msgstr ""
+msgid "Display a shortcut \\\\\\\\"
+msgstr "הצג קיצור \\\\\\\\"
 
 msgid "EPG Import"
-msgstr ""
+msgstr "ייבוא ​​EPG"
 
 msgid "EPG Import Configuration"
-msgstr ""
+msgstr "תצורת ייבוא ​​EPG"
 
 msgid "EPG Import Log"
-msgstr ""
+msgstr "יומן ייבוא ​​EPG"
 
 msgid "EPG Import Sources"
-msgstr ""
+msgstr "מקורות ייבוא ​​EPG"
 
 msgid "EPG Import finished, %d events"
-msgstr ""
+msgstr "ייבוא ​​EPG הסתיים, %d אירועים"
 
 msgid "EPG import now"
-msgstr ""
+msgstr "ייבוא ​​EPG עכשיו"
 
 msgid "EPGImport"
-msgstr ""
+msgstr "EPGIimport"
 
 msgid "Enter shell command name."
-msgstr ""
+msgstr "הזן שם פקודת מעטפת."
 
 msgid "Execute shell command before import EPG"
-msgstr ""
+msgstr "בצע פקודת מעטפת לפני ייבוא ​​EPG"
 
 msgid "Filtering: %s Please wait!"
-msgstr ""
+msgstr "סינון: %s אנא המתן!"
 
 msgid "Friday"
-msgstr ""
+msgstr "יוֹם שִׁישִׁי"
 
 msgid "Hours after which the import is repeated"
-msgstr ""
+msgstr "שעות לאחר מכן הייבוא ​​חוזר על עצמו"
 
 msgid "Ignore services list"
-msgstr ""
+msgstr "התעלם מרשימת השירותים"
 
 msgid "Import"
-msgstr ""
+msgstr "יְבוּא"
 
 msgid "Import failed with error: {}"
-msgstr ""
+msgstr "הייבוא ​​נכשל עם שגיאה: {}"
 
 msgid "Importing: %s %s events"
-msgstr ""
+msgstr "מייבא: %s %s אירועים"
 
 msgid "Last import:"
-msgstr ""
+msgstr "ייבוא ​​אחרון:"
 
 msgid "Last import: %s %s, %d events"
-msgstr ""
+msgstr "ייבוא ​​אחרון: %s %s, %d אירועים"
 
 msgid "Last import: %s events"
-msgstr ""
+msgstr "ייבוא ​​אחרון: %s אירועים"
 
 msgid "Load EPG only for IPTV channels"
-msgstr ""
+msgstr "טען EPG רק עבור ערוצי IPTV"
 
 msgid "Load EPG only services in bouquets"
-msgstr ""
+msgstr "טען שירותי EPG בלבד בזרי פרחים"
 
 msgid "Load long descriptions up to X days"
-msgstr ""
+msgstr "טען תיאורים ארוכים עד X ימים"
 
 msgid "Manual"
-msgstr ""
+msgstr "יָדָנִי"
 
 msgid "Monday"
-msgstr ""
+msgstr "יוֹם שֵׁנִי"
 
 msgid "No active EPG sources found, nothing to do"
-msgstr ""
+msgstr "לא נמצאו מקורות EPG פעילים, אין מה לעשות"
 
 msgid "No source file found !"
-msgstr ""
+msgstr "לא נמצא קובץ מקור!"
 
 msgid "Number of hours (1-23, or 0 for no repeat) after which the import is repeated. This value is not saved and will be reset when the GUI restarts."
-msgstr ""
+msgstr "מספר השעות (1-23, או 0 ללא חזרה) שלאחר מכן הייבוא ​​חוזר על עצמו. ערך זה לא נשמר והוא יאופס כאשר ה-GUI יופעל מחדש."
 
 msgid "Path DB EPG"
-msgstr ""
+msgstr "נתיב DB EPG"
 
 msgid "Press OK"
-msgstr ""
+msgstr "לחץ על אישור"
 
 msgid "Really delete all list?"
-msgstr ""
+msgstr "באמת למחוק את כל הרשימה?"
 
 msgid "Return to deep standby after import"
-msgstr ""
+msgstr "חזור למצב המתנה עמוק לאחר הייבוא"
 
 msgid "Run AutoTimer after import"
-msgstr ""
+msgstr "הפעל את AutoTimer לאחר הייבוא"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "בחר את הבחירה שלך"
 
 msgid "Saturday"
-msgstr ""
+msgstr "שַׁבָּת"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Select action"
-msgstr ""
+msgstr "בחר פעולה"
 
 msgid "Select service to add..."
-msgstr ""
+msgstr "בחר שירות להוספה..."
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ההגדרות נשמרו בהצלחה!"
 
 msgid "Shell command name"
-msgstr ""
+msgstr "שם פקודת מעטפת"
 
-msgid "Show \"
-msgstr ""
+msgid "Show \\\\\\\\"
+msgstr "הצג \\\\\\\\"
 
 msgid "Show log"
-msgstr ""
+msgstr "הצג יומן"
 
 msgid "Skip import on restart GUI"
-msgstr ""
+msgstr "דלג על ייבוא ​​בהפעלה מחדש של ממשק המשתמש"
 
 msgid "Source EPG"
-msgstr ""
+msgstr "EPG מקור"
 
 msgid "Sources"
-msgstr ""
+msgstr "מקורות"
 
 msgid "Sources saved successfully!"
-msgstr ""
+msgstr "המקורות נשמרו בהצלחה!"
 
 msgid "Specify in which case the EPG must be automatically updated after the box has booted."
-msgstr ""
+msgstr "ציין באיזה מקרה יש לעדכן את ה-EPG באופן אוטומטי לאחר אתחול התיבה."
 
 msgid "Specify the path folder for save EPG.dat file."
-msgstr ""
+msgstr "ציין את תיקיית הנתיב עבור קובץ השמירה EPG.dat."
 
 msgid "Specify the source for EPG."
-msgstr ""
+msgstr "ציין את המקור עבור EPG."
 
 msgid "Specify the time for the automatic EPG update."
-msgstr ""
+msgstr "ציין את הזמן עבור עדכון ה-EPG האוטומטי."
 
 msgid "Standby at startup"
-msgstr ""
+msgstr "המתנה בעת ההפעלה"
 
 msgid "Start import after booting up"
-msgstr ""
+msgstr "התחל לייבא לאחר האתחול"
 
 msgid "Start import after resuming from standby mode."
-msgstr ""
+msgstr "התחל את הייבוא ​​לאחר חידוש ממצב המתנה."
 
 msgid "Start import after standby"
-msgstr ""
+msgstr "התחל לייבא לאחר המתנה"
 
 msgid "Sunday"
-msgstr ""
+msgstr "יוֹם רִאשׁוֹן"
 
 msgid "The waked up box will be turned into standby after automatic EPG import wake up."
-msgstr ""
+msgstr "תיבת ההתעוררות תהפוך למצב המתנה לאחר התעוררות אוטומטית של ייבוא ​​EPG."
 
 msgid "This is for advanced users that are using the channel id filtering feature. If enabled, the filter rules defined into /etc/epgimport/channel_id_filter.conf will also be applied on your /etc/epgimport/custom.channels.xml file."
-msgstr ""
+msgstr "זה מיועד למשתמשים מתקדמים שמשתמשים בתכונת סינון מזהי ערוץ. אם מופעל, כללי הסינון שהוגדרו ב-/etc/epgimport/channel_id_filter.conf יוחלו גם בקובץ /etc/epgimport/custom.channels.xml שלך."
 
 msgid "This will clear the current EPG data in memory before updating the EPG data. This allows you to always have a clean new EPG with the latest EPG data, for example in case of program changes between refresh, otherwise EPG data are cumulative."
-msgstr ""
+msgstr "פעולה זו תמחק את נתוני ה-EPG הנוכחיים בזיכרון לפני עדכון נתוני ה-EPG. זה מאפשר לך תמיד לקבל EPG חדש נקי עם נתוני ה-EPG העדכניים ביותר, למשל במקרה של שינויים בתוכנית בין רענון, אחרת נתוני EPG מצטברים."
 
 msgid "This will turn back waked up box into deep-standby after automatic EPG import."
-msgstr ""
+msgstr "זה יחזיר את תיבת ההתעוררות למצב המתנה עמוק לאחר ייבוא ​​EPG אוטומטי."
 
 msgid "Thursday"
-msgstr ""
+msgstr "יוֹם חֲמִישִׁי"
 
 msgid "To save memory you can decide to load EPG data only  for theIPTV channels."
-msgstr ""
+msgstr "כדי לחסוך בזיכרון אתה יכול להחליט לטעון נתוני EPG רק עבור ערוצי ה-IPTV."
 
 msgid "To save memory you can decide to only load EPG data for the services that you have in your bouquet files."
-msgstr ""
+msgstr "כדי לחסוך בזיכרון אתה יכול להחליט לטעון רק נתוני EPG עבור השירותים שיש לך בקבצי הזר שלך."
 
 msgid "Tuesday"
-msgstr ""
+msgstr "יוֹם שְׁלִישִׁי"
 
 msgid "Update Sources"
-msgstr ""
+msgstr "עדכן מקורות"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "יוֹם רְבִיעִי"
 
 msgid "When enabled, it allows you to schedule an automatic EPG update at the given days and time."
-msgstr ""
+msgstr "כאשר הוא מופעל, זה מאפשר לך לתזמן עדכון EPG אוטומטי בימים ובשעה הנתונים."
 
 msgid "When enabled, then you can run the desired script before starting the import, after which the import of the EPG will begin."
-msgstr ""
+msgstr "כאשר מופעל, אז אתה יכול להפעיל את הסקריפט הרצוי לפני תחילת הייבוא, ולאחר מכן ייבוא ​​ה-EPG יתחיל."
 
 msgid "When in deep standby"
-msgstr ""
+msgstr "במצב המתנה עמוק"
 
-msgid "When you decide to import the EPG after the box booted mention if the \"
-msgstr ""
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgstr "כאשר אתה מחליט לייבא את ה-EPG לאחר אתחול התיבה, ציין אם ה-\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
-msgstr ""
+msgstr "כאשר אתה מפעיל מחדש את ה-GUI אתה יכול להחליט לדלג או לא על ייבוא ​​הנתונים של EPG."
 
 msgid "Write to /tmp/epgimport.log"
-msgstr ""
+msgstr "כתוב אל /tmp/epgimport.log"
 
 msgid "You can select the day(s) when the EPG update must be performed."
-msgstr ""
+msgstr "אתה יכול לבחור את הימים שבהם יש לבצע את עדכון ה-EPG."
 
 msgid "You can start automatically the plugin AutoTimer after the EPG data update to have it refreshing its scheduling after EPG data refresh."
-msgstr ""
+msgstr "אתה יכול להפעיל אוטומטית את התוסף AutoTimer לאחר עדכון נתוני ה-EPG כדי לרענן את התזמון שלו לאחר רענון נתוני ה-EPG."
 
 msgid "always"
-msgstr ""
+msgstr "תָמִיד"
 
-msgid "events\n"
-msgstr ""
+msgid "events\\\\\\\\n"
+msgstr "אירועים\\\\\\\\n"
 
 msgid "never"
-msgstr ""
+msgstr "לְעוֹלָם לֹא"
 
 msgid "only automatic boot"
-msgstr ""
+msgstr "רק אתחול אוטומטי"
 
 msgid "only manual boot"
-msgstr ""
+msgstr "רק אתחול ידני"
 
 msgid "press OK to save list"
-msgstr ""
+msgstr "לחץ על אישור כדי לשמור את הרשימה"
 
 msgid "skip the import"
-msgstr ""
+msgstr "לדלג על הייבוא"
 
 msgid "wake up and import"
-msgstr ""
+msgstr "להתעורר ולייבא"
+
