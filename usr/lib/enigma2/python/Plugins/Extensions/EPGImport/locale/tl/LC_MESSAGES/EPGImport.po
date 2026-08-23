@@ -25,8 +25,8 @@ msgid "All services provider"
 msgstr "Lahat ng service provider"
 
 #, fuzzy
-msgid "Also apply \\\\\\\\"
-msgstr "Mag-apply din ng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Also apply \\\\"
+msgstr "Mag-apply din ng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Automated EPG Importer"
 msgstr ""
@@ -56,8 +56,8 @@ msgid "Clear"
 msgstr "Maaliwalas"
 
 #, fuzzy
-msgid "Consider setting \\\\\\\\"
-msgstr "Isaalang-alang ang pagtatakda ng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Consider setting \\\\"
+msgstr "Isaalang-alang ang pagtatakda ng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "Days Profile"
 msgstr "Profile ng mga Araw"
@@ -75,8 +75,8 @@ msgid "Delete selected"
 msgstr "Tanggalin ang napili"
 
 #, fuzzy
-msgid "Display a shortcut \\\\\\\\"
-msgstr "Magpakita ng shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "Display a shortcut \\\\"
+msgstr "Magpakita ng shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "EPG Import"
 msgstr "Pag-import ng EPG"
@@ -196,7 +196,7 @@ msgid "Shell command name"
 msgstr "Pangalan ng utos ng Shell"
 
 #, fuzzy
-msgid "Show \\\\\\\\"
+msgid "Show \\\\"
 msgstr "Ipakita ang log"
 
 msgid "Show log"
@@ -281,8 +281,8 @@ msgid "When in deep standby"
 msgstr "Kapag nasa malalim na standby"
 
 #, fuzzy
-msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
-msgstr "Kapag nagpasya kang i-import ang EPG pagkatapos ng pag-boot ng kahon ay binanggit kung ang \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\"
+msgstr "Kapag nagpasya kang i-import ang EPG pagkatapos ng pag-boot ng kahon ay binanggit kung ang \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
 msgstr "Kapag na-restart mo ang GUI maaari kang magpasya na laktawan o hindi ang pag-import ng data ng EPG."
@@ -299,9 +299,8 @@ msgstr "Maaari mong awtomatikong simulan ang plugin na AutoTimer pagkatapos ng p
 msgid "always"
 msgstr "palagi"
 
-#, fuzzy
-msgid "events\\\\\\\\n"
-msgstr "mga kaganapan\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgid "events\\\\n"
+msgstr "mga kaganapan\\\\\\\\n"
 
 msgid "never"
 msgstr "hindi kailanman"
@@ -320,6 +319,14 @@ msgstr "laktawan ang pag-import"
 
 msgid "wake up and import"
 msgstr "gumising ka at mag-import"
+
+#, fuzzy
+#~ msgid "Show \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+#~ msgstr "Ipakita ang log"
+
+#, fuzzy
+#~ msgid "events\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+#~ msgstr "mga kaganapan\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #~ msgid "Show \\\\\\\\\\\\\\\\"
 #~ msgstr "Ipakita ang \\\\\\\\\\\\\\\\"

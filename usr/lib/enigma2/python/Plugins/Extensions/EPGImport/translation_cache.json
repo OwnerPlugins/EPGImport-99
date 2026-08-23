@@ -1840,5 +1840,21 @@
   "8113387a31bf2c18f000f2a135fa9cbb": "指定 EPG 的來源。",
   "869bca95c074997bdf95a355faadb782": "啟動時待機",
   "60d742ffab7633e5ce8cf7480f62e026": "自動匯入 EPG 後，這會將喚醒的盒子返回深度待機狀態。",
-  "e4d4e174afecf62a8e3db2ab85f59b49": "寫入/tmp/epgimport.log"
+  "e4d4e174afecf62a8e3db2ab85f59b49": "寫入/tmp/epgimport.log",
+  "e1171fee51de46d3a611402da64ee5c4": "evenementen\\\\n",
+  "ad4004ea253d68d6f3812e2f095ba16b": "рӯйдодҳо\\\\n",
+  "82f87da2a43ee35082376b9267cf2dd7": "เหตุการณ์\\\\n",
+  "35db546cfc2450425918e0fba86b2a01": "hadysalar \\\\ n",
+  "c303b21ac6e3b118bfd6ad7e6999eb17": "mga kaganapan\\\\n",
+  "e80a6eb364a150314669d345f8722c89": "вакыйгалар \\\\ n",
+  "2de794a32e6fbd991d7f60a4b20e4a5b": "ھادىسىلەر \\\\ n",
+  "a948261a9abf0f186539a35cd157c9ba": "واقعات\\\\n",
+  "2d7f0c5b996ce222d2dc5d12fb72135b": "voqealar\\\\n",
+  "056a2600a76b4138645fb77a8a3f6bb2": "sự kiện\\\\n",
+  "d3adec99144a24d5295293f51006cdf9": "events\\\\n",
+  "ae786da4517e679dad88fbef32266e8f": "事件\\n",
+  "72eb96b8bc88ac4dd83175b9de722575": "事件\\n",
+  "22cc96a0a143a2f48ee38de58f69f2fa": "事件\\n",
+  "bce3b8a8b09afad388528c17eec9c7bc": "事件\\n",
+  "3a946cf53f90d42e8fb7f15b97f2116c": "事件\\n"
 }
