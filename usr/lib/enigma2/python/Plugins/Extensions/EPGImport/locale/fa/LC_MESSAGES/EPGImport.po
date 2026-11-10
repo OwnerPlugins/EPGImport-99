@@ -24,7 +24,7 @@ msgstr "ارائه دهنده را اضافه کنید"
 msgid "All services provider"
 msgstr "ارائه دهنده کلیه خدمات"
 
-msgid "Also apply \\\\\\\\"
+msgid "Also apply \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 msgstr ""
 
 msgid "Automated EPG Importer"
@@ -54,7 +54,7 @@ msgstr "زمانی که جعبه در حالت آماده به کار عمیق �
 msgid "Clear"
 msgstr "پاک کردن"
 
-msgid "Consider setting \\\\\\\\"
+msgid "Consider setting \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 msgstr ""
 
 msgid "Days Profile"
@@ -72,7 +72,7 @@ msgstr "EPG فعلی را قبل از وارد کردن حذف کنید"
 msgid "Delete selected"
 msgstr "حذف انتخاب شده"
 
-msgid "Display a shortcut \\\\\\\\"
+msgid "Display a shortcut \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 msgstr ""
 
 msgid "EPG Import"
@@ -193,7 +193,7 @@ msgid "Shell command name"
 msgstr "نام فرمان Shell"
 
 #, fuzzy
-msgid "Show \\\\\\\\"
+msgid "Show \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 msgstr "نمایش گزارش"
 
 msgid "Show log"
@@ -278,7 +278,7 @@ msgid "When in deep standby"
 msgstr "در حالت آماده باش عمیق"
 
 #, fuzzy
-msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\"
+msgid "When you decide to import the EPG after the box booted mention if the \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
 msgstr "وقتی تصمیم به وارد کردن EPG بعد از بوت شدن کادر"
 
 msgid "When you restart the GUI you can decide to skip or not the EPG data import."
@@ -296,7 +296,7 @@ msgstr "می‌توانید پس از به‌روزرسانی داده‌های 
 msgid "always"
 msgstr "همیشه"
 
-msgid "events\\\\\\\\n"
+msgid "events\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
 msgid "never"
